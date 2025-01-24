@@ -1,0 +1,16 @@
+# Sample site navigation bar links
+
+- title: ANASAYFA
+  url: /
+# - title: BLOG
+#   url: /blog/
+- title: KATEGORİLER
+  url: /kategoriler/
+# - title: TARİFLER
+#   url: /tarifler/
+- title: ETİKETLER
+  url: /etiketler/
+- title: ARA
+  url: /ara/
+- title: HAKKINDA
+  url: /hakkinda/
