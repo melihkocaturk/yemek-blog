@@ -19,11 +19,11 @@ layout: page
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy-section">
     <h2 class="taxonomy-title">{{ year.name }}</h2>
-    <div class="entries-{{ page.entries_layout | default: 'list' }}">
+    <ul>
       {% for entry in year.items %}
-        {% include entry.html %}
+        <li><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> — <time datetime="{{ entry.date | date: "%Y-%m-%d" }}">{{ entry.date | date: "%d.%-m.%Y" }}</time></li>
       {% endfor %}
-    </div>
+    </ul>
     <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}

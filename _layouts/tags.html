@@ -68,11 +68,11 @@ layout: page
       <h2 class="taxonomy-title">{{ tag_name }}</h2>
       {% for tag in site.tags %}
         {% if tag[0] == tag_name %}
-          <div class="entries-{{ page.entries_layout | default: 'list' }}">
+          <ul>
             {% for entry in tag.last %}
-              {% include entry.html %}
+              <li><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> — <time datetime="{{ entry.date | date: "%Y-%m-%d" }}">{{ entry.date | date: "%d.%-m.%Y" }}</time></li>
             {% endfor %}
-          </div>
+          </ul>
         {% endif %}
       {% endfor %}
       <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
