@@ -78,6 +78,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Permalinks
+permalink: /:title
+
 # Collections
 collections:
   recipes:
