@@ -34,7 +34,7 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: "G-J3008RYHE2"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
@@ -131,3 +131,9 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+owner:
+  google:
+    verify: "yFD4uw22ZTAqzsMkbqzD_8n4REHHdMmMU3DRkWQxaBY"
+  bing:
+    verify: "E431BE348360CBB8BD7A28E197658489"
