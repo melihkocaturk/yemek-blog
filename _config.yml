@@ -36,7 +36,7 @@ google_fonts:
     weights: "400,400i,700,700i"
 google_analytics: "G-J3008RYHE2"
 disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: kuzine
 twitter:
   username: # site's Twitter username
 
