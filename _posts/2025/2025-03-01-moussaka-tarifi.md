@@ -7,7 +7,7 @@ tags:
 image: 
   path: /images/2025/03/moussaka-tarifi.jpg
   thumbnail: /images/2025/03/moussaka-tarifi-thumb.jpg
-  caption: "Fotoğraf [Freepik](https://www.freepik.com)"
+  caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 
 Moussaka, özellikle Akdeniz mutfağının en sevilen yemeklerinden biridir ve farklı ülkelerde farklı versiyonları bulunur. Yunan mutfağında beşamel soslu olarak yapılırken, Orta Doğu’da patates veya kabak ile hazırlanan çeşitleri de vardır. Kat kat dizilmiş malzemeleri ve yoğun sosuyla hem doyurucu hem de lezzetli bir yemektir.
