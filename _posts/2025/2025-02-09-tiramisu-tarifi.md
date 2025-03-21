@@ -6,7 +6,6 @@ tags:
   - İtalyan Mutfağı
 image: 
   path: /images/2025/02/tiramisu-tarifi.jpg
-  thumbnail: /images/2025/02/tiramisu-tarifi-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

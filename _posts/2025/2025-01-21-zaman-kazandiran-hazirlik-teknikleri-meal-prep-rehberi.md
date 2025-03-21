@@ -4,7 +4,6 @@ categories:
   - Pratik Bilgiler
 image: 
   path: /images/2025/01/meal-prep-rehberi.jpg
-  thumbnail: /images/2025/01/meal-prep-rehberi-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

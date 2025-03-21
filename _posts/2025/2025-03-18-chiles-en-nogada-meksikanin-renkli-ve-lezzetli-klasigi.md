@@ -6,7 +6,6 @@ tags:
   - Meksika Mutfağı
 image: 
   path: /images/2025/03/chiles-en-nogada-meksikanin-renkli-ve-lezzetli-klasigi.jpg
-  thumbnail: /images/2025/03/chiles-en-nogada-meksikanin-renkli-ve-lezzetli-klasigi-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

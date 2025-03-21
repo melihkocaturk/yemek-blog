@@ -4,7 +4,6 @@ categories:
   - Yemek Tarifleri
 image: 
   path: /images/2025/03/borscht-tarifi.jpg
-  thumbnail: /images/2025/03/borscht-tarifi-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

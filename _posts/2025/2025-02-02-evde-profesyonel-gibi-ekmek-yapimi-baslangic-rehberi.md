@@ -4,7 +4,6 @@ categories:
   - Pratik Bilgiler
 image: 
   path: /images/2025/02/evde-profesyonel-gibi-ekmek-yapimi.jpg
-  thumbnail: /images/2025/02/evde-profesyonel-gibi-ekmek-yapimi-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

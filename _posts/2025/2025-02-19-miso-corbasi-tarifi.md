@@ -6,7 +6,6 @@ tags:
   - Japon Mutfağı
 image: 
   path: /images/2025/02/miso-corbasi-tarifi.jpg
-  thumbnail: /images/2025/02/miso-corbasi-tarifi-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

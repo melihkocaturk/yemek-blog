@@ -6,7 +6,6 @@ tags:
   - Hindistan Mutfağı
 image: 
   path: /images/2025/03/butter-chicken-tarifi.jpg
-  thumbnail: /images/2025/03/butter-chicken-tarifi-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

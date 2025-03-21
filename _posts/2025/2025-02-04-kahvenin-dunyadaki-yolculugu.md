@@ -4,7 +4,6 @@ categories:
   - Yemek Kültürü
 image: 
   path: /images/2025/02/kahvenin-dunyadaki-yolculugu.jpg
-  thumbnail: /images/2025/02/kahvenin-dunyadaki-yolculugu-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

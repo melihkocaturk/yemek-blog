@@ -6,7 +6,6 @@ tags:
   - İtalyan Mutfağı
 image: 
   path: /images/2025/02/margarita-pizza-tarifi.jpg
-  thumbnail: /images/2025/02/margarita-pizza-tarifi-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

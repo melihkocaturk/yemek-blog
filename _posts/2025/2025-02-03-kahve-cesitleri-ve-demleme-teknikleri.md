@@ -4,7 +4,6 @@ categories:
   - Pratik Bilgiler
 image: 
   path: /images/2025/02/kahve-cesitleri-ve-demleme-teknikleri.jpg
-  thumbnail: /images/2025/02/kahve-cesitleri-ve-demleme-teknikleri-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

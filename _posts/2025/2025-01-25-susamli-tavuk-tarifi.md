@@ -4,7 +4,6 @@ categories:
   - Yemek Tarifleri
 image: 
   path: /images/2025/01/susamli-tavuk-tarifi.jpg
-  thumbnail: /images/2025/01/susamli-tavuk-tarifi-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

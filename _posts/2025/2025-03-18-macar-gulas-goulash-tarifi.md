@@ -6,7 +6,6 @@ tags:
   - Macar Mutfağı
 image: 
   path: /images/2025/03/macar-gulas-goulash-tarifi.jpg
-  thumbnail: /images/2025/03/macar-gulas-goulash-tarifi-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

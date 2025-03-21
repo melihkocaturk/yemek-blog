@@ -4,7 +4,6 @@ categories:
   - Yemek Kültürü
 image: 
   path: /images/2025/02/edamame-kucuk-yesil-mucize.jpg
-  thumbnail: /images/2025/02/edamame-kucuk-yesil-mucize-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

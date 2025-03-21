@@ -4,7 +4,6 @@ categories:
   - Pratik Bilgiler
 image: 
   path: /images/2025/01/baharat-sanati-yemeklerinize-uygun-baharat-secimi.jpg
-  thumbnail: /images/2025/01/baharat-sanati-yemeklerinize-uygun-baharat-secimi-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

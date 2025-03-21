@@ -4,7 +4,6 @@ categories:
   - Yemek Tarifleri
 image: 
   path: /images/2025/02/kremali-mantar-corbasi-tarifi.jpg
-  thumbnail: /images/2025/02/kremali-mantar-corbasi-tarifi-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

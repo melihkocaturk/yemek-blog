@@ -4,7 +4,6 @@ categories:
   - Pratik Bilgiler
 image: 
   path: /images/2025/02/yemek-sunumu.jpg
-  thumbnail: /images/2025/02/yemek-sunumu-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

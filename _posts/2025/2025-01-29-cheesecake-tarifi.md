@@ -6,7 +6,6 @@ tags:
   - Amerikan Mutfağı
 image: 
   path: /images/2025/01/cheesecake-tarifi.jpg
-  thumbnail: /images/2025/01/cheesecake-tarifi-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

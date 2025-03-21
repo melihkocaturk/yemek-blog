@@ -6,7 +6,6 @@ tags:
   - Fransız Mutfağı
 image: 
   path: /images/2025/01/fransiz-tostu-tarifi.jpg
-  thumbnail: /images/2025/01/fransiz-tostu-tarifi-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

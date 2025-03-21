@@ -6,7 +6,6 @@ tags:
   - Sokak Yemekleri
 image: 
   path: /images/2025/01/sokak-yemeklerinin-yerel-topluluklardaki-rolu.jpg
-  thumbnail: /images/2025/01/sokak-yemeklerinin-yerel-topluluklardaki-rolu-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

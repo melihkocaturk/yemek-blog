@@ -4,7 +4,6 @@ categories:
   - Pratik Bilgiler
 image: 
   path: /images/2025/02/evde-fermente-lezzetler.jpg
-  thumbnail: /images/2025/02/evde-fermente-lezzetler-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

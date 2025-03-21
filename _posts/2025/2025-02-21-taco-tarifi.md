@@ -6,7 +6,6 @@ tags:
   - Meksika Mutfağı
 image: 
   path: /images/2025/02/taco-tarifi.jpg
-  thumbnail: /images/2025/02/taco-tarifi-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

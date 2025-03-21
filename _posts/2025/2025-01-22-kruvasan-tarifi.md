@@ -6,7 +6,6 @@ tags:
   - Fransız Mutfağı
 image: 
   path: /images/2025/01/kruvasan-tarifi.jpg
-  thumbnail: /images/2025/01/kruvasan-tarifi-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

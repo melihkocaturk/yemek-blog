@@ -6,7 +6,6 @@ tags:
   - Yunan Mutfağı
 image: 
   path: /images/2025/02/yunan-salatasi-tarifi.jpg
-  thumbnail: /images/2025/02/yunan-salatasi-tarifi-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

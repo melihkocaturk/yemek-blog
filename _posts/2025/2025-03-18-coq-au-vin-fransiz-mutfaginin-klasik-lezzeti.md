@@ -6,7 +6,6 @@ tags:
   - Fransız Mutfağı
 image: 
   path: /images/2025/03/coq-au-vin-fransiz-mutfaginin-klasik-lezzeti.jpg
-  thumbnail: /images/2025/03/coq-au-vin-fransiz-mutfaginin-klasik-lezzeti-thumb.jpg
 ---
 
 Fransız mutfağının en ünlü geleneksel yemeklerinden biri olan *Coq au Vin*, yavaş pişirilen ve aromalarla zenginleşen muhteşem bir tavuk yahnisidir. Kırmızı şarapla pişirilen bu yemek, özellikle soğuk kış günlerinde sofralara sıcaklık ve lezzet katar. Orijinal tarifinde horoz eti kullanılsa da, günümüzde genellikle tavuk eti tercih edilir. Soğan, mantar, havuç ve tütsülenmiş pastırma ile birlikte pişirilen Coq au Vin, uzun sürede kısık ateşte pişirildiğinde tüm lezzetlerin birbirine geçtiği enfes bir kıvama ulaşır.

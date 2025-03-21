@@ -6,7 +6,6 @@ tags:
   - Fransız Mutfağı
 image: 
   path: /images/2025/03/ratatouille-fransiz-mutfaginin-renkli-lezzeti.jpg
-  thumbnail: /images/2025/03/ratatouille-fransiz-mutfaginin-renkli-lezzeti-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

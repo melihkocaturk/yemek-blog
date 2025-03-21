@@ -4,7 +4,6 @@ categories:
   - Pratik Bilgiler
 image: 
   path: /images/2025/02/mutfakta-dogru-ekipman-secimi.jpg
-  thumbnail: /images/2025/02/mutfakta-dogru-ekipman-secimi-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

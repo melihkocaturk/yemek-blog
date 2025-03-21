@@ -6,7 +6,6 @@ tags:
   - Kore Mutfağı
 image: 
   path: /images/2025/03/kimchi-jjigae-tarifi.jpg
-  thumbnail: /images/2025/03/kimchi-jjigae-tarifi-thumb.jpg
   caption: "Fotoğraf [Freepik](https://www.freepik.com)"
 ---
 

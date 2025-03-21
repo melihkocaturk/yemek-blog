@@ -6,7 +6,6 @@ tags:
   - İtalyan Mutfağı
 image: 
   path: /images/2025/02/lazanya-tarifi.jpg
-  thumbnail: /images/2025/02/lazanya-tarifi-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 

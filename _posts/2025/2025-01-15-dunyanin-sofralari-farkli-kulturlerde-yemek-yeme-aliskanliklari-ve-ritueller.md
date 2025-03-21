@@ -4,7 +4,6 @@ categories:
   - Yemek Kültürü
 image: 
   path: /images/2025/01/farkli-kulturlerde-yemek-yeme-aliskanliklari-ve-ritueller.jpg
-  thumbnail: /images/2025/01/farkli-kulturlerde-yemek-yeme-aliskanliklari-ve-ritueller-thumb.jpg
   caption: "Fotoğraf [Pexels](https://www.pexels.com)"
 ---
 
