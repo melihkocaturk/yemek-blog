@@ -27,11 +27,11 @@ Rendang, Endonezya mutfağının en ünlü yemeklerinden biridir ve özellikle P
 
 ## Yapılışı:
 
-- Soğan, sarımsak, biber, zencefil ve zerdeçalı rondodan geçirerek püre haline getirin.
-- Geniş bir tencerede sıvı yağı ısıtıp bu karışımı 3-4 dakika kavurun.
-- Ardından dana etini ekleyip dışı mühürlenene kadar pişirin.
-- Üzerine hindistan cevizi sütünü, limon yapraklarını, tarçını ve tuzu ilave edin.
-- Kısık ateşte kapağı kapalı olarak yaklaşık 2-3 saat, ara ara karıştırarak pişirin. Suyunu çektikçe kıvam koyulaşacaktır.
-- Etler yumuşayıp sos koyulaştığında servis edebilirsiniz.
+1. Soğan, sarımsak, biber, zencefil ve zerdeçalı rondodan geçirerek püre haline getirin.
+2. Geniş bir tencerede sıvı yağı ısıtıp bu karışımı 3-4 dakika kavurun.
+3. Ardından dana etini ekleyip dışı mühürlenene kadar pişirin.
+4. Üzerine hindistan cevizi sütünü, limon yapraklarını, tarçını ve tuzu ilave edin.
+5. Kısık ateşte kapağı kapalı olarak yaklaşık 2-3 saat, ara ara karıştırarak pişirin. Suyunu çektikçe kıvam koyulaşacaktır.
+6. Etler yumuşayıp sos koyulaştığında servis edebilirsiniz.
 
 Afiyet olsun!

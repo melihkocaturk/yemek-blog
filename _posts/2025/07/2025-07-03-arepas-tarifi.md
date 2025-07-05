@@ -21,12 +21,12 @@ Arepas, özellikle Venezuela ve Kolombiya mutfağına ait geleneksel bir yemekti
 
 ## Yapılışı:
 
-- Geniş bir kaba 2 su bardağı ılık suyu koyun, içine tuzu ekleyip karıştırın.
-- Mısır ununu yavaş yavaş suya ekleyerek yoğurmaya başlayın. Hamur, ele yapışmayan yumuşak bir kıvama gelene kadar gerekirse su ilavesi yapın.
-- Hamurun üzerini örtüp 5 dakika dinlendirin.
-- Hamurdan mandalina büyüklüğünde parçalar alıp yuvarlayın ve yassılaştırarak yaklaşık 1 cm kalınlığında diskler haline getirin.
-- Tavada az miktarda yağla, orta ateşte her iki tarafını da altın rengini alana kadar (yaklaşık 5-6 dakika) pişirin.
-- Dilerseniz fırında 180°C’de 10 dakika daha pişirerek içinin daha iyi pişmesini sağlayabilirsiniz.
+1. Geniş bir kaba 2 su bardağı ılık suyu koyun, içine tuzu ekleyip karıştırın.
+2. Mısır ununu yavaş yavaş suya ekleyerek yoğurmaya başlayın. Hamur, ele yapışmayan yumuşak bir kıvama gelene kadar gerekirse su ilavesi yapın.
+3. Hamurun üzerini örtüp 5 dakika dinlendirin.
+4. Hamurdan mandalina büyüklüğünde parçalar alıp yuvarlayın ve yassılaştırarak yaklaşık 1 cm kalınlığında diskler haline getirin.
+5. Tavada az miktarda yağla, orta ateşte her iki tarafını da altın rengini alana kadar (yaklaşık 5-6 dakika) pişirin.
+6. Dilerseniz fırında 180°C’de 10 dakika daha pişirerek içinin daha iyi pişmesini sağlayabilirsiniz.
 
 ## Servis Önerisi:
 
