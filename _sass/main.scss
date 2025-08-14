@@ -1,0 +1,66 @@
+body {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  line-height: 1.7;
+}
+
+.site-logo {
+  max-width: 100px;
+}
+
+.site-title {
+  font-size: calc(1vw + 1rem);
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.25;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+  font-style: italic;
+}
+
+.bg-dark {
+  background-color: rgba($color: #000000, $alpha: 1.0) !important;
+}
+
+.nav-link {
+  font-size: 12px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.page-wrapper {
+  max-width: 800px;
+}
+
+footer {
+  border-top: 1px solid lightgray;
+}
+
+@media (min-width: 768px) {
+  .site-logo {
+    max-width: 110px;
+  }
+}
+
+@media (min-width: 992px) {
+  .site-logo {
+    max-width: 120px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .site-logo {
+    max-width: 130px;
+  }
+}

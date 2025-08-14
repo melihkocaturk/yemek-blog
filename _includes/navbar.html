@@ -1,0 +1,15 @@
+<nav class="navbar navbar-expand navbar-dark bg-dark">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse justify-content-center">
+      <ul class="navbar-nav">
+        {% for item in site.data.navigation %}
+          <li class="nav-item">
+            <a class="nav-link {% if page.url == item.link %}active{% endif %}" href="{{ item.link }}">
+              {{- item.name -}}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>

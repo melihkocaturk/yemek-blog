@@ -1,0 +1,8 @@
+- name: Anasayfa
+  link: /
+- name: Hakkında
+  link: /hakkinda
+- name: Ara
+  link: /ara
+- name: İletişim
+  link: mailto:info@kuzine.net.tr

@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<main class="container">
+  <div class="page-wrapper mx-auto">
+    
+    {% for post in paginator.posts %}
+      <article class="mb-5">
+        {% if post.image.path %}
+          <a href="{{ post.url }}"><img src="{{ post.image.path }}" class="img-fluid mb-4" alt="{{ post.title }}"></a>
+        {% endif %}
+        <h2 class="mb-3">{{ post.title }}</h2>
+        {{ post.excerpt }}
+        <p><a href="{{ post.url }}" class="text-black">Devamını Oku</a></p>
+      </article>
+    {% endfor %}
+
+    {% if paginator.total_pages > 1 %}
+      <nav>
+        <ul class="pagination justify-content-center">
+          {% if paginator.previous_page %}
+            <li class="page-item">
+              <a class="page-link text-black-50" href="{{ paginator.previous_page_path | relative_url }}">&laquo;</a>
+            </li>
+            <li class="page-item">
+              <a class="page-link text-black-50" href="{{ paginator.previous_page_path | relative_url }}">
+                {{ paginator.previous_page }}
+              </a>
+            </li>
+          {% endif %}
+          <li class="page-item">
+            <a class="page-link text-black" href="#">{{ paginator.page }}</a>
+          </li>
+          {% if paginator.next_page %}
+            <li class="page-item">
+              <a class="page-link text-black-50" href="{{ paginator.next_page_path | relative_url }}">
+                {{ paginator.next_page }}
+              </a>
+            </li>
+            <li class="page-item">
+              <a class="page-link text-black-50" href="{{ paginator.next_page_path | relative_url }}">&raquo;</a>
+            </li>
+          {% endif %}
+        </ul>
+      </nav>
+    {% endif %}
+
+  </div>
+</main>

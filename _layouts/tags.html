@@ -1,0 +1,20 @@
+---
+layout: page
+---
+
+<div class="mb-5">
+  {% for tag in site.tags %}
+    <a href="#{{ tag[0] }}" class="text-black">{{ tag[0] }}</a>&nbsp;
+  {% endfor %}
+</div>
+
+{% for tag in site.tags %}
+  <h2 id="{{ tag[0] }}" class="fs-5">{{ tag[0] }}</h2>
+  <ul>
+    {% for post in tag[1] %}
+      <li>
+        <a href="{{ post.url }}" class="text-black">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

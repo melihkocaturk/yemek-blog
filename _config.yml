@@ -1,0 +1,22 @@
+# Site
+url: "https://www.kuzine.net.tr"
+lang: tr
+title: Kuzine
+description: Yemek kültürüne keyifli bir yolculuk.
+logo: "/images/logo.png"
+
+# Permalinks
+permalink: /:title
+
+# Pagination
+paginate: 10
+paginate_path: /sayfa:num/
+
+# Google Analytics
+google_analytics: G-J3008RYHE2
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed

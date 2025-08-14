@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');\n@import \"main\";",
+		"body {\n  font-family: \"Merriweather\", serif;\n  font-optical-sizing: auto;\n  font-weight: 300;\n  font-style: normal;\n  font-variation-settings: \"wdth\" 100;\n  line-height: 1.7;\n}\n\n.site-logo {\n  max-width: 100px;\n}\n\n.site-title {\n  font-size: calc(1vw + 1rem);\n  font-weight: 700;\n  font-style: normal;\n  line-height: 1.25;\n  text-decoration: none;\n}\n\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-weight: 500;\n  font-style: italic;\n}\n\n.bg-dark {\n  background-color: rgba($color: #000000, $alpha: 1.0) !important;\n}\n\n.nav-link {\n  font-size: 12px;\n  font-weight: 400;\n  text-transform: uppercase;\n}\n\n.page-wrapper {\n  max-width: 800px;\n}\n\nfooter {\n  border-top: 1px solid lightgray;\n}\n\n@media (min-width: 768px) {\n  .site-logo {\n    max-width: 110px;\n  }\n}\n\n@media (min-width: 992px) {\n  .site-logo {\n    max-width: 120px;\n  }\n}\n\n@media (min-width: 1200px) {\n  .site-logo {\n    max-width: 130px;\n  }\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,OAAO,CAAC,8HAAI;ACAZ,AAAA,IAAI,CAAC,EACH,WAAW,EAAE,qBAAqB,EAClC,mBAAmB,EAAE,IAAI,EACzB,WAAW,EAAE,GAAG,EAChB,UAAU,EAAE,MAAM,EAClB,uBAAuB,EAAE,UAAU,EACnC,WAAW,EAAE,GAAG,GACjB;;AAED,AAAA,UAAU,CAAC,EACT,SAAS,EAAE,KAAK,GACjB;;AAED,AAAA,WAAW,CAAC,EACV,SAAS,EAAE,gBAAgB,EAC3B,WAAW,EAAE,GAAG,EAChB,UAAU,EAAE,MAAM,EAClB,WAAW,EAAE,IAAI,EACjB,eAAe,EAAE,IAAI,GACtB;;AAED,AAAA,EAAE,EACF,EAAE,EACF,EAAE,EACF,EAAE,EACF,EAAE,EACF,EAAE,CAAC,EACD,WAAW,EAAE,GAAG,EAChB,UAAU,EAAE,MAAM,GACnB;;AAED,AAAA,QAAQ,CAAC,EACP,gBAAgB,EAAe,KAAO,CAAe,UAAU,GAChE;;AAED,AAAA,SAAS,CAAC,EACR,SAAS,EAAE,IAAI,EACf,WAAW,EAAE,GAAG,EAChB,cAAc,EAAE,SAAS,GAC1B;;AAED,AAAA,aAAa,CAAC,EACZ,SAAS,EAAE,KAAK,GACjB;;AAED,AAAA,MAAM,CAAC,EACL,UAAU,EAAE,mBAAmB,GAChC;;AAED,MAAM,mBACJ,GAAA,AAAA,UAAU,CAAC,EACT,SAAS,EAAE,KAAK,GACjB,EAAA;;AAGH,MAAM,mBACJ,GAAA,AAAA,UAAU,CAAC,EACT,SAAS,EAAE,KAAK,GACjB,EAAA;;AAGH,MAAM,oBACJ,GAAA,AAAA,UAAU,CAAC,EACT,SAAS,EAAE,KAAK,GACjB,EAAA"
+}
