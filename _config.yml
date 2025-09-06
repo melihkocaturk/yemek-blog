@@ -4,6 +4,7 @@ lang: tr
 title: Kuzine
 description: Yemek kültürüne keyifli bir yolculuk.
 logo: "/images/logo.png"
+copyright: '<a href="https://www.melihkocaturk.com" class="text-black-50 text-decoration-none">Melih Kocatürk</a>'
 
 # Permalinks
 permalink: /:title
