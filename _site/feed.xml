@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-09-06T22:03:53+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Baklava Tarifi</title><link href="http://localhost:4000/baklava-tarifi" rel="alternate" type="text/html" title="Baklava Tarifi" /><published>2025-08-09T00:00:00+03:00</published><updated>2025-08-09T00:00:00+03:00</updated><id>http://localhost:4000/baklava-tarifi</id><content type="html" xml:base="http://localhost:4000/baklava-tarifi"><![CDATA[<p>Baklava, yüzyıllardır Anadolu’dan Orta Doğu’ya uzanan geniş bir coğrafyada bayramların, düğünlerin ve özel günlerin baş tacı olmuş bir tatlıdır. İncecik açılmış yufkaların arasına serpiştirilen bol ceviz veya fıstık, tereyağı ile harmanlanarak fırında nar gibi kızarır ve ardından şerbetle buluşarak eşsiz bir lezzete dönüşür. Kat kat açılan hamurun verdiği hafif çıtırlık ile şerbetin yumuşak dokusu, damakta unutulmaz bir uyum yaratır.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-11-27T00:26:03+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Clam Chowder Tarifi</title><link href="http://localhost:4000/clam-chowder-tarifi" rel="alternate" type="text/html" title="Clam Chowder Tarifi" /><published>2025-11-26T00:00:00+03:00</published><updated>2025-11-26T00:00:00+03:00</updated><id>http://localhost:4000/clam-chowder-tarifi</id><content type="html" xml:base="http://localhost:4000/clam-chowder-tarifi"><![CDATA[<p>Clam Chowder, özellikle Amerika’nın New England bölgesine özgü, yoğun kıvamlı ve doyurucu bir deniz ürünleri çorbasıdır. Deniz tarağı (clams), patates, soğan, kereviz ve kremanın birleşimiyle ortaya çıkan bu tarif, hem kış aylarında ısıtan hem de özel sofralarda şık bir başlangıç olarak sunulan klasik bir lezzettir. Ekmek kasesinde servis edildiğinde ise adeta bir gurme deneyime dönüşür.</p>
+
+<h2 id="malzemeler">Malzemeler:</h2>
+
+<ul>
+  <li>400 g konserve deniz tarağı (clams), suyu ayrılmış</li>
+  <li>3 adet patates (küçük küp doğranmış)</li>
+  <li>1 adet büyük soğan (doğranmış)</li>
+  <li>2 sap kereviz (ince doğranmış)</li>
+  <li>2 diş sarımsak (ezilmiş)</li>
+  <li>4 dilim bacon veya pastırma (opsiyonel, küçük doğranmış)</li>
+  <li>3 yemek kaşığı tereyağı</li>
+  <li>2 yemek kaşığı un</li>
+  <li>3 su bardağı tavuk veya sebze suyu</li>
+  <li>1 su bardağı krema</li>
+  <li>Tuz, karabiber</li>
+  <li>1 çay kaşığı kekik</li>
+  <li>1 defne yaprağı</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Tencereye bacon/pastırmayı alın ve hafifçe kızartın. Eğer kullanmıyorsanız doğrudan tereyağını ekleyerek başlayın.</li>
+  <li>Soğan, kereviz ve sarımsağı ekleyip yumuşayana kadar kavurun.</li>
+  <li>Tereyağını ilave edin, eriyince unu ekleyip hafifçe kavurun (roux kıvamı için).</li>
+  <li>Tavuk/sebze suyunu yavaşça ekleyin ve karıştırarak açın.</li>
+  <li>Patatesleri, kekik ve defne yaprağını ekleyip 10–12 dakika patatesler yumuşayana kadar pişirin.</li>
+  <li>Deniz tarağı etini ve konserve suyundan ½ su bardağı kadarını ekleyin.</li>
+  <li>Son olarak kremayı ilave edin, tuz-karabiber ayarını yapın ve 5 dakika daha kaynatın.</li>
+  <li>Serviste üzerine taze kekik veya karabiber serpebilirsiniz.</li>
+</ol>
+
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Amerikan Mutfağı" /><summary type="html"><![CDATA[Clam Chowder, özellikle Amerika’nın New England bölgesine özgü, yoğun kıvamlı ve doyurucu bir deniz ürünleri çorbasıdır. Deniz tarağı (clams), patates, soğan, kereviz ve kremanın birleşimiyle ortaya çıkan bu tarif, hem kış aylarında ısıtan hem de özel sofralarda şık bir başlangıç olarak sunulan klasik bir lezzettir. Ekmek kasesinde servis edildiğinde ise adeta bir gurme deneyime dönüşür.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/11/clam-chowder-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/11/clam-chowder-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Baklava Tarifi</title><link href="http://localhost:4000/baklava-tarifi" rel="alternate" type="text/html" title="Baklava Tarifi" /><published>2025-08-09T00:00:00+03:00</published><updated>2025-08-09T00:00:00+03:00</updated><id>http://localhost:4000/baklava-tarifi</id><content type="html" xml:base="http://localhost:4000/baklava-tarifi"><![CDATA[<p>Baklava, yüzyıllardır Anadolu’dan Orta Doğu’ya uzanan geniş bir coğrafyada bayramların, düğünlerin ve özel günlerin baş tacı olmuş bir tatlıdır. İncecik açılmış yufkaların arasına serpiştirilen bol ceviz veya fıstık, tereyağı ile harmanlanarak fırında nar gibi kızarır ve ardından şerbetle buluşarak eşsiz bir lezzete dönüşür. Kat kat açılan hamurun verdiği hafif çıtırlık ile şerbetin yumuşak dokusu, damakta unutulmaz bir uyum yaratır.</p>
 
 <p>Geleneksel baklava yapımı zahmetli görünse de, püf noktalarına dikkat edildiğinde evde de ustalar gibi sonuç almak mümkündür. En önemli sır, yufkaları olabildiğince ince açmak ve tereyağını her kata eşit şekilde dağıtmaktır. Şerbetin tatlıyla buluştuğu an, asıl sihrin başladığı noktadır; ne çok sıcak ne çok soğuk olmalıdır. İşte evinizde mis gibi kokan, altın sarısı renginde, çıtır çıtır bir baklava yapmanın tarifi…</p>
 
@@ -37,65 +70,7 @@
   <li>Fırından çıkan baklavanın ilk sıcaklığı geçince (ılık) üzerine sıcak şerbeti gezdirin.</li>
 </ol>
 
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Türk Mutfağı" /><summary type="html"><![CDATA[Baklava, yüzyıllardır Anadolu’dan Orta Doğu’ya uzanan geniş bir coğrafyada bayramların, düğünlerin ve özel günlerin baş tacı olmuş bir tatlıdır. İncecik açılmış yufkaların arasına serpiştirilen bol ceviz veya fıstık, tereyağı ile harmanlanarak fırında nar gibi kızarır ve ardından şerbetle buluşarak eşsiz bir lezzete dönüşür. Kat kat açılan hamurun verdiği hafif çıtırlık ile şerbetin yumuşak dokusu, damakta unutulmaz bir uyum yaratır.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/08/baklava-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/08/baklava-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Plov (Özbek Pilavı) Tarifi</title><link href="http://localhost:4000/plov-ozbek-pilavi-tarifi" rel="alternate" type="text/html" title="Plov (Özbek Pilavı) Tarifi" /><published>2025-07-12T00:00:00+03:00</published><updated>2025-07-12T00:00:00+03:00</updated><id>http://localhost:4000/plov-ozbek-pilavi-tarifi</id><content type="html" xml:base="http://localhost:4000/plov-ozbek-pilavi-tarifi"><![CDATA[<p>Orta Asya mutfağının en bilinen ve sevilen yemeklerinden biri olan Plov, özellikle Özbekistan’da düğünlerden aile sofralarına kadar her yerde başrolde yer alır. Et, pirinç ve sebzelerin uyum içinde piştiği bu nefis pilav, hem doyurucu hem de aromatik bir lezzet sunar. Genellikle kuzu etiyle yapılır, ancak dana eti ya da tavukla da hazırlanabilir. Baharatlar ve havuç sayesinde hafif tatlımsı ve yoğun aromalı bir tada sahiptir. Hem özel gün sofralarına hem de günlük yemek menülerine rahatça uyarlanabilir.</p>
-
-<h2 id="malzemeler">Malzemeler:</h2>
-
-<ul>
-  <li>500 g kuşbaşı kuzu eti (isteğe göre dana eti)</li>
-  <li>2 su bardağı baldo pirinç</li>
-  <li>2 adet büyük havuç (jülyen doğranmış)</li>
-  <li>2 adet orta boy soğan (yarım halka doğranmış)</li>
-  <li>4 yemek kaşığı sıvı yağ</li>
-  <li>1 yemek kaşığı tereyağı</li>
-  <li>1 baş sarımsak (bütün olarak, kabuğu soyulmadan)</li>
-  <li>1 tatlı kaşığı kimyon tohumu</li>
-  <li>Tuz, karabiber</li>
-  <li>3,5 su bardağı sıcak su</li>
-</ul>
-
-<h2 id="yapılışı">Yapılışı:</h2>
-
-<ol>
-  <li>Pirinci tuzlu sıcak suda 30 dakika kadar bekletin, ardından süzün.</li>
-  <li>Geniş tabanlı bir tencerede yağı ısıtın. Eti ekleyip orta ateşte suyunu salıp çekene kadar kavurun.</li>
-  <li>Soğanları ekleyip pembeleşene dek soteleyin.</li>
-  <li>Havuçları ilave edin, birkaç dakika birlikte kavurun.</li>
-  <li>Tuz, karabiber ve kimyon tohumu ekleyin.</li>
-  <li>Üzerine pirinci yayın, karıştırmadan düzleyin. Ortasına sarımsak başını yerleştirin.</li>
-  <li>Sıcak suyu yavaşça ekleyin. Kaynamaya başlayınca kapağını kapatıp kısık ateşte suyunu çekene kadar pişirin (yaklaşık 25-30 dakika).</li>
-  <li>Pilav demlendikten sonra nazikçe karıştırarak servis edin.</li>
-</ol>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Orta Asya Mutfağı" /><summary type="html"><![CDATA[Orta Asya mutfağının en bilinen ve sevilen yemeklerinden biri olan Plov, özellikle Özbekistan’da düğünlerden aile sofralarına kadar her yerde başrolde yer alır. Et, pirinç ve sebzelerin uyum içinde piştiği bu nefis pilav, hem doyurucu hem de aromatik bir lezzet sunar. Genellikle kuzu etiyle yapılır, ancak dana eti ya da tavukla da hazırlanabilir. Baharatlar ve havuç sayesinde hafif tatlımsı ve yoğun aromalı bir tada sahiptir. Hem özel gün sofralarına hem de günlük yemek menülerine rahatça uyarlanabilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/plov-ozbek-pilavi-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/plov-ozbek-pilavi-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fattet Hummus Tarifi</title><link href="http://localhost:4000/fattet-hummus-tarifi" rel="alternate" type="text/html" title="Fattet Hummus Tarifi" /><published>2025-07-12T00:00:00+03:00</published><updated>2025-07-12T00:00:00+03:00</updated><id>http://localhost:4000/fattet-hummus-tarifi</id><content type="html" xml:base="http://localhost:4000/fattet-hummus-tarifi"><![CDATA[<p>Fattet Hummus, Ortadoğu mutfağının sevilen geleneksel lezzetlerinden biridir. Özellikle Lübnan, Suriye ve Filistin mutfaklarında kahvaltı veya meze olarak sunulan bu yemek; nohut, yoğurt, tahin ve kızarmış pita ekmeğinin kat kat dizilmesiyle hazırlanır. Yumuşak ve kıtır dokuların bir araya geldiği bu nefis tabak, hem besleyici hem de doyurucudur. Üzerine gezdirilen sıcak tereyağı ve baharatlarla adeta lezzet şölenine dönüşür.</p>
-
-<h2 id="malzemeler">Malzemeler:</h2>
-
-<ul>
-  <li>2 su bardağı haşlanmış nohut</li>
-  <li>2 adet pita ekmeği (veya lavaş), küp doğranmış</li>
-  <li>1,5 su bardağı süzme yoğurt</li>
-  <li>2 yemek kaşığı tahin</li>
-  <li>2 diş sarımsak (ezilmiş)</li>
-  <li>1 yemek kaşığı limon suyu</li>
-  <li>2 yemek kaşığı tereyağı</li>
-  <li>1 yemek kaşığı çam fıstığı (isteğe bağlı)</li>
-  <li>1 çay kaşığı toz kırmızı biber veya sumak</li>
-  <li>Tuz</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Pita ekmeklerini küp şeklinde doğrayıp fırında veya tavada altın rengi alana kadar kızartın.</li>
-  <li>Haşlanmış nohudun yarısını ezerek bir kenara ayırın, diğer yarısını bütün olarak bırakın.</li>
-  <li>Yoğurt, tahin, limon suyu, sarımsak ve bir tutam tuzu bir kasede karıştırın.</li>
-  <li>Servis tabağına önce kızarmış ekmekleri yerleştirin. Üzerine ezilmiş nohutları, ardından yoğurtlu karışımı yayın. En üste de bütün nohutları serpin.</li>
-  <li>Küçük bir tavada tereyağını eritip çam fıstığını kavurun ve kırmızı biberi ekleyin. Bu karışımı yemeğin üzerine gezdirin.</li>
-  <li>İsteğe göre sumak veya doğranmış maydanoz ile süsleyerek servis yapın.</li>
-</ol>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Ortadoğu Mutfağı" /><summary type="html"><![CDATA[Fattet Hummus, Ortadoğu mutfağının sevilen geleneksel lezzetlerinden biridir. Özellikle Lübnan, Suriye ve Filistin mutfaklarında kahvaltı veya meze olarak sunulan bu yemek; nohut, yoğurt, tahin ve kızarmış pita ekmeğinin kat kat dizilmesiyle hazırlanır. Yumuşak ve kıtır dokuların bir araya geldiği bu nefis tabak, hem besleyici hem de doyurucudur. Üzerine gezdirilen sıcak tereyağı ve baharatlarla adeta lezzet şölenine dönüşür.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/fattet-hummus-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/fattet-hummus-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tatlıların Dili: Şekerli Lezzetlerin Kültürel Kodları</title><link href="http://localhost:4000/tatlilarin-dili-sekerli-lezzetlerin-kulturel-kodlari" rel="alternate" type="text/html" title="Tatlıların Dili: Şekerli Lezzetlerin Kültürel Kodları" /><published>2025-07-12T00:00:00+03:00</published><updated>2025-07-12T00:00:00+03:00</updated><id>http://localhost:4000/tatlilarin-dili-sekerli-lezzetlerin-kulturel-kodlari</id><content type="html" xml:base="http://localhost:4000/tatlilarin-dili-sekerli-lezzetlerin-kulturel-kodlari"><![CDATA[<p>Bir tabak baklava, bir dilim tiramisu ya da bir kase aşure… Her biri yalnızca damakta değil, belleğimizde de iz bırakır. Tatlılar, doğduğumuz andan itibaren yaşam döngümüzün birer durağına eşlik eder. Sünnet düğünlerinde, nişan törenlerinde, doğumlarda, ölümün ardından yapılan helvalarda bile tatlı vardır. Çünkü tatlı, insanlığın ortak lisanıdır; sevincin, paylaşmanın ve bazen de hatırlamanın dili.</p>
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Türk Mutfağı" /><summary type="html"><![CDATA[Baklava, yüzyıllardır Anadolu’dan Orta Doğu’ya uzanan geniş bir coğrafyada bayramların, düğünlerin ve özel günlerin baş tacı olmuş bir tatlıdır. İncecik açılmış yufkaların arasına serpiştirilen bol ceviz veya fıstık, tereyağı ile harmanlanarak fırında nar gibi kızarır ve ardından şerbetle buluşarak eşsiz bir lezzete dönüşür. Kat kat açılan hamurun verdiği hafif çıtırlık ile şerbetin yumuşak dokusu, damakta unutulmaz bir uyum yaratır.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/08/baklava-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/08/baklava-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tatlıların Dili: Şekerli Lezzetlerin Kültürel Kodları</title><link href="http://localhost:4000/tatlilarin-dili-sekerli-lezzetlerin-kulturel-kodlari" rel="alternate" type="text/html" title="Tatlıların Dili: Şekerli Lezzetlerin Kültürel Kodları" /><published>2025-07-12T00:00:00+03:00</published><updated>2025-07-12T00:00:00+03:00</updated><id>http://localhost:4000/tatlilarin-dili-sekerli-lezzetlerin-kulturel-kodlari</id><content type="html" xml:base="http://localhost:4000/tatlilarin-dili-sekerli-lezzetlerin-kulturel-kodlari"><![CDATA[<p>Bir tabak baklava, bir dilim tiramisu ya da bir kase aşure… Her biri yalnızca damakta değil, belleğimizde de iz bırakır. Tatlılar, doğduğumuz andan itibaren yaşam döngümüzün birer durağına eşlik eder. Sünnet düğünlerinde, nişan törenlerinde, doğumlarda, ölümün ardından yapılan helvalarda bile tatlı vardır. Çünkü tatlı, insanlığın ortak lisanıdır; sevincin, paylaşmanın ve bazen de hatırlamanın dili.</p>
 
 <p>Bu yazıda tatlıların sadece birer yemek değil; birer kültürel kod, toplumsal sembol ve duygusal anlatım aracı olarak nasıl bir rol üstlendiğini birlikte inceleyeceğiz.</p>
 
@@ -179,7 +154,65 @@
 
 <h2 id="sonuç">Sonuç</h2>
 
-<p>Tatlılar, yalnızca bir mutfak unsuru değil; <em>bir kültürün duygusal haritasıdır</em>. Her lokmada geçmişten izler, geleneklerden sesler, toplumsal bağlardan işaretler vardır. Tatlılar susar ama anlatır. Onlar bizim yemeklerle kurduğumuz en duygu yüklü bağlardan biridir.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Bir tabak baklava, bir dilim tiramisu ya da bir kase aşure… Her biri yalnızca damakta değil, belleğimizde de iz bırakır. Tatlılar, doğduğumuz andan itibaren yaşam döngümüzün birer durağına eşlik eder. Sünnet düğünlerinde, nişan törenlerinde, doğumlarda, ölümün ardından yapılan helvalarda bile tatlı vardır. Çünkü tatlı, insanlığın ortak lisanıdır; sevincin, paylaşmanın ve bazen de hatırlamanın dili.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/tatlilarin-dili.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/tatlilarin-dili.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Göçmen Mutfakları: Yeni Topraklarda Yeşeren Eski Tatlar</title><link href="http://localhost:4000/gocmen-mutfaklari-yeni-topraklarda-yeseren-eski-tatlar" rel="alternate" type="text/html" title="Göçmen Mutfakları: Yeni Topraklarda Yeşeren Eski Tatlar" /><published>2025-07-11T00:00:00+03:00</published><updated>2025-07-11T00:00:00+03:00</updated><id>http://localhost:4000/gocmen-mutfaklari-yeni-topraklarda-yeseren-eski-tatlar</id><content type="html" xml:base="http://localhost:4000/gocmen-mutfaklari-yeni-topraklarda-yeseren-eski-tatlar"><![CDATA[<p>Göç, insanlık tarihinin en köklü ve sürekli olgularından biri. Savaşlar, doğal afetler, ekonomik zorluklar ya da daha iyi bir yaşam ümidiyle insanlar yüzyıllar boyunca yurtlarını terk edip yeni coğrafyalara göç etti. Bu yolculuklarda yanlarında sadece eşyalarını değil; geleneklerini, hikâyelerini ve en önemlisi de mutfak kültürlerini taşıdılar.</p>
+<p>Tatlılar, yalnızca bir mutfak unsuru değil; <em>bir kültürün duygusal haritasıdır</em>. Her lokmada geçmişten izler, geleneklerden sesler, toplumsal bağlardan işaretler vardır. Tatlılar susar ama anlatır. Onlar bizim yemeklerle kurduğumuz en duygu yüklü bağlardan biridir.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Bir tabak baklava, bir dilim tiramisu ya da bir kase aşure… Her biri yalnızca damakta değil, belleğimizde de iz bırakır. Tatlılar, doğduğumuz andan itibaren yaşam döngümüzün birer durağına eşlik eder. Sünnet düğünlerinde, nişan törenlerinde, doğumlarda, ölümün ardından yapılan helvalarda bile tatlı vardır. Çünkü tatlı, insanlığın ortak lisanıdır; sevincin, paylaşmanın ve bazen de hatırlamanın dili.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/tatlilarin-dili.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/tatlilarin-dili.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fattet Hummus Tarifi</title><link href="http://localhost:4000/fattet-hummus-tarifi" rel="alternate" type="text/html" title="Fattet Hummus Tarifi" /><published>2025-07-12T00:00:00+03:00</published><updated>2025-07-12T00:00:00+03:00</updated><id>http://localhost:4000/fattet-hummus-tarifi</id><content type="html" xml:base="http://localhost:4000/fattet-hummus-tarifi"><![CDATA[<p>Fattet Hummus, Ortadoğu mutfağının sevilen geleneksel lezzetlerinden biridir. Özellikle Lübnan, Suriye ve Filistin mutfaklarında kahvaltı veya meze olarak sunulan bu yemek; nohut, yoğurt, tahin ve kızarmış pita ekmeğinin kat kat dizilmesiyle hazırlanır. Yumuşak ve kıtır dokuların bir araya geldiği bu nefis tabak, hem besleyici hem de doyurucudur. Üzerine gezdirilen sıcak tereyağı ve baharatlarla adeta lezzet şölenine dönüşür.</p>
+
+<h2 id="malzemeler">Malzemeler:</h2>
+
+<ul>
+  <li>2 su bardağı haşlanmış nohut</li>
+  <li>2 adet pita ekmeği (veya lavaş), küp doğranmış</li>
+  <li>1,5 su bardağı süzme yoğurt</li>
+  <li>2 yemek kaşığı tahin</li>
+  <li>2 diş sarımsak (ezilmiş)</li>
+  <li>1 yemek kaşığı limon suyu</li>
+  <li>2 yemek kaşığı tereyağı</li>
+  <li>1 yemek kaşığı çam fıstığı (isteğe bağlı)</li>
+  <li>1 çay kaşığı toz kırmızı biber veya sumak</li>
+  <li>Tuz</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Pita ekmeklerini küp şeklinde doğrayıp fırında veya tavada altın rengi alana kadar kızartın.</li>
+  <li>Haşlanmış nohudun yarısını ezerek bir kenara ayırın, diğer yarısını bütün olarak bırakın.</li>
+  <li>Yoğurt, tahin, limon suyu, sarımsak ve bir tutam tuzu bir kasede karıştırın.</li>
+  <li>Servis tabağına önce kızarmış ekmekleri yerleştirin. Üzerine ezilmiş nohutları, ardından yoğurtlu karışımı yayın. En üste de bütün nohutları serpin.</li>
+  <li>Küçük bir tavada tereyağını eritip çam fıstığını kavurun ve kırmızı biberi ekleyin. Bu karışımı yemeğin üzerine gezdirin.</li>
+  <li>İsteğe göre sumak veya doğranmış maydanoz ile süsleyerek servis yapın.</li>
+</ol>
+
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Ortadoğu Mutfağı" /><summary type="html"><![CDATA[Fattet Hummus, Ortadoğu mutfağının sevilen geleneksel lezzetlerinden biridir. Özellikle Lübnan, Suriye ve Filistin mutfaklarında kahvaltı veya meze olarak sunulan bu yemek; nohut, yoğurt, tahin ve kızarmış pita ekmeğinin kat kat dizilmesiyle hazırlanır. Yumuşak ve kıtır dokuların bir araya geldiği bu nefis tabak, hem besleyici hem de doyurucudur. Üzerine gezdirilen sıcak tereyağı ve baharatlarla adeta lezzet şölenine dönüşür.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/fattet-hummus-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/fattet-hummus-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Plov (Özbek Pilavı) Tarifi</title><link href="http://localhost:4000/plov-ozbek-pilavi-tarifi" rel="alternate" type="text/html" title="Plov (Özbek Pilavı) Tarifi" /><published>2025-07-12T00:00:00+03:00</published><updated>2025-07-12T00:00:00+03:00</updated><id>http://localhost:4000/plov-ozbek-pilavi-tarifi</id><content type="html" xml:base="http://localhost:4000/plov-ozbek-pilavi-tarifi"><![CDATA[<p>Orta Asya mutfağının en bilinen ve sevilen yemeklerinden biri olan Plov, özellikle Özbekistan’da düğünlerden aile sofralarına kadar her yerde başrolde yer alır. Et, pirinç ve sebzelerin uyum içinde piştiği bu nefis pilav, hem doyurucu hem de aromatik bir lezzet sunar. Genellikle kuzu etiyle yapılır, ancak dana eti ya da tavukla da hazırlanabilir. Baharatlar ve havuç sayesinde hafif tatlımsı ve yoğun aromalı bir tada sahiptir. Hem özel gün sofralarına hem de günlük yemek menülerine rahatça uyarlanabilir.</p>
+
+<h2 id="malzemeler">Malzemeler:</h2>
+
+<ul>
+  <li>500 g kuşbaşı kuzu eti (isteğe göre dana eti)</li>
+  <li>2 su bardağı baldo pirinç</li>
+  <li>2 adet büyük havuç (jülyen doğranmış)</li>
+  <li>2 adet orta boy soğan (yarım halka doğranmış)</li>
+  <li>4 yemek kaşığı sıvı yağ</li>
+  <li>1 yemek kaşığı tereyağı</li>
+  <li>1 baş sarımsak (bütün olarak, kabuğu soyulmadan)</li>
+  <li>1 tatlı kaşığı kimyon tohumu</li>
+  <li>Tuz, karabiber</li>
+  <li>3,5 su bardağı sıcak su</li>
+</ul>
+
+<h2 id="yapılışı">Yapılışı:</h2>
+
+<ol>
+  <li>Pirinci tuzlu sıcak suda 30 dakika kadar bekletin, ardından süzün.</li>
+  <li>Geniş tabanlı bir tencerede yağı ısıtın. Eti ekleyip orta ateşte suyunu salıp çekene kadar kavurun.</li>
+  <li>Soğanları ekleyip pembeleşene dek soteleyin.</li>
+  <li>Havuçları ilave edin, birkaç dakika birlikte kavurun.</li>
+  <li>Tuz, karabiber ve kimyon tohumu ekleyin.</li>
+  <li>Üzerine pirinci yayın, karıştırmadan düzleyin. Ortasına sarımsak başını yerleştirin.</li>
+  <li>Sıcak suyu yavaşça ekleyin. Kaynamaya başlayınca kapağını kapatıp kısık ateşte suyunu çekene kadar pişirin (yaklaşık 25-30 dakika).</li>
+  <li>Pilav demlendikten sonra nazikçe karıştırarak servis edin.</li>
+</ol>
+
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Orta Asya Mutfağı" /><summary type="html"><![CDATA[Orta Asya mutfağının en bilinen ve sevilen yemeklerinden biri olan Plov, özellikle Özbekistan’da düğünlerden aile sofralarına kadar her yerde başrolde yer alır. Et, pirinç ve sebzelerin uyum içinde piştiği bu nefis pilav, hem doyurucu hem de aromatik bir lezzet sunar. Genellikle kuzu etiyle yapılır, ancak dana eti ya da tavukla da hazırlanabilir. Baharatlar ve havuç sayesinde hafif tatlımsı ve yoğun aromalı bir tada sahiptir. Hem özel gün sofralarına hem de günlük yemek menülerine rahatça uyarlanabilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/plov-ozbek-pilavi-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/plov-ozbek-pilavi-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Göçmen Mutfakları: Yeni Topraklarda Yeşeren Eski Tatlar</title><link href="http://localhost:4000/gocmen-mutfaklari-yeni-topraklarda-yeseren-eski-tatlar" rel="alternate" type="text/html" title="Göçmen Mutfakları: Yeni Topraklarda Yeşeren Eski Tatlar" /><published>2025-07-11T00:00:00+03:00</published><updated>2025-07-11T00:00:00+03:00</updated><id>http://localhost:4000/gocmen-mutfaklari-yeni-topraklarda-yeseren-eski-tatlar</id><content type="html" xml:base="http://localhost:4000/gocmen-mutfaklari-yeni-topraklarda-yeseren-eski-tatlar"><![CDATA[<p>Göç, insanlık tarihinin en köklü ve sürekli olgularından biri. Savaşlar, doğal afetler, ekonomik zorluklar ya da daha iyi bir yaşam ümidiyle insanlar yüzyıllar boyunca yurtlarını terk edip yeni coğrafyalara göç etti. Bu yolculuklarda yanlarında sadece eşyalarını değil; geleneklerini, hikâyelerini ve en önemlisi de mutfak kültürlerini taşıdılar.</p>
 
 <p>Bugün dünyanın dört bir yanındaki büyük şehirlerde, farklı ülkelerden gelen insanların kurduğu mutfaklar; hem nostaljinin hem de uyumun bir yansıması. Gelin birlikte göçmen mutfaklarının hikâyesine ve yeni topraklarda nasıl yeşerdiklerine yakından bakalım.</p>
 
@@ -409,31 +442,4 @@
   <li>Sıcak olarak, tercihen sade pilav ile servis edin.</li>
 </ol>
 
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Filipin Mutfağı" /><summary type="html"><![CDATA[Adobo, Filipin mutfağının en bilinen ve en sevilen yemeklerinden biridir. Hem tavuk hem de domuz etiyle yapılabilen bu yemek, sirke, soya sosu, sarımsak ve defne yaprağı gibi malzemelerle uzun süre pişirilerek hazırlanır. Adobo, hem lezzetli hem de dayanıklı olması nedeniyle yüzyıllardır Filipin halkı tarafından temel bir yemek olarak kabul edilmiştir. Eşsiz aroması ve dengeli ekşi-tuzlu tadıyla dünya mutfağında da kendine sağlam bir yer edinmiştir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/adobo-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/adobo-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Rösti Tarifi</title><link href="http://localhost:4000/rosti-tarifi" rel="alternate" type="text/html" title="Rösti Tarifi" /><published>2025-07-10T00:00:00+03:00</published><updated>2025-07-10T00:00:00+03:00</updated><id>http://localhost:4000/rosti-tarifi</id><content type="html" xml:base="http://localhost:4000/rosti-tarifi"><![CDATA[<p>İsviçre mutfağının en bilinen lezzetlerinden biri olan Rösti, başlangıçta bir kahvaltılık olarak tüketilse de bugün dünyanın dört bir yanında ana yemeklerin yanında garnitür olarak da tercih edilmektedir. Dışı çıtır, içi ise yumuşak olan bu patates bazlı yemek; az malzemeyle yapılan, ancak doğru teknikle hazırlandığında mükemmel bir lezzet sunan tarifler arasında yer alır. Rösti, özellikle peynirli ya da yumurtalı kahvaltılarda, et yemeklerinin yanında veya sadece yoğurtla bile harika gider.</p>
-
-<h2 id="malzemeler-2-kişilik">Malzemeler (2 kişilik):</h2>
-
-<ul>
-  <li>3 adet orta boy patates</li>
-  <li>1 yemek kaşığı tereyağı</li>
-  <li>1 yemek kaşığı sıvı yağ</li>
-  <li>Tuz</li>
-  <li>Karabiber (isteğe bağlı)</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Patatesleri kabuklarıyla birlikte 8-10 dakika kadar haşlayın (tam pişmemeli, hafif diri kalmalı).</li>
-  <li>Haşlanan patatesleri soğumaya bırakın, ardından kabuklarını soyup rendenin kalın tarafıyla rendeleyin.</li>
-  <li>Rendelenmiş patatesleri temiz bir bezle ya da kağıt havluyla iyice kurulayın.</li>
-  <li>Geniş bir tavada tereyağı ve sıvı yağı birlikte ısıtın.</li>
-  <li>Patatesleri tavaya alıp düzleştirin, spatula ile bastırarak şekil verin.</li>
-  <li>Orta ateşte alt kısmı altın rengi olana kadar yaklaşık 6-8 dakika pişirin.</li>
-  <li>Dikkatlice ters çevirin ve diğer tarafını da aynı şekilde pişirin.</li>
-  <li>Tuz ve isteğe göre karabiber serpip sıcak servis edin.</li>
-</ol>
-
-<p>İsteğe göre içine rendelenmiş kaşar, soğan veya otlar da ekleyebilirsiniz.</p>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="İsviçre Mutfağı" /><summary type="html"><![CDATA[İsviçre mutfağının en bilinen lezzetlerinden biri olan Rösti, başlangıçta bir kahvaltılık olarak tüketilse de bugün dünyanın dört bir yanında ana yemeklerin yanında garnitür olarak da tercih edilmektedir. Dışı çıtır, içi ise yumuşak olan bu patates bazlı yemek; az malzemeyle yapılan, ancak doğru teknikle hazırlandığında mükemmel bir lezzet sunan tarifler arasında yer alır. Rösti, özellikle peynirli ya da yumurtalı kahvaltılarda, et yemeklerinin yanında veya sadece yoğurtla bile harika gider.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/rosti-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/rosti-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Filipin Mutfağı" /><summary type="html"><![CDATA[Adobo, Filipin mutfağının en bilinen ve en sevilen yemeklerinden biridir. Hem tavuk hem de domuz etiyle yapılabilen bu yemek, sirke, soya sosu, sarımsak ve defne yaprağı gibi malzemelerle uzun süre pişirilerek hazırlanır. Adobo, hem lezzetli hem de dayanıklı olması nedeniyle yüzyıllardır Filipin halkı tarafından temel bir yemek olarak kabul edilmiştir. Eşsiz aroması ve dengeli ekşi-tuzlu tadıyla dünya mutfağında da kendine sağlam bir yer edinmiştir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/07/adobo-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/07/adobo-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
