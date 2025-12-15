@@ -361,6 +361,18 @@
 <lastmod>2025-12-07T00:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/cassoulet-tarifi</loc>
+<lastmod>2025-12-15T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/mandu-kore-mantisi-tarifi</loc>
+<lastmod>2025-12-15T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/yakitori-japon-usulu-tavuk-sis-tarifi</loc>
+<lastmod>2025-12-15T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/ara</loc>
 </url>
 <url>
@@ -395,5 +407,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/sayfa9/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sayfa10/</loc>
 </url>
 </urlset>
