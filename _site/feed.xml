@@ -1,47 +1,116 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-12-20T17:18:48+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Katsu Curry Tarifi</title><link href="http://localhost:4000/katsu-curry-tarifi" rel="alternate" type="text/html" title="Katsu Curry Tarifi" /><published>2025-12-20T00:00:00+03:00</published><updated>2025-12-20T00:00:00+03:00</updated><id>http://localhost:4000/katsu-curry-tarifi</id><content type="html" xml:base="http://localhost:4000/katsu-curry-tarifi"><![CDATA[<p>Katsu Curry, Japon mutfağının en sevilen ev yemeklerinden biridir ve çıtır pane kaplı etin, hafif tatlı ve baharatlı curry sosuyla buluşmasıyla ortaya çıkar. Batı’dan esinlenen pane tekniği ile Japon köri kültürünü birleştiren bu yemek, doyurucu yapısı ve dengeli aroması sayesinde hem günlük öğünlerde hem de restoran menülerinde sıkça yer alır. Pirinçle birlikte servis edildiğinde tam bir konfor yemeği olarak öne çıkar.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2025-12-23T05:03:24+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Poutine Tarifi</title><link href="http://localhost:4000/poutine-tarifi" rel="alternate" type="text/html" title="Poutine Tarifi" /><published>2025-12-22T00:00:00+03:00</published><updated>2025-12-22T00:00:00+03:00</updated><id>http://localhost:4000/poutine-tarifi</id><content type="html" xml:base="http://localhost:4000/poutine-tarifi"><![CDATA[<p>Poutine, Kanada mutfağının en bilinen sokak lezzetlerinden biridir ve temel olarak çıtır patates kızartması, taze peynir telemesi ve yoğun et suyuyla hazırlanan sosun birleşiminden oluşur. Sıcak patateslerin üzerinde hafifçe eriyen peynir ve sosun verdiği derin lezzet, poutine’i hem doyurucu hem de konfor yemeği haline getirir. Orijinal hali oldukça sade olsa da farklı etler, mantar veya baharatlarla zenginleştirilen pek çok modern yorumu da bulunmaktadır.</p>
 
-<h2 id="malzemeler-23-kişilik">Malzemeler (2–3 kişilik):</h2>
-
-<p><strong>Katsu için</strong>:</p>
+<h2 id="malzemeler">Malzemeler:</h2>
 
 <ul>
-  <li>2 adet tavuk göğsü (veya domuz pirzolası)</li>
-  <li>Tuz, karabiber</li>
-  <li>1/2 su bardağı un</li>
-  <li>1 adet yumurta</li>
-  <li>1 su bardağı panko (Japon galeta unu)</li>
+  <li>1 kg patates</li>
   <li>Kızartmak için sıvı yağ</li>
+  <li>200 g peynir telemesi (cheese curds, yoksa taze mozzarella da kullanılabilir)</li>
 </ul>
 
-<p><strong>Curry sosu için</strong>:</p>
+<p><strong>Sos için</strong>:</p>
 
 <ul>
-  <li>1 adet soğan (ince doğranmış)</li>
-  <li>1 adet havuç (küçük küp doğranmış)</li>
-  <li>1 adet patates (küçük küp doğranmış)</li>
-  <li>1 yemek kaşığı sıvı yağ</li>
-  <li>2 su bardağı su veya tavuk suyu</li>
-  <li>1 paket Japon curry roux (veya 2 yemek kaşığı köri tozu + 1 yemek kaşığı un + 1 yemek kaşığı tereyağı)</li>
-</ul>
-
-<p><strong>Servis için</strong>:</p>
-
-<ul>
-  <li>Haşlanmış Japon pirinci (veya baldo pirinç)</li>
+  <li>2 yemek kaşığı tereyağı</li>
+  <li>2 yemek kaşığı un</li>
+  <li>2 su bardağı et suyu (dana veya tavuk)</li>
+  <li>1 çay kaşığı karabiber</li>
+  <li>Tuz (gerekirse)</li>
 </ul>
 
 <h2 id="hazırlanışı">Hazırlanışı:</h2>
 
 <ol>
-  <li>Tavuk göğüslerini ortadan ikiye kesip inceltin, tuz ve karabiberle tatlandırın.</li>
-  <li>Tavukları sırasıyla una, çırpılmış yumurtaya ve pankoya bulayın.</li>
-  <li>Kızgın yağda altın rengi olana kadar kızartın, kağıt havlu üzerinde dinlendirin.</li>
-  <li>Curry sosu için tencerede sıvı yağı ısıtın, soğanları pembeleşene kadar kavurun. Havuç ve patatesi ekleyip birkaç dakika çevirin.</li>
-  <li>Suyu ekleyin, sebzeler yumuşayana kadar pişirin. Curry roux’u ekleyip karıştırın ve sos koyulaşana kadar kısık ateşte pişirin.</li>
-  <li>Kızarmış katsu’yu dilimleyin. Pirincin üzerine koyup sıcak curry sosuyla servis edin.</li>
+  <li>Patatesleri soyup kalın parmak şeklinde doğrayın. Nişastasını bırakması için soğuk suda 20–30 dakika bekletin, ardından iyice kurulayın.</li>
+  <li>Patatesleri 170°C civarında kızgın yağda hafif renk alana kadar kızartın, çıkarıp dinlendirin. Ardından yağı daha da kızdırıp patatesleri ikinci kez kızartarak altın rengi ve çıtır hale getirin.</li>
+  <li>Sos için tereyağını tavada eritin, unu ekleyip kokusu çıkana kadar kavurun. Et suyunu yavaş yavaş ekleyerek topaklanmaması için sürekli karıştırın. Koyulaşınca karabiberini ekleyin, tuzunu ayarlayın ve ocaktan alın.</li>
+  <li>Servis tabağına sıcak patatesleri yerleştirin, üzerine peynir telemelerini serpin. En son sıcak sosu gezdirerek hemen servis edin.</li>
 </ol>
 
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Japon Mutfağı" /><summary type="html"><![CDATA[Katsu Curry, Japon mutfağının en sevilen ev yemeklerinden biridir ve çıtır pane kaplı etin, hafif tatlı ve baharatlı curry sosuyla buluşmasıyla ortaya çıkar. Batı’dan esinlenen pane tekniği ile Japon köri kültürünü birleştiren bu yemek, doyurucu yapısı ve dengeli aroması sayesinde hem günlük öğünlerde hem de restoran menülerinde sıkça yer alır. Pirinçle birlikte servis edildiğinde tam bir konfor yemeği olarak öne çıkar.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/katsu-curry-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/katsu-curry-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pastitsio Tarifi (Yunan Usulü Fırın Makarna)</title><link href="http://localhost:4000/pastitsio-tarifi" rel="alternate" type="text/html" title="Pastitsio Tarifi (Yunan Usulü Fırın Makarna)" /><published>2025-12-20T00:00:00+03:00</published><updated>2025-12-20T00:00:00+03:00</updated><id>http://localhost:4000/pastitsio-tarifi</id><content type="html" xml:base="http://localhost:4000/pastitsio-tarifi"><![CDATA[<p>Pastitsio, Yunan mutfağının en sevilen fırın yemeklerinden biridir; kat kat dizilmiş makarna, tarçınla aromalandırılmış kıymalı sos ve kadifemsi beşamelin uyumu ile doyurucu ve dengeli bir lezzet sunar. Özellikle kalabalık sofralar için ideal olan bu yemek, fırından çıktıktan sonra kısa süre dinlendirildiğinde katmanlarını daha net gösterir ve servis sırasında dağılmadan kesilebilir.</p>
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Kanada Mutfağı" /><summary type="html"><![CDATA[Poutine, Kanada mutfağının en bilinen sokak lezzetlerinden biridir ve temel olarak çıtır patates kızartması, taze peynir telemesi ve yoğun et suyuyla hazırlanan sosun birleşiminden oluşur. Sıcak patateslerin üzerinde hafifçe eriyen peynir ve sosun verdiği derin lezzet, poutine’i hem doyurucu hem de konfor yemeği haline getirir. Orijinal hali oldukça sade olsa da farklı etler, mantar veya baharatlarla zenginleştirilen pek çok modern yorumu da bulunmaktadır.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/poutine-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/poutine-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Bibimbap Tarifi</title><link href="http://localhost:4000/bibimbap-tarifi" rel="alternate" type="text/html" title="Bibimbap Tarifi" /><published>2025-12-22T00:00:00+03:00</published><updated>2025-12-22T00:00:00+03:00</updated><id>http://localhost:4000/bibimbap-tarifi</id><content type="html" xml:base="http://localhost:4000/bibimbap-tarifi"><![CDATA[<p><em>Bibimbap</em>, Kore mutfağının en bilinen ve en dengeli yemeklerinden biridir. Kelime anlamı olarak “karıştırılmış pilav” demektir ve farklı sebzelerin, etin, yumurtanın ve acı biber sosunun pirinç üzerinde bir araya gelmesiyle hazırlanır. Hem görsel olarak iştah açıcı hem de besin değeri açısından oldukça zengindir.</p>
+
+<h2 id="malzemeler-2-kişilik">Malzemeler (2 Kişilik):</h2>
+
+<p><strong>Pilav için</strong>:</p>
+
+<ul>
+  <li>2 su bardağı Japon pirinci veya baldo pirinç</li>
+  <li>2,5 su bardağı su</li>
+</ul>
+
+<p><strong>Üzeri için</strong>:</p>
+
+<ul>
+  <li>150 g dana jülyen et</li>
+  <li>1 adet havuç (jülyen doğranmış)</li>
+  <li>1 su bardağı ıspanak</li>
+  <li>1 su bardağı fasulye filizi</li>
+  <li>1 adet kabak (ince doğranmış)</li>
+  <li>2 adet yumurta</li>
+</ul>
+
+<p><strong>Sos ve baharatlar</strong>:</p>
+
+<ul>
+  <li>2 yemek kaşığı gochujang (Kore acı biber ezmesi)</li>
+  <li>1 yemek kaşığı soya sosu</li>
+  <li>1 çay kaşığı susam yağı</li>
+  <li>1 diş sarımsak (rendelenmiş)</li>
+  <li>1 çay kaşığı toz şeker</li>
+  <li>Tuz</li>
+  <li>Sıvı yağ</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Pirinci yıkayıp suyunu süzün ve pilavı sade şekilde pişirin. Suyunu çekince dinlenmeye bırakın.</li>
+  <li>Dana etini az sıvı yağda, soya sosu ve sarımsakla birlikte yüksek ateşte soteleyin ve kenara alın.</li>
+  <li>Havuç ve kabağı ayrı ayrı tavada çok az yağ ile diri kalacak şekilde soteleyin.</li>
+  <li>Ispanağı ve fasulye filizini kaynar suda kısa süre haşlayıp süzün, hafif tuzlayın.</li>
+  <li>Yumurtaları tavada sunny side up (sarısı akışkan) olacak şekilde pişirin.</li>
+  <li>Gochujang, susam yağı ve şekeri karıştırarak sosu hazırlayın.</li>
+  <li>Servis kaselerine pilavı alın. Üzerine sebzeleri, eti ve yumurtayı ayrı bölmeler halinde yerleştirin.</li>
+  <li>Servis sırasında sosu ekleyip tüm malzemeleri karıştırarak tüketin.</li>
+</ol>
+
+<h2 id="servis-önerisi">Servis Önerisi:</h2>
+
+<p>Bibimbap genellikle sıcak servis edilir ve karıştırıldıktan sonra tüm malzemelerin aroması dengeli bir şekilde ortaya çıkar. Yanında Kore usulü turşular (kimchi gibi) ile sunulduğunda lezzeti daha da zenginleşir.</p>
+
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Kore Mutfağı" /><summary type="html"><![CDATA[Bibimbap, Kore mutfağının en bilinen ve en dengeli yemeklerinden biridir. Kelime anlamı olarak “karıştırılmış pilav” demektir ve farklı sebzelerin, etin, yumurtanın ve acı biber sosunun pirinç üzerinde bir araya gelmesiyle hazırlanır. Hem görsel olarak iştah açıcı hem de besin değeri açısından oldukça zengindir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/bibimbap-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/bibimbap-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Osso Buco Tarifi</title><link href="http://localhost:4000/osso-buco-tarifi" rel="alternate" type="text/html" title="Osso Buco Tarifi" /><published>2025-12-22T00:00:00+03:00</published><updated>2025-12-22T00:00:00+03:00</updated><id>http://localhost:4000/osso-buco-tarifi</id><content type="html" xml:base="http://localhost:4000/osso-buco-tarifi"><![CDATA[<p>Osso Buco, İtalyan mutfağının Milano kökenli en klasik ana yemeklerinden biridir. Dana incik ile hazırlanan bu yemek, uzun sürede kısık ateşte pişirilerek etin iliğiyle birlikte yumuşacık bir doku kazanmasını sağlar. Sebzeler, beyaz şarap ve et suyunun birleşimiyle ortaya çıkan yoğun ve aromatik sosu, Osso Buco’yu özellikle özel davet sofraları için ideal bir lezzet haline getirir.</p>
+
+<h2 id="malzemeler">Malzemeler:</h2>
+
+<ul>
+  <li>4 dilim dana incik (kemikli)</li>
+  <li>2 yemek kaşığı un</li>
+  <li>3 yemek kaşığı zeytinyağı</li>
+  <li>1 adet büyük soğan (ince doğranmış)</li>
+  <li>1 adet havuç (küçük küpler halinde)</li>
+  <li>1 sap kereviz (küçük doğranmış)</li>
+  <li>2 diş sarımsak (ezilmiş)</li>
+  <li>1 su bardağı beyaz şarap</li>
+  <li>1 su bardağı et suyu</li>
+  <li>1 adet rendelenmiş domates veya 1 su bardağı domates püresi</li>
+  <li>1 adet defne yaprağı</li>
+  <li>Tuz</li>
+  <li>Karabiber</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Dana incik dilimlerini tuz ve karabiberle tatlandırın, ardından hafifçe una bulayın.</li>
+  <li>Geniş ve kalın tabanlı bir tencerede zeytinyağını ısıtın, etleri her iki tarafı da kızarana kadar mühürleyin ve tencereden alın.</li>
+  <li>Aynı tencereye soğan, havuç ve kerevizi ekleyerek orta ateşte yumuşayana kadar kavurun.</li>
+  <li>Sarımsağı ekleyip kısa süre çevirin, ardından beyaz şarabı ilave edip alkolü uçana kadar kaynatın.</li>
+  <li>Domates, et suyu ve defne yaprağını ekleyin, mühürlenmiş etleri tekrar tencereye yerleştirin.</li>
+  <li>Kapağını kapatıp kısık ateşte yaklaşık 1,5–2 saat, etler kemikten kolayca ayrılacak kadar yumuşayana kadar pişirin.</li>
+  <li>Defne yaprağını çıkarın ve sıcak olarak servis edin.</li>
+</ol>
+
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="İtalyan Mutfağı" /><summary type="html"><![CDATA[Osso Buco, İtalyan mutfağının Milano kökenli en klasik ana yemeklerinden biridir. Dana incik ile hazırlanan bu yemek, uzun sürede kısık ateşte pişirilerek etin iliğiyle birlikte yumuşacık bir doku kazanmasını sağlar. Sebzeler, beyaz şarap ve et suyunun birleşimiyle ortaya çıkan yoğun ve aromatik sosu, Osso Buco’yu özellikle özel davet sofraları için ideal bir lezzet haline getirir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/osso-buco-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/osso-buco-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Pastitsio Tarifi (Yunan Usulü Fırın Makarna)</title><link href="http://localhost:4000/pastitsio-tarifi" rel="alternate" type="text/html" title="Pastitsio Tarifi (Yunan Usulü Fırın Makarna)" /><published>2025-12-20T00:00:00+03:00</published><updated>2025-12-20T00:00:00+03:00</updated><id>http://localhost:4000/pastitsio-tarifi</id><content type="html" xml:base="http://localhost:4000/pastitsio-tarifi"><![CDATA[<p>Pastitsio, Yunan mutfağının en sevilen fırın yemeklerinden biridir; kat kat dizilmiş makarna, tarçınla aromalandırılmış kıymalı sos ve kadifemsi beşamelin uyumu ile doyurucu ve dengeli bir lezzet sunar. Özellikle kalabalık sofralar için ideal olan bu yemek, fırından çıktıktan sonra kısa süre dinlendirildiğinde katmanlarını daha net gösterir ve servis sırasında dağılmadan kesilebilir.</p>
 
 <h2 id="malzemeler-68-kişilik">Malzemeler (6–8 kişilik):</h2>
 
@@ -89,35 +158,7 @@
   <li>180 °C fırında üstü kızarana kadar yaklaşık 35–40 dakika pişirin. Dinlendirip dilimleyerek servis edin.</li>
 </ol>
 
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Yunan Mutfağı" /><summary type="html"><![CDATA[Pastitsio, Yunan mutfağının en sevilen fırın yemeklerinden biridir; kat kat dizilmiş makarna, tarçınla aromalandırılmış kıymalı sos ve kadifemsi beşamelin uyumu ile doyurucu ve dengeli bir lezzet sunar. Özellikle kalabalık sofralar için ideal olan bu yemek, fırından çıktıktan sonra kısa süre dinlendirildiğinde katmanlarını daha net gösterir ve servis sırasında dağılmadan kesilebilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/pastitsio-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/pastitsio-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Aguachile Tarifi</title><link href="http://localhost:4000/aguachile-tarifi" rel="alternate" type="text/html" title="Aguachile Tarifi" /><published>2025-12-20T00:00:00+03:00</published><updated>2025-12-20T00:00:00+03:00</updated><id>http://localhost:4000/aguachile-tarifi</id><content type="html" xml:base="http://localhost:4000/aguachile-tarifi"><![CDATA[<p>Aguachile, Meksika’nın özellikle Sinaloa bölgesine özgü, limon suyuyla “soğuk pişirme” tekniğine dayanan ferah ve acı bir deniz ürünü yemeğidir. Ceviche’ye benzer ancak daha keskin acılık ve daha kısa marine süresiyle öne çıkar; taze karidesin doğal lezzeti, yeşil biber ve kişnişin aromatik yapısıyla dengelenir. Sıcak yaz günlerinde hafif, hızlı ve çarpıcı bir başlangıç olarak tercih edilir.</p>
-
-<h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
-
-<ul>
-  <li>500 gr çiğ karides (kabukları ayıklanmış, sırtı temizlenmiş)</li>
-  <li>6–8 adet yeşil limonun suyu</li>
-  <li>2–3 adet serrano veya jalapeño biber</li>
-  <li>1 avuç taze kişniş</li>
-  <li>1 diş sarımsak</li>
-  <li>1 küçük kırmızı soğan (ince piyazlık)</li>
-  <li>1 salatalık (ince dilimlenmiş)</li>
-  <li>Tuz</li>
-  <li>Karabiber</li>
-  <li>Servis için mısır tostadası veya tortilla cipsi</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Karidesleri kelebek şeklinde ortadan ikiye kesip geniş bir kaseye alın.</li>
-  <li>Limon suyunu karideslerin üzerine dökün, hafifçe karıştırın ve buzdolabında 10–15 dakika bekletin (rengi dönüp hafifçe pişmiş görünecek).</li>
-  <li>Biberleri, kişnişi, sarımsağı ve bir tutam tuzu blenderdan geçirerek yeşil bir sos hazırlayın.</li>
-  <li>Sosu karideslerin üzerine ekleyin, nazikçe karıştırın.</li>
-  <li>Kırmızı soğan ve salatalık dilimlerini ilave edin; tuz ve karabiberle son ayarı yapın.</li>
-  <li>Soğuk olarak, tostadas veya tortilla cipsiyle servis edin.</li>
-</ol>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Meksika Mutfağı" /><summary type="html"><![CDATA[Aguachile, Meksika’nın özellikle Sinaloa bölgesine özgü, limon suyuyla “soğuk pişirme” tekniğine dayanan ferah ve acı bir deniz ürünü yemeğidir. Ceviche’ye benzer ancak daha keskin acılık ve daha kısa marine süresiyle öne çıkar; taze karidesin doğal lezzeti, yeşil biber ve kişnişin aromatik yapısıyla dengelenir. Sıcak yaz günlerinde hafif, hızlı ve çarpıcı bir başlangıç olarak tercih edilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/aguachile-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/aguachile-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cannelloni Tarifi</title><link href="http://localhost:4000/cannelloni-tarifi" rel="alternate" type="text/html" title="Cannelloni Tarifi" /><published>2025-12-20T00:00:00+03:00</published><updated>2025-12-20T00:00:00+03:00</updated><id>http://localhost:4000/cannelloni-tarifi</id><content type="html" xml:base="http://localhost:4000/cannelloni-tarifi"><![CDATA[<p>Cannelloni, içi doldurulmuş makarnaların fırında sos ve peynirle buluştuğu, doyurucu ve şık bir İtalyan klasiğidir. Ricotta–ıspanak dolgusu, beşamelin kremamsı dokusuyla dengelenir; fırında pişerken makarna sosu içine çekerek yumuşak ama formunu koruyan bir yapı kazanır. İsteğe göre iç harcı kıymalı veya mantarlı yapabilir, üst sosu domatesle zenginleştirerek farklı yorumlar elde edebilirsiniz.</p>
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Yunan Mutfağı" /><summary type="html"><![CDATA[Pastitsio, Yunan mutfağının en sevilen fırın yemeklerinden biridir; kat kat dizilmiş makarna, tarçınla aromalandırılmış kıymalı sos ve kadifemsi beşamelin uyumu ile doyurucu ve dengeli bir lezzet sunar. Özellikle kalabalık sofralar için ideal olan bu yemek, fırından çıktıktan sonra kısa süre dinlendirildiğinde katmanlarını daha net gösterir ve servis sırasında dağılmadan kesilebilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/pastitsio-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/pastitsio-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cannelloni Tarifi</title><link href="http://localhost:4000/cannelloni-tarifi" rel="alternate" type="text/html" title="Cannelloni Tarifi" /><published>2025-12-20T00:00:00+03:00</published><updated>2025-12-20T00:00:00+03:00</updated><id>http://localhost:4000/cannelloni-tarifi</id><content type="html" xml:base="http://localhost:4000/cannelloni-tarifi"><![CDATA[<p>Cannelloni, içi doldurulmuş makarnaların fırında sos ve peynirle buluştuğu, doyurucu ve şık bir İtalyan klasiğidir. Ricotta–ıspanak dolgusu, beşamelin kremamsı dokusuyla dengelenir; fırında pişerken makarna sosu içine çekerek yumuşak ama formunu koruyan bir yapı kazanır. İsteğe göre iç harcı kıymalı veya mantarlı yapabilir, üst sosu domatesle zenginleştirerek farklı yorumlar elde edebilirsiniz.</p>
 
 <h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
 
@@ -158,7 +199,78 @@
   <li><strong>Fırın</strong>: Önceden ısıtılmış 180°C fırında 30–35 dakika, üzeri kızarana kadar pişirin. 5 dakika dinlendirip servis edin.</li>
 </ol>
 
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="İtalyan Mutfağı" /><summary type="html"><![CDATA[Cannelloni, içi doldurulmuş makarnaların fırında sos ve peynirle buluştuğu, doyurucu ve şık bir İtalyan klasiğidir. Ricotta–ıspanak dolgusu, beşamelin kremamsı dokusuyla dengelenir; fırında pişerken makarna sosu içine çekerek yumuşak ama formunu koruyan bir yapı kazanır. İsteğe göre iç harcı kıymalı veya mantarlı yapabilir, üst sosu domatesle zenginleştirerek farklı yorumlar elde edebilirsiniz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/cannelloni-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/cannelloni-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yakitori (Japon Usulü Tavuk Şiş) Tarifi</title><link href="http://localhost:4000/yakitori-japon-usulu-tavuk-sis-tarifi" rel="alternate" type="text/html" title="Yakitori (Japon Usulü Tavuk Şiş) Tarifi" /><published>2025-12-15T00:00:00+03:00</published><updated>2025-12-15T00:00:00+03:00</updated><id>http://localhost:4000/yakitori-japon-usulu-tavuk-sis-tarifi</id><content type="html" xml:base="http://localhost:4000/yakitori-japon-usulu-tavuk-sis-tarifi"><![CDATA[<p>Yakitori, Japon mutfağının en sevilen sokak lezzetlerinden biridir. Geleneksel olarak mangalda pişirilen bu tavuk şişler, soya sosu bazlı hafif tatlı ve tuzlu bir sosla lezzetlendirilir. Az malzemeyle hazırlanmasına rağmen dengeli aroması sayesinde oldukça karakteristik bir tada sahiptir. Evde kolayca hazırlanabilir ve hem ana yemek hem de meze olarak servis edilebilir.</p>
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="İtalyan Mutfağı" /><summary type="html"><![CDATA[Cannelloni, içi doldurulmuş makarnaların fırında sos ve peynirle buluştuğu, doyurucu ve şık bir İtalyan klasiğidir. Ricotta–ıspanak dolgusu, beşamelin kremamsı dokusuyla dengelenir; fırında pişerken makarna sosu içine çekerek yumuşak ama formunu koruyan bir yapı kazanır. İsteğe göre iç harcı kıymalı veya mantarlı yapabilir, üst sosu domatesle zenginleştirerek farklı yorumlar elde edebilirsiniz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/cannelloni-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/cannelloni-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Aguachile Tarifi</title><link href="http://localhost:4000/aguachile-tarifi" rel="alternate" type="text/html" title="Aguachile Tarifi" /><published>2025-12-20T00:00:00+03:00</published><updated>2025-12-20T00:00:00+03:00</updated><id>http://localhost:4000/aguachile-tarifi</id><content type="html" xml:base="http://localhost:4000/aguachile-tarifi"><![CDATA[<p>Aguachile, Meksika’nın özellikle Sinaloa bölgesine özgü, limon suyuyla “soğuk pişirme” tekniğine dayanan ferah ve acı bir deniz ürünü yemeğidir. Ceviche’ye benzer ancak daha keskin acılık ve daha kısa marine süresiyle öne çıkar; taze karidesin doğal lezzeti, yeşil biber ve kişnişin aromatik yapısıyla dengelenir. Sıcak yaz günlerinde hafif, hızlı ve çarpıcı bir başlangıç olarak tercih edilir.</p>
+
+<h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
+
+<ul>
+  <li>500 gr çiğ karides (kabukları ayıklanmış, sırtı temizlenmiş)</li>
+  <li>6–8 adet yeşil limonun suyu</li>
+  <li>2–3 adet serrano veya jalapeño biber</li>
+  <li>1 avuç taze kişniş</li>
+  <li>1 diş sarımsak</li>
+  <li>1 küçük kırmızı soğan (ince piyazlık)</li>
+  <li>1 salatalık (ince dilimlenmiş)</li>
+  <li>Tuz</li>
+  <li>Karabiber</li>
+  <li>Servis için mısır tostadası veya tortilla cipsi</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Karidesleri kelebek şeklinde ortadan ikiye kesip geniş bir kaseye alın.</li>
+  <li>Limon suyunu karideslerin üzerine dökün, hafifçe karıştırın ve buzdolabında 10–15 dakika bekletin (rengi dönüp hafifçe pişmiş görünecek).</li>
+  <li>Biberleri, kişnişi, sarımsağı ve bir tutam tuzu blenderdan geçirerek yeşil bir sos hazırlayın.</li>
+  <li>Sosu karideslerin üzerine ekleyin, nazikçe karıştırın.</li>
+  <li>Kırmızı soğan ve salatalık dilimlerini ilave edin; tuz ve karabiberle son ayarı yapın.</li>
+  <li>Soğuk olarak, tostadas veya tortilla cipsiyle servis edin.</li>
+</ol>
+
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Meksika Mutfağı" /><summary type="html"><![CDATA[Aguachile, Meksika’nın özellikle Sinaloa bölgesine özgü, limon suyuyla “soğuk pişirme” tekniğine dayanan ferah ve acı bir deniz ürünü yemeğidir. Ceviche’ye benzer ancak daha keskin acılık ve daha kısa marine süresiyle öne çıkar; taze karidesin doğal lezzeti, yeşil biber ve kişnişin aromatik yapısıyla dengelenir. Sıcak yaz günlerinde hafif, hızlı ve çarpıcı bir başlangıç olarak tercih edilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/aguachile-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/aguachile-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Katsu Curry Tarifi</title><link href="http://localhost:4000/katsu-curry-tarifi" rel="alternate" type="text/html" title="Katsu Curry Tarifi" /><published>2025-12-20T00:00:00+03:00</published><updated>2025-12-20T00:00:00+03:00</updated><id>http://localhost:4000/katsu-curry-tarifi</id><content type="html" xml:base="http://localhost:4000/katsu-curry-tarifi"><![CDATA[<p>Katsu Curry, Japon mutfağının en sevilen ev yemeklerinden biridir ve çıtır pane kaplı etin, hafif tatlı ve baharatlı curry sosuyla buluşmasıyla ortaya çıkar. Batı’dan esinlenen pane tekniği ile Japon köri kültürünü birleştiren bu yemek, doyurucu yapısı ve dengeli aroması sayesinde hem günlük öğünlerde hem de restoran menülerinde sıkça yer alır. Pirinçle birlikte servis edildiğinde tam bir konfor yemeği olarak öne çıkar.</p>
+
+<h2 id="malzemeler-23-kişilik">Malzemeler (2–3 kişilik):</h2>
+
+<p><strong>Katsu için</strong>:</p>
+
+<ul>
+  <li>2 adet tavuk göğsü (veya domuz pirzolası)</li>
+  <li>Tuz, karabiber</li>
+  <li>1/2 su bardağı un</li>
+  <li>1 adet yumurta</li>
+  <li>1 su bardağı panko (Japon galeta unu)</li>
+  <li>Kızartmak için sıvı yağ</li>
+</ul>
+
+<p><strong>Curry sosu için</strong>:</p>
+
+<ul>
+  <li>1 adet soğan (ince doğranmış)</li>
+  <li>1 adet havuç (küçük küp doğranmış)</li>
+  <li>1 adet patates (küçük küp doğranmış)</li>
+  <li>1 yemek kaşığı sıvı yağ</li>
+  <li>2 su bardağı su veya tavuk suyu</li>
+  <li>1 paket Japon curry roux (veya 2 yemek kaşığı köri tozu + 1 yemek kaşığı un + 1 yemek kaşığı tereyağı)</li>
+</ul>
+
+<p><strong>Servis için</strong>:</p>
+
+<ul>
+  <li>Haşlanmış Japon pirinci (veya baldo pirinç)</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Tavuk göğüslerini ortadan ikiye kesip inceltin, tuz ve karabiberle tatlandırın.</li>
+  <li>Tavukları sırasıyla una, çırpılmış yumurtaya ve pankoya bulayın.</li>
+  <li>Kızgın yağda altın rengi olana kadar kızartın, kağıt havlu üzerinde dinlendirin.</li>
+  <li>Curry sosu için tencerede sıvı yağı ısıtın, soğanları pembeleşene kadar kavurun. Havuç ve patatesi ekleyip birkaç dakika çevirin.</li>
+  <li>Suyu ekleyin, sebzeler yumuşayana kadar pişirin. Curry roux’u ekleyip karıştırın ve sos koyulaşana kadar kısık ateşte pişirin.</li>
+  <li>Kızarmış katsu’yu dilimleyin. Pirincin üzerine koyup sıcak curry sosuyla servis edin.</li>
+</ol>
+
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Japon Mutfağı" /><summary type="html"><![CDATA[Katsu Curry, Japon mutfağının en sevilen ev yemeklerinden biridir ve çıtır pane kaplı etin, hafif tatlı ve baharatlı curry sosuyla buluşmasıyla ortaya çıkar. Batı’dan esinlenen pane tekniği ile Japon köri kültürünü birleştiren bu yemek, doyurucu yapısı ve dengeli aroması sayesinde hem günlük öğünlerde hem de restoran menülerinde sıkça yer alır. Pirinçle birlikte servis edildiğinde tam bir konfor yemeği olarak öne çıkar.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/katsu-curry-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/katsu-curry-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yakitori (Japon Usulü Tavuk Şiş) Tarifi</title><link href="http://localhost:4000/yakitori-japon-usulu-tavuk-sis-tarifi" rel="alternate" type="text/html" title="Yakitori (Japon Usulü Tavuk Şiş) Tarifi" /><published>2025-12-15T00:00:00+03:00</published><updated>2025-12-15T00:00:00+03:00</updated><id>http://localhost:4000/yakitori-japon-usulu-tavuk-sis-tarifi</id><content type="html" xml:base="http://localhost:4000/yakitori-japon-usulu-tavuk-sis-tarifi"><![CDATA[<p>Yakitori, Japon mutfağının en sevilen sokak lezzetlerinden biridir. Geleneksel olarak mangalda pişirilen bu tavuk şişler, soya sosu bazlı hafif tatlı ve tuzlu bir sosla lezzetlendirilir. Az malzemeyle hazırlanmasına rağmen dengeli aroması sayesinde oldukça karakteristik bir tada sahiptir. Evde kolayca hazırlanabilir ve hem ana yemek hem de meze olarak servis edilebilir.</p>
 
 <h2 id="malzemeler">Malzemeler:</h2>
 
@@ -268,93 +380,4 @@
   <li>Sos malzemelerini karıştırın ve manduları sıcak servis edin.</li>
 </ol>
 
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Kore Mutfağı" /><summary type="html"><![CDATA[Mandu, Kore mutfağının en sevilen hamur işlerinden biridir. Türk mantısına benzese de iç harcında kullanılan Asya aromaları, susam yağı ve soya sosu sayesinde kendine özgü bir lezzet sunar. Buharda, suda ya da tavada kızartılarak hazırlanabilen mandu; hem ana yemek hem de atıştırmalık olarak tüketilebilir. Özellikle kalabalık sofralarda paylaşmalık bir lezzet olarak öne çıkar.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/mandu-kore-mantisi-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/mandu-kore-mantisi-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Onigiri Tarifi</title><link href="http://localhost:4000/onigiri-tarifi" rel="alternate" type="text/html" title="Onigiri Tarifi" /><published>2025-12-07T00:00:00+03:00</published><updated>2025-12-07T00:00:00+03:00</updated><id>http://localhost:4000/onigiri-tarifi</id><content type="html" xml:base="http://localhost:4000/onigiri-tarifi"><![CDATA[<p>Onigiri, Japon mutfağının en pratik ve sevilen atıştırmalıklarından biridir. Genellikle üçgen ya da yuvarlak şekillerde hazırlanır ve içi isteğe göre ton balığı, somon, umeboshi veya sebzelerle doldurulabilir. Sokak lezzeti olarak bilinse de evlerde de sıkça yapılır. Özellikle bento kutularının vazgeçilmezi olan onigiri, hem doyurucu hem de taşıması kolay bir öğündür.</p>
-
-<h2 id="malzemeler">Malzemeler:</h2>
-
-<ul>
-  <li>2 su bardağı Japon pirinci (kısa taneli)</li>
-  <li>2,5 su bardağı su</li>
-  <li>Tuz</li>
-  <li>1–2 yaprak nori (isteğe bağlı)</li>
-  <li>İç harcı için (örnek seçenekler):
-    <ul>
-      <li>Tuzlu somon</li>
-      <li>Ton balığı + mayonez</li>
-      <li>Umeboshi (ekşi erik turşusu)</li>
-      <li>Haşlanmış sebze karışımı</li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Pirinci birkaç kez nişastası gidene kadar yıkayın. Ardından 30 dakika kadar suda bekletin.</li>
-  <li>Suyu ekleyip pirinci pişirin. Dinlenmesi için 10 dakika bekletin.</li>
-  <li>Elleriniz hafif tuzlu ve ıslak olacak şekilde pirinçten bir avuç alın.</li>
-  <li>Ortasına seçtiğiniz iç harcından biraz koyun ve pirinci kapatarak üçgen veya yuvarlak bir şekil verin.</li>
-  <li>İsterseniz alt kısmına küçük bir parça nori yaprağı sarabilirsiniz.</li>
-  <li>Onigiri servise hazırdır. Ilık veya oda sıcaklığında tüketebilirsiniz.</li>
-</ol>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Japon Mutfağı" /><summary type="html"><![CDATA[Onigiri, Japon mutfağının en pratik ve sevilen atıştırmalıklarından biridir. Genellikle üçgen ya da yuvarlak şekillerde hazırlanır ve içi isteğe göre ton balığı, somon, umeboshi veya sebzelerle doldurulabilir. Sokak lezzeti olarak bilinse de evlerde de sıkça yapılır. Özellikle bento kutularının vazgeçilmezi olan onigiri, hem doyurucu hem de taşıması kolay bir öğündür.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/onigiri-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/onigiri-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Humus Tarifi (Humus bi Tahina)</title><link href="http://localhost:4000/humus-tarifi-humus-bi-tahina" rel="alternate" type="text/html" title="Humus Tarifi (Humus bi Tahina)" /><published>2025-12-07T00:00:00+03:00</published><updated>2025-12-07T00:00:00+03:00</updated><id>http://localhost:4000/humus-tarifi-humus-bi-tahina</id><content type="html" xml:base="http://localhost:4000/humus-tarifi-humus-bi-tahina"><![CDATA[<p>Humus, Orta Doğu mutfağının en bilinen mezelerinden biridir ve temel olarak nohut ile tahinin mükemmel uyumuna dayanır. Hem besleyici hem de pratik olan bu tarif, doğru oranda limon, tahin ve sarımsak dengesiyle karakteristik kremsi dokusunu kazanır. Soğuk meze olarak servis edildiğinde ekmek, lavaş, sebze çubukları veya et yemekleriyle uyum sağlar.</p>
-
-<h2 id="malzemeler">Malzemeler:</h2>
-
-<ul>
-  <li>2 su bardağı haşlanmış nohut</li>
-  <li>2 yemek kaşığı tahin</li>
-  <li>2 diş sarımsak</li>
-  <li>Yarım çay bardağı zeytinyağı</li>
-  <li>1 adet limonun suyu</li>
-  <li>1 çay kaşığı kimyon</li>
-  <li>Tuz</li>
-  <li>Üzeri için: zeytinyağı, toz kırmızı biber, maydanoz</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Haşlanmış nohutları rondoya alın. Tahin, limon suyu, sarımsak, kimyon ve tuzu ekleyin.</li>
-  <li>Pürüzsüz bir kıvam elde edene kadar çekin. Gerekirse birkaç kaşık su ekleyerek kıvamı yumuşatabilirsiniz.</li>
-  <li>Servis tabağına alın, ortasına kaşıkla bir çukur açıp zeytinyağı gezdirin.</li>
-  <li>Üzerine toz kırmızı biber serpip maydanozla süsleyin.</li>
-</ol>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Orta Doğu Mutfağı" /><summary type="html"><![CDATA[Humus, Orta Doğu mutfağının en bilinen mezelerinden biridir ve temel olarak nohut ile tahinin mükemmel uyumuna dayanır. Hem besleyici hem de pratik olan bu tarif, doğru oranda limon, tahin ve sarımsak dengesiyle karakteristik kremsi dokusunu kazanır. Soğuk meze olarak servis edildiğinde ekmek, lavaş, sebze çubukları veya et yemekleriyle uyum sağlar.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/humus-tarifi-humus-bi-tahina.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/humus-tarifi-humus-bi-tahina.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Jollof Rice Tarifi</title><link href="http://localhost:4000/jollof-rice-tarifi" rel="alternate" type="text/html" title="Jollof Rice Tarifi" /><published>2025-12-07T00:00:00+03:00</published><updated>2025-12-07T00:00:00+03:00</updated><id>http://localhost:4000/jollof-rice-tarifi</id><content type="html" xml:base="http://localhost:4000/jollof-rice-tarifi"><![CDATA[<p>Jollof Rice, Batı Afrika mutfağının en ikonik yemeklerinden biridir. Özellikle Nijerya ve Gana başta olmak üzere birçok ülkede kendine özgü varyasyonları bulunur. Domates, biber ve baharatlarla hazırlanan bu tek tencere yemek; aromatik, hafif acılı ve zengin bir lezzete sahiptir. Hem günlük sofralarda hem de özel kutlamalarda sıklıkla tercih edilen Jollof Rice, dünya mutfağına meraklı herkesin denemesi gereken keyifli bir tarif olarak öne çıkar.</p>
-
-<h2 id="malzemeler">Malzemeler:</h2>
-
-<ul>
-  <li>2 su bardağı yasemin veya uzun taneli pirinç</li>
-  <li>4 adet olgun domates</li>
-  <li>1 adet büyük kuru soğan</li>
-  <li>1 adet kırmızı kapya biber</li>
-  <li>1 diş sarımsak</li>
-  <li>1 yemek kaşığı domates salçası</li>
-  <li>1 çay kaşığı toz kırmızı biber</li>
-  <li>1 çay kaşığı köri</li>
-  <li>1 çay kaşığı kuru kekik</li>
-  <li>2 adet defne yaprağı</li>
-  <li>3 su bardağı tavuk suyu veya su</li>
-  <li>1 çay kaşığı tuz</li>
-  <li>Yarım çay kaşığı karabiber</li>
-  <li>3 yemek kaşığı sıvı yağ</li>
-  <li>1 adet acı biber (isteğe bağlı)</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Domates, kapya biber ve soğanı blenderdan geçirerek püre haline getirin.</li>
-  <li>Geniş bir tencerede sıvı yağı ısıtın. Domates salçasını ekleyip birkaç dakika kavurun.</li>
-  <li>Hazırladığınız domates-biber püresini tencereye ekleyin. 5–7 dakika kaynatıp suyunun biraz çekmesini bekleyin.</li>
-  <li>Baharatları, tuzu ve defne yapraklarını ekleyin. Karıştırarak 1–2 dakika pişirin.</li>
-  <li>Yıkanmış pirinci ekleyin ve sosla iyice harmanlayın.</li>
-  <li>Tavuk suyunu (veya suyu) ekleyin. Kısık ateşte kapağı kapalı şekilde pirinç suyunu çekene kadar pişirin.</li>
-  <li>Ocaktan aldıktan sonra 10 dakika demlenmeye bırakın.</li>
-  <li>Hafifçe karıştırarak servis edin.</li>
-</ol>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Afrika Mutfağı" /><summary type="html"><![CDATA[Jollof Rice, Batı Afrika mutfağının en ikonik yemeklerinden biridir. Özellikle Nijerya ve Gana başta olmak üzere birçok ülkede kendine özgü varyasyonları bulunur. Domates, biber ve baharatlarla hazırlanan bu tek tencere yemek; aromatik, hafif acılı ve zengin bir lezzete sahiptir. Hem günlük sofralarda hem de özel kutlamalarda sıklıkla tercih edilen Jollof Rice, dünya mutfağına meraklı herkesin denemesi gereken keyifli bir tarif olarak öne çıkar.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/jollof-rice-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/jollof-rice-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Kore Mutfağı" /><summary type="html"><![CDATA[Mandu, Kore mutfağının en sevilen hamur işlerinden biridir. Türk mantısına benzese de iç harcında kullanılan Asya aromaları, susam yağı ve soya sosu sayesinde kendine özgü bir lezzet sunar. Buharda, suda ya da tavada kızartılarak hazırlanabilen mandu; hem ana yemek hem de atıştırmalık olarak tüketilebilir. Özellikle kalabalık sofralarda paylaşmalık bir lezzet olarak öne çıkar.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/mandu-kore-mantisi-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/mandu-kore-mantisi-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
