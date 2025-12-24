@@ -2,6 +2,8 @@
   link: /
 - name: Hakkında
   link: /hakkinda
+- name: Etiketler
+  link: /etiketler
 - name: Ara
   link: /ara
 - name: İletişim
