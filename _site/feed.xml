@@ -1,33 +1,146 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-02-07T17:07:59+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Chow Mein Tarifi (Çin Usulü Sebzeli Tavuklu Noodle)</title><link href="http://localhost:4000/chow-mein-tarifi-cin-usulu-sebzeli-tavuklu-noodle" rel="alternate" type="text/html" title="Chow Mein Tarifi (Çin Usulü Sebzeli Tavuklu Noodle)" /><published>2026-02-07T00:00:00+03:00</published><updated>2026-02-07T00:00:00+03:00</updated><id>http://localhost:4000/chow-mein-tarifi-cin-usulu-sebzeli-tavuklu-noodle</id><content type="html" xml:base="http://localhost:4000/chow-mein-tarifi-cin-usulu-sebzeli-tavuklu-noodle"><![CDATA[<p>Chow Mein, yüksek ateşte hızlı pişirme tekniği sayesinde sebzelerin canlılığını, tavuğun ise sulu dokusunu koruyan klasik bir Çin noodle yemeğidir. Soya sosu ve istiridye sosu yemeğe umami derinliği katarken, susam yağı karakteristik Asya aromasını tamamlar. Evde kolayca hazırlanabilmesi ve farklı proteinlerle uyarlanabilmesi sayesinde pratik ama lezzetli bir ana yemek seçeneğidir.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-02-09T08:44:37+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Sinigang Tarifi (Filipin Ekşi Çorbası)</title><link href="http://localhost:4000/sinigang-tarifi-filipin-eksi-corbasi" rel="alternate" type="text/html" title="Sinigang Tarifi (Filipin Ekşi Çorbası)" /><published>2026-02-09T00:00:00+03:00</published><updated>2026-02-09T00:00:00+03:00</updated><id>http://localhost:4000/sinigang-tarifi-filipin-eksi-corbasi</id><content type="html" xml:base="http://localhost:4000/sinigang-tarifi-filipin-eksi-corbasi"><![CDATA[<p>Sinigang, Filipin mutfağının en sevilen yemeklerinden biri olan, karakteristik ekşi tadını genellikle tamarindodan alan ferahlatıcı bir çorbadır. Domuz eti, karides veya balıkla yapılabilen bu yemek; domates, turp, yeşil fasulye ve yapraklı sebzelerle zenginleşir. Dengeli ekşiliği ve hafifliği sayesinde özellikle sıcak havalarda tercih edilir, pilavla birlikte servis edilir.</p>
 
-<h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
+<h2 id="malzemeler">Malzemeler:</h2>
 
 <ul>
-  <li>300 g yumurtalı noodle</li>
-  <li>300 g tavuk göğsü (ince jülyen doğranmış)</li>
-  <li>2 yemek kaşığı sıvı yağ</li>
-  <li>1 adet havuç (jülyen doğranmış)</li>
-  <li>1 adet kırmızı biber (ince doğranmış)</li>
-  <li>1 su bardağı lahana (ince doğranmış)</li>
-  <li>2 dal taze soğan</li>
-  <li>2 yemek kaşığı soya sosu</li>
-  <li>1 yemek kaşığı istiridye sosu</li>
-  <li>1 çay kaşığı susam yağı</li>
+  <li>500 g domuz eti (kaburga veya kuşbaşı) <em>(alternatif: karides veya balık)</em></li>
+  <li>1 adet büyük soğan (dörde bölünmüş)</li>
+  <li>2 adet domates (doğranmış)</li>
+  <li>1 adet beyaz turp (iri dilimlenmiş)</li>
+  <li>150 g yeşil fasulye (ikiye bölünmüş)</li>
+  <li>1 demet kangkong veya ıspanak</li>
+  <li>1 paket tamarind püresi veya 2–3 yemek kaşığı tamarind konsantresi</li>
+  <li>1–1,5 litre su</li>
+  <li>Tuz veya balık sosu (patis)</li>
+  <li>İsteğe bağlı: yeşil acı biber</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Tencereye suyu ve eti ekleyip orta ateşte kaynatın, üzerinde oluşan köpüğü alın.</li>
+  <li>Soğan ve domatesleri ekleyip et yumuşayana kadar yaklaşık 30–40 dakika pişirin.</li>
+  <li>Turp ve yeşil fasulyeyi ekleyin, 5–7 dakika daha kaynatın.</li>
+  <li>Tamarind püresini ekleyip karıştırın, tuz veya balık sosu ile tadını ayarlayın.</li>
+  <li>Son olarak yapraklı yeşillikleri ve varsa acı biberi ekleyip 1–2 dakika pişirin.</li>
+  <li>Sıcak servis edin, yanında sade pilavla sunun.</li>
+</ol>
+
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Filipin Mutfağı" /><summary type="html"><![CDATA[Sinigang, Filipin mutfağının en sevilen yemeklerinden biri olan, karakteristik ekşi tadını genellikle tamarindodan alan ferahlatıcı bir çorbadır. Domuz eti, karides veya balıkla yapılabilen bu yemek; domates, turp, yeşil fasulye ve yapraklı sebzelerle zenginleşir. Dengeli ekşiliği ve hafifliği sayesinde özellikle sıcak havalarda tercih edilir, pilavla birlikte servis edilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/sinigang-tarifi-filipin-eksi-corbasi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/sinigang-tarifi-filipin-eksi-corbasi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Boeuf Bourguignon Tarifi</title><link href="http://localhost:4000/boeuf-bourguignon-tarifi" rel="alternate" type="text/html" title="Boeuf Bourguignon Tarifi" /><published>2026-02-09T00:00:00+03:00</published><updated>2026-02-09T00:00:00+03:00</updated><id>http://localhost:4000/boeuf-bourguignon-tarifi</id><content type="html" xml:base="http://localhost:4000/boeuf-bourguignon-tarifi"><![CDATA[<p>Boeuf Bourguignon, Fransa’nın Burgonya bölgesine özgü, dana etinin kırmızı şarapta uzun süre pişirilmesiyle hazırlanan klasik ve sofistike bir güveç yemeğidir. Yavaş pişirme sayesinde et lif lif dağılırken, şarap, sebzeler ve aromatik otlar derin ve katmanlı bir lezzet oluşturur. Özel gün sofralarına yakışan bu tarif, sabırla pişirildiğinde restoran kalitesinde bir sonuç verir.</p>
+
+<h2 id="malzemeler">Malzemeler:</h2>
+
+<ul>
+  <li>1 kg dana kuşbaşı (kol veya but)</li>
+  <li>2 yemek kaşığı zeytinyağı</li>
+  <li>150 g arpacık soğan</li>
+  <li>2 adet havuç (iri doğranmış)</li>
+  <li>2 diş sarımsak (ezilmiş)</li>
+  <li>2 yemek kaşığı un</li>
+  <li>2 su bardağı kırmızı şarap (tercihen Burgonya)</li>
+  <li>1 su bardağı et suyu</li>
+  <li>2 yemek kaşığı domates salçası</li>
+  <li>1 dal taze kekik veya 1 çay kaşığı kuru kekik</li>
+  <li>1 adet defne yaprağı</li>
+  <li>200 g mantar</li>
   <li>Tuz, karabiber</li>
 </ul>
 
 <h2 id="hazırlanışı">Hazırlanışı:</h2>
 
 <ol>
-  <li>Noodle’ları paket talimatına göre haşlayıp süzün.</li>
-  <li>Geniş bir wok veya tavada yağı kızdırın, tavukları yüksek ateşte soteleyin.</li>
-  <li>Havuç, biber ve lahanayı ekleyip sebzeler diri kalacak şekilde pişirin.</li>
-  <li>Haşlanmış noodle’ları tavaya alın.</li>
-  <li>Soya sosu, istiridye sosu ve susam yağını ekleyip hızlıca karıştırın.</li>
-  <li>Taze soğanları ekleyip ocaktan alın, sıcak servis edin.</li>
+  <li>Zeytinyağını geniş bir tencerede ısıtın, etleri yüksek ateşte mühürleyip kenara alın.</li>
+  <li>Aynı tencerede arpacık soğanları ve havuçları soteleyin, sarımsağı ekleyin.</li>
+  <li>Unu ilave edip kokusu çıkana kadar karıştırın.</li>
+  <li>Kırmızı şarabı ekleyip dibini kazıyın, ardından et suyu ve salçayı ilave edin.</li>
+  <li>Etleri tencereye geri koyun, kekik ve defne yaprağını ekleyin.</li>
+  <li>Kısık ateşte kapağı kapalı şekilde yaklaşık 2–2,5 saat pişirin.</li>
+  <li>Son 20 dakikada mantarları ekleyin, tuz ve karabiberle tatlandırın.</li>
+  <li>Sıcak servis edin; tercihen patates püresi veya çıtır ekmekle sunun.</li>
+</ol>]]></content><author><name></name></author><category term="Fransız Mutfağı" /><summary type="html"><![CDATA[Boeuf Bourguignon, Fransa’nın Burgonya bölgesine özgü, dana etinin kırmızı şarapta uzun süre pişirilmesiyle hazırlanan klasik ve sofistike bir güveç yemeğidir. Yavaş pişirme sayesinde et lif lif dağılırken, şarap, sebzeler ve aromatik otlar derin ve katmanlı bir lezzet oluşturur. Özel gün sofralarına yakışan bu tarif, sabırla pişirildiğinde restoran kalitesinde bir sonuç verir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/boeuf-bourguignon-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/boeuf-bourguignon-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Khao Pad Tarifi</title><link href="http://localhost:4000/khao-pad-tarifi" rel="alternate" type="text/html" title="Khao Pad Tarifi" /><published>2026-02-09T00:00:00+03:00</published><updated>2026-02-09T00:00:00+03:00</updated><id>http://localhost:4000/khao-pad-tarifi</id><content type="html" xml:base="http://localhost:4000/khao-pad-tarifi"><![CDATA[<p>Khao Pad, Tayland mutfağının en popüler ve pratik yemeklerinden biri olan kızarmış pilav tarifidir. Genellikle yasemin pirinciyle hazırlanan bu yemek, sebzeler, yumurta ve tercihe göre tavuk, karides veya et ile zenginleştirilir. Yüksek ateşte kısa sürede pişirilmesi sayesinde pirinç tane tane kalır; balık sosu ve soya sosu ise yemeğe karakteristik Tay aroması kazandırır. Hem sokak lezzeti hem de ev yemeği olarak sıkça tercih edilir.</p>
+
+<h2 id="malzemeler">Malzemeler:</h2>
+
+<ul>
+  <li>2 su bardağı haşlanmış soğuk yasemin pirinci</li>
+  <li>2 yemek kaşığı sıvı yağ</li>
+  <li>2 adet yumurta</li>
+  <li>150 g tavuk göğsü (küçük doğranmış) veya karides</li>
+  <li>2 diş sarımsak (ince doğranmış)</li>
+  <li>1 adet havuç (küçük küp doğranmış)</li>
+  <li>3–4 yemek kaşığı bezelye</li>
+  <li>1 yemek kaşığı soya sosu</li>
+  <li>1 yemek kaşığı balık sosu</li>
+  <li>1 çay kaşığı toz şeker</li>
+  <li>Karabiber</li>
+  <li>Servis için: lime dilimleri, taze soğan</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Wok veya geniş bir tavada yağı yüksek ateşte ısıtın.</li>
+  <li>Yumurtaları ekleyip hızlıca karıştırarak pişirin, kenara alın.</li>
+  <li>Aynı tavada sarımsağı kısa süre soteleyin, tavuk veya karidesi ekleyip pişirin.</li>
+  <li>Havuç ve bezelyeyi ilave edin, birkaç dakika karıştırın.</li>
+  <li>Pirinci ekleyip yüksek ateşte tane tane olana kadar kavurun.</li>
+  <li>Soya sosu, balık sosu ve şekeri ekleyin, yumurtaları tekrar tavaya alın.</li>
+  <li>Karabiberle tatlandırın, iyice karıştırıp ocaktan alın.</li>
+  <li>Lime dilimleri ve taze soğanla sıcak servis edin.</li>
 </ol>
 
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Çin Mutfağı" /><summary type="html"><![CDATA[Chow Mein, yüksek ateşte hızlı pişirme tekniği sayesinde sebzelerin canlılığını, tavuğun ise sulu dokusunu koruyan klasik bir Çin noodle yemeğidir. Soya sosu ve istiridye sosu yemeğe umami derinliği katarken, susam yağı karakteristik Asya aromasını tamamlar. Evde kolayca hazırlanabilmesi ve farklı proteinlerle uyarlanabilmesi sayesinde pratik ama lezzetli bir ana yemek seçeneğidir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/chow-mein-tarifi-cin-usulu-sebzeli-tavuklu-noodle.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/chow-mein-tarifi-cin-usulu-sebzeli-tavuklu-noodle.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Bangers and Mash Tarifi (İngiliz Usulü Sosis &amp;amp; Patates Püresi)</title><link href="http://localhost:4000/bangers-and-mash-tarifi-ingiliz-usulu-sosis-and-patates-puresi" rel="alternate" type="text/html" title="Bangers and Mash Tarifi (İngiliz Usulü Sosis &amp;amp; Patates Püresi)" /><published>2026-02-07T00:00:00+03:00</published><updated>2026-02-07T00:00:00+03:00</updated><id>http://localhost:4000/bangers-and-mash-tarifi-ingiliz-usulu-sosis-and-patates-puresi</id><content type="html" xml:base="http://localhost:4000/bangers-and-mash-tarifi-ingiliz-usulu-sosis-and-patates-puresi"><![CDATA[<p>Bangers and Mash, İngiliz mutfağının en bilinen comfort food yemeklerinden biridir ve sade malzemelerle doyurucu bir lezzet sunar. Kremamsı patates püresi, çıtır dış yüzeye sahip sosislerle mükemmel bir denge oluştururken, karamelize soğanlı gravy sos yemeğe derinlik ve karakter katar. Geleneksel pub mutfağının vazgeçilmezlerinden olan bu tarif, evde klasik İngiliz lezzetlerini denemek isteyenler için ideal bir seçenektir.</p>
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Tayland Mutfağı" /><summary type="html"><![CDATA[Khao Pad, Tayland mutfağının en popüler ve pratik yemeklerinden biri olan kızarmış pilav tarifidir. Genellikle yasemin pirinciyle hazırlanan bu yemek, sebzeler, yumurta ve tercihe göre tavuk, karides veya et ile zenginleştirilir. Yüksek ateşte kısa sürede pişirilmesi sayesinde pirinç tane tane kalır; balık sosu ve soya sosu ise yemeğe karakteristik Tay aroması kazandırır. Hem sokak lezzeti hem de ev yemeği olarak sıkça tercih edilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/khao-pad-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/khao-pad-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Gnocchi al Pesto Tarifi</title><link href="http://localhost:4000/gnocchi-al-pesto-tarifi" rel="alternate" type="text/html" title="Gnocchi al Pesto Tarifi" /><published>2026-02-09T00:00:00+03:00</published><updated>2026-02-09T00:00:00+03:00</updated><id>http://localhost:4000/gnocchi-al-pesto-tarifi</id><content type="html" xml:base="http://localhost:4000/gnocchi-al-pesto-tarifi"><![CDATA[<p>Gnocchi al Pesto, İtalyan mutfağının en sade ama aroması en yoğun yemeklerinden biridir; yumuşak patates gnocchi’lerin taze fesleğenin ferahlığı, zeytinyağının yuvarlaklığı ve parmesan peynirinin umamisiyle buluşması sayesinde kısa sürede şık ve doyurucu bir ana yemeğe dönüşür. Özellikle fesleğenin en taze olduğu dönemlerde yapıldığında, malzeme azlığına rağmen son derece karakterli bir lezzet sunar.</p>
+
+<h2 id="malzemeler-23-kişilik">Malzemeler (2–3 kişilik):</h2>
+
+<ul>
+  <li>500 g patates gnocchi</li>
+  <li>1 su bardağı taze fesleğen yaprağı</li>
+  <li>1 diş sarımsak</li>
+  <li>3 yemek kaşığı çam fıstığı (veya ceviz)</li>
+  <li>1/2 su bardağı zeytinyağı</li>
+  <li>1/2 su bardağı rendelenmiş parmesan peyniri</li>
+  <li>Tuz</li>
+  <li>Karabiber</li>
+  <li>(İsteğe bağlı) Servis için ekstra parmesan</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Geniş bir tencerede tuzlu suyu kaynatın, gnocchi’leri ekleyin. Yüzeye çıktıklarında 1–2 dakika daha kaynatıp süzün.</li>
+  <li>Fesleğen, sarımsak, çam fıstığı, parmesan ve bir tutam tuzu mutfak robotuna alın. Zeytinyağını yavaş yavaş ekleyerek pürüzsüz bir pesto elde edin.</li>
+  <li>Sıcak gnocchi’leri bir kaba alın, pesto sosu ekleyip nazikçe karıştırın. Gerekirse birkaç kaşık haşlama suyuyla kıvam verin.</li>
+  <li>Karabiber serpin, ekstra parmesanla servis edin.</li>
+</ol>
+
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="İtalyan Mutfağı" /><summary type="html"><![CDATA[Gnocchi al Pesto, İtalyan mutfağının en sade ama aroması en yoğun yemeklerinden biridir; yumuşak patates gnocchi’lerin taze fesleğenin ferahlığı, zeytinyağının yuvarlaklığı ve parmesan peynirinin umamisiyle buluşması sayesinde kısa sürede şık ve doyurucu bir ana yemeğe dönüşür. Özellikle fesleğenin en taze olduğu dönemlerde yapıldığında, malzeme azlığına rağmen son derece karakterli bir lezzet sunar.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/gnocchi-al-pesto-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/gnocchi-al-pesto-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Souvlaki Tarifi (Yunan Usulü Tavuk Şiş)</title><link href="http://localhost:4000/souvlaki-tarifi-yunan-usulu-tavuk-sis" rel="alternate" type="text/html" title="Souvlaki Tarifi (Yunan Usulü Tavuk Şiş)" /><published>2026-02-07T00:00:00+03:00</published><updated>2026-02-07T00:00:00+03:00</updated><id>http://localhost:4000/souvlaki-tarifi-yunan-usulu-tavuk-sis</id><content type="html" xml:base="http://localhost:4000/souvlaki-tarifi-yunan-usulu-tavuk-sis"><![CDATA[<p>Souvlaki, Yunan mutfağının en sevilen sokak lezzetlerinden biridir ve sade ama aromatik marinasyonu sayesinde etin doğal lezzetini ön plana çıkarır. Limon suyu ve zeytinyağı etin yumuşak kalmasını sağlarken, kekik ve sarımsak karakteristik Akdeniz aromasını verir. Genellikle pita ekmeği, tzatziki sos ve taze sebzelerle servis edilerek dengeli ve doyurucu bir öğün haline getirilir.</p>
+
+<h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
+
+<ul>
+  <li>600 g tavuk göğsü (kuşbaşı doğranmış)</li>
+  <li>4 yemek kaşığı zeytinyağı</li>
+  <li>2 diş sarımsak (ezilmiş)</li>
+  <li>1 limonun suyu</li>
+  <li>1 tatlı kaşığı kekik</li>
+  <li>1 çay kaşığı paprika</li>
+  <li>Tuz, karabiber</li>
+  <li>Şiş çubukları</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Tavukları derin bir kaba alın.</li>
+  <li>Zeytinyağı, limon suyu, sarımsak ve baharatları ekleyip iyice harmanlayın.</li>
+  <li>En az 1 saat (tercihen 3–4 saat) buzdolabında marine edin.</li>
+  <li>Tavukları şişlere dizin.</li>
+  <li>Izgarada, döndürerek her tarafı güzelce kızarana kadar pişirin (yaklaşık 10–12 dakika).</li>
+  <li>Sıcak servis edin.</li>
+</ol>
+
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Yunan Mutfağı" /><summary type="html"><![CDATA[Souvlaki, Yunan mutfağının en sevilen sokak lezzetlerinden biridir ve sade ama aromatik marinasyonu sayesinde etin doğal lezzetini ön plana çıkarır. Limon suyu ve zeytinyağı etin yumuşak kalmasını sağlarken, kekik ve sarımsak karakteristik Akdeniz aromasını verir. Genellikle pita ekmeği, tzatziki sos ve taze sebzelerle servis edilerek dengeli ve doyurucu bir öğün haline getirilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/souvlaki-tarifi-yunan-usulu-tavuk-sis.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/souvlaki-tarifi-yunan-usulu-tavuk-sis.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Bangers and Mash Tarifi (İngiliz Usulü Sosis &amp;amp; Patates Püresi)</title><link href="http://localhost:4000/bangers-and-mash-tarifi-ingiliz-usulu-sosis-and-patates-puresi" rel="alternate" type="text/html" title="Bangers and Mash Tarifi (İngiliz Usulü Sosis &amp;amp; Patates Püresi)" /><published>2026-02-07T00:00:00+03:00</published><updated>2026-02-07T00:00:00+03:00</updated><id>http://localhost:4000/bangers-and-mash-tarifi-ingiliz-usulu-sosis-and-patates-puresi</id><content type="html" xml:base="http://localhost:4000/bangers-and-mash-tarifi-ingiliz-usulu-sosis-and-patates-puresi"><![CDATA[<p>Bangers and Mash, İngiliz mutfağının en bilinen comfort food yemeklerinden biridir ve sade malzemelerle doyurucu bir lezzet sunar. Kremamsı patates püresi, çıtır dış yüzeye sahip sosislerle mükemmel bir denge oluştururken, karamelize soğanlı gravy sos yemeğe derinlik ve karakter katar. Geleneksel pub mutfağının vazgeçilmezlerinden olan bu tarif, evde klasik İngiliz lezzetlerini denemek isteyenler için ideal bir seçenektir.</p>
 
 <h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
 
@@ -61,33 +174,36 @@
   <li>Püreyi tabağa alın, üzerine sosisleri yerleştirip soğanlı sos gezdirerek servis edin.</li>
 </ol>
 
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="İngiliz Mutfağı" /><summary type="html"><![CDATA[Bangers and Mash, İngiliz mutfağının en bilinen comfort food yemeklerinden biridir ve sade malzemelerle doyurucu bir lezzet sunar. Kremamsı patates püresi, çıtır dış yüzeye sahip sosislerle mükemmel bir denge oluştururken, karamelize soğanlı gravy sos yemeğe derinlik ve karakter katar. Geleneksel pub mutfağının vazgeçilmezlerinden olan bu tarif, evde klasik İngiliz lezzetlerini denemek isteyenler için ideal bir seçenektir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/bangers-and-mash-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/bangers-and-mash-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Souvlaki Tarifi (Yunan Usulü Tavuk Şiş)</title><link href="http://localhost:4000/souvlaki-tarifi-yunan-usulu-tavuk-sis" rel="alternate" type="text/html" title="Souvlaki Tarifi (Yunan Usulü Tavuk Şiş)" /><published>2026-02-07T00:00:00+03:00</published><updated>2026-02-07T00:00:00+03:00</updated><id>http://localhost:4000/souvlaki-tarifi-yunan-usulu-tavuk-sis</id><content type="html" xml:base="http://localhost:4000/souvlaki-tarifi-yunan-usulu-tavuk-sis"><![CDATA[<p>Souvlaki, Yunan mutfağının en sevilen sokak lezzetlerinden biridir ve sade ama aromatik marinasyonu sayesinde etin doğal lezzetini ön plana çıkarır. Limon suyu ve zeytinyağı etin yumuşak kalmasını sağlarken, kekik ve sarımsak karakteristik Akdeniz aromasını verir. Genellikle pita ekmeği, tzatziki sos ve taze sebzelerle servis edilerek dengeli ve doyurucu bir öğün haline getirilir.</p>
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="İngiliz Mutfağı" /><summary type="html"><![CDATA[Bangers and Mash, İngiliz mutfağının en bilinen comfort food yemeklerinden biridir ve sade malzemelerle doyurucu bir lezzet sunar. Kremamsı patates püresi, çıtır dış yüzeye sahip sosislerle mükemmel bir denge oluştururken, karamelize soğanlı gravy sos yemeğe derinlik ve karakter katar. Geleneksel pub mutfağının vazgeçilmezlerinden olan bu tarif, evde klasik İngiliz lezzetlerini denemek isteyenler için ideal bir seçenektir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/bangers-and-mash-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/bangers-and-mash-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Chow Mein Tarifi (Çin Usulü Sebzeli Tavuklu Noodle)</title><link href="http://localhost:4000/chow-mein-tarifi-cin-usulu-sebzeli-tavuklu-noodle" rel="alternate" type="text/html" title="Chow Mein Tarifi (Çin Usulü Sebzeli Tavuklu Noodle)" /><published>2026-02-07T00:00:00+03:00</published><updated>2026-02-07T00:00:00+03:00</updated><id>http://localhost:4000/chow-mein-tarifi-cin-usulu-sebzeli-tavuklu-noodle</id><content type="html" xml:base="http://localhost:4000/chow-mein-tarifi-cin-usulu-sebzeli-tavuklu-noodle"><![CDATA[<p>Chow Mein, yüksek ateşte hızlı pişirme tekniği sayesinde sebzelerin canlılığını, tavuğun ise sulu dokusunu koruyan klasik bir Çin noodle yemeğidir. Soya sosu ve istiridye sosu yemeğe umami derinliği katarken, susam yağı karakteristik Asya aromasını tamamlar. Evde kolayca hazırlanabilmesi ve farklı proteinlerle uyarlanabilmesi sayesinde pratik ama lezzetli bir ana yemek seçeneğidir.</p>
 
 <h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
 
 <ul>
-  <li>600 g tavuk göğsü (kuşbaşı doğranmış)</li>
-  <li>4 yemek kaşığı zeytinyağı</li>
-  <li>2 diş sarımsak (ezilmiş)</li>
-  <li>1 limonun suyu</li>
-  <li>1 tatlı kaşığı kekik</li>
-  <li>1 çay kaşığı paprika</li>
+  <li>300 g yumurtalı noodle</li>
+  <li>300 g tavuk göğsü (ince jülyen doğranmış)</li>
+  <li>2 yemek kaşığı sıvı yağ</li>
+  <li>1 adet havuç (jülyen doğranmış)</li>
+  <li>1 adet kırmızı biber (ince doğranmış)</li>
+  <li>1 su bardağı lahana (ince doğranmış)</li>
+  <li>2 dal taze soğan</li>
+  <li>2 yemek kaşığı soya sosu</li>
+  <li>1 yemek kaşığı istiridye sosu</li>
+  <li>1 çay kaşığı susam yağı</li>
   <li>Tuz, karabiber</li>
-  <li>Şiş çubukları</li>
 </ul>
 
 <h2 id="hazırlanışı">Hazırlanışı:</h2>
 
 <ol>
-  <li>Tavukları derin bir kaba alın.</li>
-  <li>Zeytinyağı, limon suyu, sarımsak ve baharatları ekleyip iyice harmanlayın.</li>
-  <li>En az 1 saat (tercihen 3–4 saat) buzdolabında marine edin.</li>
-  <li>Tavukları şişlere dizin.</li>
-  <li>Izgarada, döndürerek her tarafı güzelce kızarana kadar pişirin (yaklaşık 10–12 dakika).</li>
-  <li>Sıcak servis edin.</li>
+  <li>Noodle’ları paket talimatına göre haşlayıp süzün.</li>
+  <li>Geniş bir wok veya tavada yağı kızdırın, tavukları yüksek ateşte soteleyin.</li>
+  <li>Havuç, biber ve lahanayı ekleyip sebzeler diri kalacak şekilde pişirin.</li>
+  <li>Haşlanmış noodle’ları tavaya alın.</li>
+  <li>Soya sosu, istiridye sosu ve susam yağını ekleyip hızlıca karıştırın.</li>
+  <li>Taze soğanları ekleyip ocaktan alın, sıcak servis edin.</li>
 </ol>
 
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Yunan Mutfağı" /><summary type="html"><![CDATA[Souvlaki, Yunan mutfağının en sevilen sokak lezzetlerinden biridir ve sade ama aromatik marinasyonu sayesinde etin doğal lezzetini ön plana çıkarır. Limon suyu ve zeytinyağı etin yumuşak kalmasını sağlarken, kekik ve sarımsak karakteristik Akdeniz aromasını verir. Genellikle pita ekmeği, tzatziki sos ve taze sebzelerle servis edilerek dengeli ve doyurucu bir öğün haline getirilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/souvlaki-tarifi-yunan-usulu-tavuk-sis.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/souvlaki-tarifi-yunan-usulu-tavuk-sis.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Arancini Tarifi (İtalyan Usulü Pirinç Topları)</title><link href="http://localhost:4000/arancini-tarifi-italyan-usulu-pirinc-toplari" rel="alternate" type="text/html" title="Arancini Tarifi (İtalyan Usulü Pirinç Topları)" /><published>2026-01-25T00:00:00+03:00</published><updated>2026-01-25T00:00:00+03:00</updated><id>http://localhost:4000/arancini-tarifi-italyan-usulu-pirinc-toplari</id><content type="html" xml:base="http://localhost:4000/arancini-tarifi-italyan-usulu-pirinc-toplari"><![CDATA[<p>Arancini, Sicilya mutfağının en sevilen sokak lezzetlerinden biridir ve adını portakala benzeyen yuvarlak şeklinden alır. Dışı çıtır çıtır kızarmış, içi ise kremamsı risotto pirinci ve lezzetli dolgularla zenginleştirilmiş bu atıştırmalık, hem ana yemek öncesi hem de tek başına doyurucu bir seçenek olarak tercih edilir. Klasik tarifte peynir ve etli iç harç kullanılsa da, damak zevkine göre sebzeli veya sade versiyonları da yapılabilir.</p>
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Çin Mutfağı" /><summary type="html"><![CDATA[Chow Mein, yüksek ateşte hızlı pişirme tekniği sayesinde sebzelerin canlılığını, tavuğun ise sulu dokusunu koruyan klasik bir Çin noodle yemeğidir. Soya sosu ve istiridye sosu yemeğe umami derinliği katarken, susam yağı karakteristik Asya aromasını tamamlar. Evde kolayca hazırlanabilmesi ve farklı proteinlerle uyarlanabilmesi sayesinde pratik ama lezzetli bir ana yemek seçeneğidir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/chow-mein-tarifi-cin-usulu-sebzeli-tavuklu-noodle.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/chow-mein-tarifi-cin-usulu-sebzeli-tavuklu-noodle.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Arancini Tarifi (İtalyan Usulü Pirinç Topları)</title><link href="http://localhost:4000/arancini-tarifi-italyan-usulu-pirinc-toplari" rel="alternate" type="text/html" title="Arancini Tarifi (İtalyan Usulü Pirinç Topları)" /><published>2026-01-25T00:00:00+03:00</published><updated>2026-01-25T00:00:00+03:00</updated><id>http://localhost:4000/arancini-tarifi-italyan-usulu-pirinc-toplari</id><content type="html" xml:base="http://localhost:4000/arancini-tarifi-italyan-usulu-pirinc-toplari"><![CDATA[<p>Arancini, Sicilya mutfağının en sevilen sokak lezzetlerinden biridir ve adını portakala benzeyen yuvarlak şeklinden alır. Dışı çıtır çıtır kızarmış, içi ise kremamsı risotto pirinci ve lezzetli dolgularla zenginleştirilmiş bu atıştırmalık, hem ana yemek öncesi hem de tek başına doyurucu bir seçenek olarak tercih edilir. Klasik tarifte peynir ve etli iç harç kullanılsa da, damak zevkine göre sebzeli veya sade versiyonları da yapılabilir.</p>
 
 <h2 id="malzemeler">Malzemeler:</h2>
 
@@ -192,138 +308,4 @@
 
 <p><strong>Servis Önerisi</strong>: Sıcak servis edin ve üzerine ekstra karabiber serpin.</p>
 
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="İtalyan Mutfağı" /><summary type="html"><![CDATA[Cacio e Pepe, Roma mutfağının en sade ama en karakterli makarna tariflerinden biridir. Sadece birkaç malzeme ile hazırlanmasına rağmen doğru teknik uygulanmadığında kolayca bozulan bir yemektir. Bu tarifin sırrı; kaliteli peynir kullanımı, taze çekilmiş karabiber ve makarna suyunun doğru oranla emülsiyon oluşturacak şekilde bağlanmasındadır. Kremasız olmasına rağmen kremsi dokusuyla öne çıkar ve İtalyan mutfağında “az malzeme, maksimum lezzet” felsefesinin en iyi örneklerinden biridir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/cacio-e-pepe-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/cacio-e-pepe-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Aloo Gobi Tarifi</title><link href="http://localhost:4000/aloo-gobi-tarifi" rel="alternate" type="text/html" title="Aloo Gobi Tarifi" /><published>2026-01-14T00:00:00+03:00</published><updated>2026-01-14T00:00:00+03:00</updated><id>http://localhost:4000/aloo-gobi-tarifi</id><content type="html" xml:base="http://localhost:4000/aloo-gobi-tarifi"><![CDATA[<p>Aloo Gobi, Hindistan mutfağının en sevilen sebze yemeklerinden biridir. Patates (aloo) ve karnabaharın (gobi) aromatik baharatlarla buluştuğu bu tarif; vegan, hafif ve doyurucu yapısıyla öne çıkar. Özellikle zerdeçal, kimyon ve kişniş gibi baharatlar sayesinde hem besleyici hem de sıcak, dengeli bir lezzet profiline sahiptir. Pilav, naan veya roti ile servis edildiğinde tam bir ana yemek olur.</p>
-
-<h2 id="malzemeler-4-kişilik">Malzemeler (4 Kişilik):</h2>
-
-<ul>
-  <li>2 adet orta boy patates</li>
-  <li>1 adet orta boy karnabahar</li>
-  <li>1 adet orta boy soğan (ince doğranmış)</li>
-  <li>2 diş sarımsak (ezilmiş)</li>
-  <li>1 çay kaşığı rendelenmiş taze zencefil</li>
-  <li>2 yemek kaşığı sıvı yağ</li>
-  <li>1 çay kaşığı kimyon tohumu</li>
-  <li>1 çay kaşığı zerdeçal</li>
-  <li>1 çay kaşığı toz kişniş</li>
-  <li>1 çay kaşığı kırmızı biber</li>
-  <li>Tuz (damak tadına göre)</li>
-  <li>Yarım çay kaşığı garam masala (isteğe bağlı)</li>
-  <li>Üzeri için taze kişniş veya maydanoz</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Patatesleri soyup küp küp doğrayın. Karnabaharı çiçeklerine ayırın ve yıkayın.</li>
-  <li>Geniş bir tavada yağı ısıtın, kimyon tohumlarını ekleyip kısa süre kavurun.</li>
-  <li>Soğanı ekleyin ve pembeleşene kadar soteleyin. Ardından sarımsak ve zencefili ekleyin.</li>
-  <li>Zerdeçal, toz kişniş ve kırmızı biberi ekleyip karıştırın.</li>
-  <li>Patatesleri ekleyin, birkaç dakika karıştırarak kavurun.</li>
-  <li>Karnabaharı ve tuzu ekleyin. Kısık ateşte kapağı kapalı şekilde 15–20 dakika, sebzeler yumuşayana kadar pişirin.</li>
-  <li>Ocaktan almadan önce garam masalayı ekleyin, karıştırın ve servis edin.</li>
-  <li>Üzerini taze yeşilliklerle süsleyerek sıcak servis yapın.</li>
-</ol>
-
-<p><strong>Servis önerisi</strong>: Basmatî pilavı veya ev yapımı naan ekmeğiyle birlikte sunabilirsiniz.</p>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Hindistan Mutfağı" /><summary type="html"><![CDATA[Aloo Gobi, Hindistan mutfağının en sevilen sebze yemeklerinden biridir. Patates (aloo) ve karnabaharın (gobi) aromatik baharatlarla buluştuğu bu tarif; vegan, hafif ve doyurucu yapısıyla öne çıkar. Özellikle zerdeçal, kimyon ve kişniş gibi baharatlar sayesinde hem besleyici hem de sıcak, dengeli bir lezzet profiline sahiptir. Pilav, naan veya roti ile servis edildiğinde tam bir ana yemek olur.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/aloo-gobi-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/aloo-gobi-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Moqueca (Brezilya Usulü Balık Yahnisi)</title><link href="http://localhost:4000/moqueca-brezilya-usulu-balik-yahnisi-tarifi" rel="alternate" type="text/html" title="Moqueca (Brezilya Usulü Balık Yahnisi)" /><published>2026-01-14T00:00:00+03:00</published><updated>2026-01-14T00:00:00+03:00</updated><id>http://localhost:4000/moqueca-brezilya-usulu-balik-yahnisi-tarifi</id><content type="html" xml:base="http://localhost:4000/moqueca-brezilya-usulu-balik-yahnisi-tarifi"><![CDATA[<p>Moqueca, Brezilya mutfağının özellikle Bahia bölgesine özgü, hindistancevizi sütü ve palmiye yağı (dendê) ile hazırlanan aromatik bir balık yemeğidir. Tropikal tatların taze sebzelerle birleştiği bu tarif, hafif ama yoğun lezzetli yapısıyla öne çıkar. Genellikle beyaz etli balıkla hazırlanır ve yanında pilav ile servis edilir.</p>
-
-<h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
-
-<ul>
-  <li>600 g beyaz etli balık fileto (mezgit, levrek veya morina)</li>
-  <li>2 adet soğan (yarım ay doğranmış)</li>
-  <li>2 adet yeşil biber (halka doğranmış)</li>
-  <li>1 adet kırmızı biber (halka doğranmış)</li>
-  <li>2 adet domates (dilimlenmiş)</li>
-  <li>3 diş sarımsak (ezilmiş)</li>
-  <li>200 ml hindistancevizi sütü</li>
-  <li>2 yemek kaşığı palmiye yağı (yoksa zeytinyağı)</li>
-  <li>1 adet limonun suyu</li>
-  <li>Tuz, karabiber</li>
-  <li>Taze kişniş veya maydanoz</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Balıkları limon suyu, tuz ve karabiberle harmanlayıp 10–15 dakika marine edin.</li>
-  <li>Geniş ve tercihen kalın tabanlı bir tencerede yağı ısıtın. Soğan ve sarımsağı hafifçe yumuşayana kadar soteleyin.</li>
-  <li>Biberleri ve domatesleri ekleyin, birkaç dakika pişirin.</li>
-  <li>Marine edilmiş balıkları sebzelerin üzerine yerleştirin.</li>
-  <li>Hindistancevizi sütünü ekleyin, tencerenin kapağını kapatın ve kısık ateşte 15–20 dakika pişirin.</li>
-  <li>Ocaktan almadan önce üzerine ince kıyılmış kişniş veya maydanoz serpin.</li>
-</ol>
-
-<p><strong>Servis Önerisi</strong>: Moqueca’yı sade beyaz pirinç ve limon dilimleriyle sıcak olarak servis edebilirsiniz. Hafif acı soslar da yemeğin tropikal karakterini güçlendirir.</p>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Brezilya Mutfağı" /><summary type="html"><![CDATA[Moqueca, Brezilya mutfağının özellikle Bahia bölgesine özgü, hindistancevizi sütü ve palmiye yağı (dendê) ile hazırlanan aromatik bir balık yemeğidir. Tropikal tatların taze sebzelerle birleştiği bu tarif, hafif ama yoğun lezzetli yapısıyla öne çıkar. Genellikle beyaz etli balıkla hazırlanır ve yanında pilav ile servis edilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/moqueca-brezilya-usulu-balik-yahnisi-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/moqueca-brezilya-usulu-balik-yahnisi-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Chicken Satay Tarifi</title><link href="http://localhost:4000/chicken-satay-tarifi" rel="alternate" type="text/html" title="Chicken Satay Tarifi" /><published>2026-01-14T00:00:00+03:00</published><updated>2026-01-14T00:00:00+03:00</updated><id>http://localhost:4000/chicken-satay-tarifi</id><content type="html" xml:base="http://localhost:4000/chicken-satay-tarifi"><![CDATA[<p>Chicken Satay, Güneydoğu Asya mutfağının en sevilen sokak lezzetlerinden biridir ve özellikle Endonezya ile Tayland mutfağıyla özdeşleşmiştir. Soya sosu, fıstık ezmesi ve aromatik baharatlarla marine edilen tavukların ızgarada pişirilmesiyle hazırlanan bu yemek, hem yumuşak dokusu hem de yoğun aromasıyla öne çıkar. Yanında servis edilen fıstık sosu ise yemeğe karakteristik tatlı-tuzlu dengesini kazandırır.</p>
-
-<h2 id="malzemeler">Malzemeler:</h2>
-
-<p><strong>Tavuk için</strong>:</p>
-
-<ul>
-  <li>500 g tavuk göğsü</li>
-  <li>3 yemek kaşığı soya sosu</li>
-  <li>2 yemek kaşığı yer fıstığı ezmesi</li>
-  <li>1 yemek kaşığı esmer şeker</li>
-  <li>1 yemek kaşığı limon suyu</li>
-  <li>2 diş sarımsak (rendelenmiş)</li>
-  <li>1 çay kaşığı zencefil (rendelenmiş)</li>
-  <li>1 yemek kaşığı sıvı yağ</li>
-</ul>
-
-<p><strong>Fıstık sosu için</strong>:</p>
-
-<ul>
-  <li>2 yemek kaşığı yer fıstığı ezmesi</li>
-  <li>1 yemek kaşığı soya sosu</li>
-  <li>1 çay kaşığı esmer şeker</li>
-  <li>1 çay kaşığı limon suyu</li>
-  <li>2–3 yemek kaşığı sıcak su (kıvam için)</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Tavuk göğsünü uzun, ince şeritler halinde kesin.</li>
-  <li>Bir kapta soya sosu, yer fıstığı ezmesi, esmer şeker, limon suyu, sarımsak, zencefil ve sıvı yağı karıştırın.</li>
-  <li>Tavukları bu marinada en az 1 saat (tercihen 3–4 saat) buzdolabında dinlendirin.</li>
-  <li>Marine edilen tavukları şişlere dizin.</li>
-  <li>Izgara tavada veya mangalda orta ateşte, her iki yüzünü de çevirerek 8–10 dakika pişirin.</li>
-  <li>Fıstık sosu için tüm sos malzemelerini küçük bir kasede pürüzsüz olana kadar karıştırın.</li>
-  <li>Tavuk şişleri sıcak servis edin, yanında fıstık sosu ile sunun.</li>
-</ol>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Endonezya Mutfağı" /><summary type="html"><![CDATA[Chicken Satay, Güneydoğu Asya mutfağının en sevilen sokak lezzetlerinden biridir ve özellikle Endonezya ile Tayland mutfağıyla özdeşleşmiştir. Soya sosu, fıstık ezmesi ve aromatik baharatlarla marine edilen tavukların ızgarada pişirilmesiyle hazırlanan bu yemek, hem yumuşak dokusu hem de yoğun aromasıyla öne çıkar. Yanında servis edilen fıstık sosu ise yemeğe karakteristik tatlı-tuzlu dengesini kazandırır.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/chicken-satay-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/chicken-satay-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Poutine Tarifi</title><link href="http://localhost:4000/poutine-tarifi" rel="alternate" type="text/html" title="Poutine Tarifi" /><published>2025-12-22T00:00:00+03:00</published><updated>2025-12-22T00:00:00+03:00</updated><id>http://localhost:4000/poutine-tarifi</id><content type="html" xml:base="http://localhost:4000/poutine-tarifi"><![CDATA[<p>Poutine, Kanada mutfağının en bilinen sokak lezzetlerinden biridir ve temel olarak çıtır patates kızartması, taze peynir telemesi ve yoğun et suyuyla hazırlanan sosun birleşiminden oluşur. Sıcak patateslerin üzerinde hafifçe eriyen peynir ve sosun verdiği derin lezzet, poutine’i hem doyurucu hem de konfor yemeği haline getirir. Orijinal hali oldukça sade olsa da farklı etler, mantar veya baharatlarla zenginleştirilen pek çok modern yorumu da bulunmaktadır.</p>
-
-<h2 id="malzemeler">Malzemeler:</h2>
-
-<ul>
-  <li>1 kg patates</li>
-  <li>Kızartmak için sıvı yağ</li>
-  <li>200 g peynir telemesi (cheese curds, yoksa taze mozzarella da kullanılabilir)</li>
-</ul>
-
-<p><strong>Sos için</strong>:</p>
-
-<ul>
-  <li>2 yemek kaşığı tereyağı</li>
-  <li>2 yemek kaşığı un</li>
-  <li>2 su bardağı et suyu (dana veya tavuk)</li>
-  <li>1 çay kaşığı karabiber</li>
-  <li>Tuz (gerekirse)</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Patatesleri soyup kalın parmak şeklinde doğrayın. Nişastasını bırakması için soğuk suda 20–30 dakika bekletin, ardından iyice kurulayın.</li>
-  <li>Patatesleri 170°C civarında kızgın yağda hafif renk alana kadar kızartın, çıkarıp dinlendirin. Ardından yağı daha da kızdırıp patatesleri ikinci kez kızartarak altın rengi ve çıtır hale getirin.</li>
-  <li>Sos için tereyağını tavada eritin, unu ekleyip kokusu çıkana kadar kavurun. Et suyunu yavaş yavaş ekleyerek topaklanmaması için sürekli karıştırın. Koyulaşınca karabiberini ekleyin, tuzunu ayarlayın ve ocaktan alın.</li>
-  <li>Servis tabağına sıcak patatesleri yerleştirin, üzerine peynir telemelerini serpin. En son sıcak sosu gezdirerek hemen servis edin.</li>
-</ol>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Kanada Mutfağı" /><summary type="html"><![CDATA[Poutine, Kanada mutfağının en bilinen sokak lezzetlerinden biridir ve temel olarak çıtır patates kızartması, taze peynir telemesi ve yoğun et suyuyla hazırlanan sosun birleşiminden oluşur. Sıcak patateslerin üzerinde hafifçe eriyen peynir ve sosun verdiği derin lezzet, poutine’i hem doyurucu hem de konfor yemeği haline getirir. Orijinal hali oldukça sade olsa da farklı etler, mantar veya baharatlarla zenginleştirilen pek çok modern yorumu da bulunmaktadır.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2025/12/poutine-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2025/12/poutine-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="İtalyan Mutfağı" /><summary type="html"><![CDATA[Cacio e Pepe, Roma mutfağının en sade ama en karakterli makarna tariflerinden biridir. Sadece birkaç malzeme ile hazırlanmasına rağmen doğru teknik uygulanmadığında kolayca bozulan bir yemektir. Bu tarifin sırrı; kaliteli peynir kullanımı, taze çekilmiş karabiber ve makarna suyunun doğru oranla emülsiyon oluşturacak şekilde bağlanmasındadır. Kremasız olmasına rağmen kremsi dokusuyla öne çıkar ve İtalyan mutfağında “az malzeme, maksimum lezzet” felsefesinin en iyi örneklerinden biridir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/01/cacio-e-pepe-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/01/cacio-e-pepe-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
