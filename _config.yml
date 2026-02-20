@@ -16,6 +16,9 @@ paginate_path: /sayfa:num/
 # Google Analytics
 google_analytics: G-J3008RYHE2
 
+# Ads
+top_banner: true
+
 # Plugins
 plugins:
   - jekyll-paginate

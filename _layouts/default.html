@@ -16,6 +16,12 @@
 </head>
 
 <body>
+  {% if site.top_banner == true %}
+    <div class="banner px-3 p-2 text-center">
+      {% include banner.html %}
+    </div>
+  {% endif %}
+
   {% include header.html %}
   {{ content }}
   {% include footer.html %}

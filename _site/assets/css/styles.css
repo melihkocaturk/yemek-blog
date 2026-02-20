@@ -7,6 +7,8 @@ body { font-family: "Merriweather", serif; font-optical-sizing: auto; font-weigh
 
 h1, h2, h3, h4, h5, h6 { font-weight: 500; font-style: italic; }
 
+.banner { background-color: #cecece; }
+
 .bg-dark { background-color: black !important; }
 
 .nav-link { font-size: 12px; font-weight: 400; text-transform: uppercase; }
