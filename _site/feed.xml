@@ -1,35 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-02-24T10:23:29+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Fideuà Tarifi (İspanyol Usulü Deniz Mahsullü Şehriye)</title><link href="http://localhost:4000/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye" rel="alternate" type="text/html" title="Fideuà Tarifi (İspanyol Usulü Deniz Mahsullü Şehriye)" /><published>2026-02-24T00:00:00+03:00</published><updated>2026-02-24T00:00:00+03:00</updated><id>http://localhost:4000/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye</id><content type="html" xml:base="http://localhost:4000/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye"><![CDATA[<p>Fideuà, İspanya’nın Valencia bölgesine özgü, paellaya benzeyen ancak pirinç yerine kısa makarna veya arpa şehriye ile hazırlanan lezzetli bir deniz ürünü yemeğidir. Altının hafif çıtır kalması ve üst kısmının sulu yapısını koruması bu yemeğin en ayırt edici özelliğidir. Genellikle aioli sos ve limon eşliğinde servis edilen fideuà, deniz aromalarını yoğun şekilde hissettiren, pratik ama etkileyici bir ana yemektir.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-03-07T01:17:17+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Menemen Tarifi</title><link href="http://localhost:4000/menemen-tarifi" rel="alternate" type="text/html" title="Menemen Tarifi" /><published>2026-03-06T00:00:00+03:00</published><updated>2026-03-06T00:00:00+03:00</updated><id>http://localhost:4000/menemen-tarifi</id><content type="html" xml:base="http://localhost:4000/menemen-tarifi"><![CDATA[<p>Menemen, Türk mutfağının en sevilen kahvaltı yemeklerinden biridir ve özellikle taze domates, biber ve yumurtanın uyumuyla hazırlanır. Yapımı oldukça pratik olan bu yemek, farklı bölgelerde peynirli, soğanlı veya sucuklu gibi çeşitli yorumlarla hazırlanabilir. Sıcak tavada pişirilip genellikle taze ekmekle servis edilen menemen, hem doyurucu hem de lezzetli bir kahvaltı alternatifi olarak sofralarda sıkça yer alır.</p>
 
-<h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
+<h2 id="malzemeler-2-kişilik">Malzemeler (2 kişilik):</h2>
 
 <ul>
-  <li>300 g arpa şehriye (veya fideuà makarnası)</li>
-  <li>400 g karışık deniz ürünü (karides, kalamar, midye)</li>
-  <li>1 adet küçük soğan (ince doğranmış)</li>
-  <li>2 diş sarımsak (ezilmiş)</li>
-  <li>1 adet rendelenmiş domates</li>
-  <li>1 çay kaşığı toz kırmızı biber</li>
-  <li>Bir tutam safran (veya zerdeçal)</li>
-  <li>4 su bardağı balık suyu</li>
-  <li>3 yemek kaşığı zeytinyağı</li>
-  <li>Tuz, karabiber</li>
-  <li>Servis için limon dilimleri</li>
-  <li>İsteğe bağlı: aioli sos</li>
+  <li>3 adet yumurta</li>
+  <li>2 adet orta boy domates</li>
+  <li>2 adet yeşil biber</li>
+  <li>2 yemek kaşığı zeytinyağı veya tereyağı</li>
+  <li>Tuz</li>
 </ul>
 
 <h2 id="hazırlanışı">Hazırlanışı:</h2>
 
 <ol>
-  <li>Geniş ve yayvan bir tavada zeytinyağını ısıtın, arpa şehriyeyi ekleyip hafifçe kızarana kadar kavurun. Ardından şehriyeyi tavadan alıp kenara koyun.</li>
-  <li>Aynı tavada soğanı ve sarımsağı yumuşayana kadar soteleyin.</li>
-  <li>Deniz ürünlerini ekleyip birkaç dakika yüksek ateşte çevirin.</li>
-  <li>Rendelenmiş domatesi, kırmızı biberi ve safranı ekleyip karıştırın.</li>
-  <li>Kavrulmuş şehriyeyi tekrar tavaya alın ve sıcak balık suyunu ilave edin. Tuz ve karabiberle tatlandırın.</li>
-  <li>Orta ateşte, karıştırmadan, şehriyeler suyunu çekene kadar yaklaşık 10–12 dakika pişirin.</li>
-  <li>Altı hafif tutmaya başladığında ocaktan alın, 5 dakika dinlendirin ve limon dilimleriyle servis edin.</li>
+  <li>Yeşil biberleri küçük küçük doğrayın.</li>
+  <li>Tavada zeytinyağını ısıtın ve biberleri ekleyip birkaç dakika kavurun.</li>
+  <li>Domateslerin kabuklarını soyup küp küp doğrayın ve tavaya ekleyin.</li>
+  <li>Domatesler suyunu salıp biraz çekene kadar pişirin.</li>
+  <li>Yumurtaları tavaya kırın. İsterseniz karıştırarak, isterseniz hafif bütün kalacak şekilde pişirin.</li>
+  <li>Yumurtalar istediğiniz kıvama geldiğinde ocaktan alın ve sıcak servis edin.</li>
 </ol>
 
-<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="İspanya Mutfağı" /><summary type="html"><![CDATA[Fideuà, İspanya’nın Valencia bölgesine özgü, paellaya benzeyen ancak pirinç yerine kısa makarna veya arpa şehriye ile hazırlanan lezzetli bir deniz ürünü yemeğidir. Altının hafif çıtır kalması ve üst kısmının sulu yapısını koruması bu yemeğin en ayırt edici özelliğidir. Genellikle aioli sos ve limon eşliğinde servis edilen fideuà, deniz aromalarını yoğun şekilde hissettiren, pratik ama etkileyici bir ana yemektir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mapo Tofu Tarifi</title><link href="http://localhost:4000/mapo-tofu-tarifi" rel="alternate" type="text/html" title="Mapo Tofu Tarifi" /><published>2026-02-24T00:00:00+03:00</published><updated>2026-02-24T00:00:00+03:00</updated><id>http://localhost:4000/mapo-tofu-tarifi</id><content type="html" xml:base="http://localhost:4000/mapo-tofu-tarifi"><![CDATA[<p>Sichuan mutfağının en sevilen yemeklerinden biri olan Mapo Tofu, yumuşacık tofu küpleri, baharatlı kıymalı sosu ve kendine özgü uyuşturucu acılığıyla (Sichuan biberi etkisi) damakta iz bırakan bir lezzettir. Hem pratik hazırlanması hem de yoğun aroması sayesinde evde Asya mutfağı denemek isteyenler için mükemmel bir başlangıç yemeğidir. Orijinal tarifte acı ve baharat dengesi oldukça belirgindir; ancak damak tadınıza göre acı miktarını kolayca ayarlayabilirsiniz.</p>
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Türk Mutfağı" /><summary type="html"><![CDATA[Menemen, Türk mutfağının en sevilen kahvaltı yemeklerinden biridir ve özellikle taze domates, biber ve yumurtanın uyumuyla hazırlanır. Yapımı oldukça pratik olan bu yemek, farklı bölgelerde peynirli, soğanlı veya sucuklu gibi çeşitli yorumlarla hazırlanabilir. Sıcak tavada pişirilip genellikle taze ekmekle servis edilen menemen, hem doyurucu hem de lezzetli bir kahvaltı alternatifi olarak sofralarda sıkça yer alır.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/menemen-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/menemen-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Caponata Tarifi</title><link href="http://localhost:4000/caponata-tarifi" rel="alternate" type="text/html" title="Caponata Tarifi" /><published>2026-03-06T00:00:00+03:00</published><updated>2026-03-06T00:00:00+03:00</updated><id>http://localhost:4000/caponata-tarifi</id><content type="html" xml:base="http://localhost:4000/caponata-tarifi"><![CDATA[<p>Caponata, İtalya’nın özellikle Sicilya bölgesine özgü, tatlı-ekşi lezzetiyle bilinen geleneksel bir sebze yemeğidir. Patlıcanın ana malzeme olduğu bu tarifte sirke ve şekerin oluşturduğu dengeli sos, kapari ve zeytinle birleşerek karakteristik bir Akdeniz aroması yaratır. Genellikle soğuk veya oda sıcaklığında servis edilir ve antipasti olarak, ekmek üzerinde ya da et yemeklerinin yanında tüketilir. Bu yönüyle hem hafif hem de aroması güçlü klasik bir Akdeniz mutfağı yemeğidir.</p>
+
+<h2 id="malzemeler">Malzemeler:</h2>
+
+<ul>
+  <li>2 adet orta boy patlıcan</li>
+  <li>1 adet büyük soğan</li>
+  <li>2 adet domates (veya 1 su bardağı doğranmış domates)</li>
+  <li>1 adet kırmızı kapya biber</li>
+  <li>2 yemek kaşığı zeytinyağı</li>
+  <li>2 yemek kaşığı sirke</li>
+  <li>1 tatlı kaşığı toz şeker</li>
+  <li>2 yemek kaşığı kapari</li>
+  <li>8–10 adet yeşil zeytin (çekirdeksiz, dilimlenmiş)</li>
+  <li>1 sap kereviz (isteğe bağlı)</li>
+  <li>Tuz ve karabiber</li>
+  <li>Üzeri için taze fesleğen</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Patlıcanları küp küp doğrayın, tuzlu suda yaklaşık 15 dakika bekletin ve kurulayın.</li>
+  <li>Tavada zeytinyağını ısıtıp patlıcanları kızartın veya yumuşayana kadar soteleyin.</li>
+  <li>Ayrı bir tavada doğranmış soğanı ve biberi zeytinyağında yumuşayana kadar kavurun.</li>
+  <li>Üzerine domatesleri ekleyip birkaç dakika pişirin.</li>
+  <li>Kapari, zeytin ve isteğe bağlı kerevizi ekleyin.</li>
+  <li>Sirke, şeker, tuz ve karabiberi ilave edip karıştırın.</li>
+  <li>Son olarak patlıcanları ekleyin ve tüm malzemeleri 5–10 dakika birlikte pişirin.</li>
+  <li>Ocaktan aldıktan sonra oda sıcaklığında dinlendirin ve üzerine fesleğen ekleyerek servis edin.</li>
+</ol>
+
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="İtalyan Mutfağı" /><summary type="html"><![CDATA[Caponata, İtalya’nın özellikle Sicilya bölgesine özgü, tatlı-ekşi lezzetiyle bilinen geleneksel bir sebze yemeğidir. Patlıcanın ana malzeme olduğu bu tarifte sirke ve şekerin oluşturduğu dengeli sos, kapari ve zeytinle birleşerek karakteristik bir Akdeniz aroması yaratır. Genellikle soğuk veya oda sıcaklığında servis edilir ve antipasti olarak, ekmek üzerinde ya da et yemeklerinin yanında tüketilir. Bu yönüyle hem hafif hem de aroması güçlü klasik bir Akdeniz mutfağı yemeğidir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/caponata-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/caponata-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Chicken Cordon Bleu Tarifi</title><link href="http://localhost:4000/chicken-cordon-bleu-tarifi" rel="alternate" type="text/html" title="Chicken Cordon Bleu Tarifi" /><published>2026-03-06T00:00:00+03:00</published><updated>2026-03-06T00:00:00+03:00</updated><id>http://localhost:4000/chicken-cordon-bleu-tarifi</id><content type="html" xml:base="http://localhost:4000/chicken-cordon-bleu-tarifi"><![CDATA[<p>Chicken Cordon Bleu, Fransız mutfağından dünyaya yayılan ve içi peynir ile jambonla doldurulmuş çıtır tavuk rulolarından oluşan klasik bir yemektir. Dışı galeta unuyla kaplanıp kızartıldığı için dışı çıtır, içi ise erimiş peynir sayesinde yumuşak ve lezzetlidir. Genellikle patates püresi, makarna veya yeşil salata ile servis edilir ve hem ev yemeklerinde hem de restoran menülerinde oldukça popüler bir ana yemektir.</p>
+
+<h2 id="malzemeler">Malzemeler:</h2>
+
+<ul>
+  <li>2 adet tavuk göğsü</li>
+  <li>4 dilim dana jambon</li>
+  <li>4 dilim kaşar peyniri veya gruyere peyniri</li>
+  <li>1 su bardağı un</li>
+  <li>2 adet yumurta</li>
+  <li>1 su bardağı galeta unu</li>
+  <li>Tuz</li>
+  <li>Karabiber</li>
+  <li>Kızartmak için sıvı yağ</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Tavuk göğüslerini ortadan ikiye kesin ve streç film arasında et dövücü ile inceltin.</li>
+  <li>Üzerlerine tuz ve karabiber serpin.</li>
+  <li>Her tavuk parçasının üzerine bir dilim jambon ve bir dilim peynir yerleştirin.</li>
+  <li>Tavukları rulo şeklinde sarın ve gerekirse kürdanla sabitleyin.</li>
+  <li>Sırasıyla una, çırpılmış yumurtaya ve galeta ununa bulayın.</li>
+  <li>Tavada kızgın yağda her tarafı altın rengini alana kadar kızartın.</li>
+  <li>Fazla yağını almak için kağıt havlu üzerine alın ve sıcak servis yapın.</li>
+</ol>
+
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Fransız Mutfağı" /><summary type="html"><![CDATA[Chicken Cordon Bleu, Fransız mutfağından dünyaya yayılan ve içi peynir ile jambonla doldurulmuş çıtır tavuk rulolarından oluşan klasik bir yemektir. Dışı galeta unuyla kaplanıp kızartıldığı için dışı çıtır, içi ise erimiş peynir sayesinde yumuşak ve lezzetlidir. Genellikle patates püresi, makarna veya yeşil salata ile servis edilir ve hem ev yemeklerinde hem de restoran menülerinde oldukça popüler bir ana yemektir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/chicken-cordon-bleu-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/chicken-cordon-bleu-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mapo Tofu Tarifi</title><link href="http://localhost:4000/mapo-tofu-tarifi" rel="alternate" type="text/html" title="Mapo Tofu Tarifi" /><published>2026-02-24T00:00:00+03:00</published><updated>2026-02-24T00:00:00+03:00</updated><id>http://localhost:4000/mapo-tofu-tarifi</id><content type="html" xml:base="http://localhost:4000/mapo-tofu-tarifi"><![CDATA[<p>Sichuan mutfağının en sevilen yemeklerinden biri olan Mapo Tofu, yumuşacık tofu küpleri, baharatlı kıymalı sosu ve kendine özgü uyuşturucu acılığıyla (Sichuan biberi etkisi) damakta iz bırakan bir lezzettir. Hem pratik hazırlanması hem de yoğun aroması sayesinde evde Asya mutfağı denemek isteyenler için mükemmel bir başlangıç yemeğidir. Orijinal tarifte acı ve baharat dengesi oldukça belirgindir; ancak damak tadınıza göre acı miktarını kolayca ayarlayabilirsiniz.</p>
 
 <h2 id="malzemeler-23-kişilik">Malzemeler (2–3 kişilik):</h2>
 
@@ -60,7 +112,38 @@
   <li><strong>Baharat ve servis</strong>: Sichuan biberini ve taze soğanı ekleyin. Sıcak servis yapın.</li>
 </ol>
 
-<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Çin Mutfağı" /><summary type="html"><![CDATA[Sichuan mutfağının en sevilen yemeklerinden biri olan Mapo Tofu, yumuşacık tofu küpleri, baharatlı kıymalı sosu ve kendine özgü uyuşturucu acılığıyla (Sichuan biberi etkisi) damakta iz bırakan bir lezzettir. Hem pratik hazırlanması hem de yoğun aroması sayesinde evde Asya mutfağı denemek isteyenler için mükemmel bir başlangıç yemeğidir. Orijinal tarifte acı ve baharat dengesi oldukça belirgindir; ancak damak tadınıza göre acı miktarını kolayca ayarlayabilirsiniz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/mapo-tofu-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/mapo-tofu-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Samosa Chaat Tarifi</title><link href="http://localhost:4000/samosa-chaat-tarifi" rel="alternate" type="text/html" title="Samosa Chaat Tarifi" /><published>2026-02-15T00:00:00+03:00</published><updated>2026-02-15T00:00:00+03:00</updated><id>http://localhost:4000/samosa-chaat-tarifi</id><content type="html" xml:base="http://localhost:4000/samosa-chaat-tarifi"><![CDATA[<p>Samosa Chaat, Hint mutfağının en sevilen sokak lezzetlerinden biridir. Dışı çıtır, içi baharatlı patates ve bezelye dolgulu samosaların; yoğurt, demirhindi sosu ve naneli chutney ile buluşmasıyla ortaya çıkar. Üzerine serpilen baharatlar, çıtır sev (nohut unu eriştesi) ve taze kişniş ile hem dokusal hem de aromatik açıdan zengin, tatlı-ekşi-acı dengesi güçlü bir lezzet sunar.</p>
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Çin Mutfağı" /><summary type="html"><![CDATA[Sichuan mutfağının en sevilen yemeklerinden biri olan Mapo Tofu, yumuşacık tofu küpleri, baharatlı kıymalı sosu ve kendine özgü uyuşturucu acılığıyla (Sichuan biberi etkisi) damakta iz bırakan bir lezzettir. Hem pratik hazırlanması hem de yoğun aroması sayesinde evde Asya mutfağı denemek isteyenler için mükemmel bir başlangıç yemeğidir. Orijinal tarifte acı ve baharat dengesi oldukça belirgindir; ancak damak tadınıza göre acı miktarını kolayca ayarlayabilirsiniz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/mapo-tofu-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/mapo-tofu-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fideuà Tarifi (İspanyol Usulü Deniz Mahsullü Şehriye)</title><link href="http://localhost:4000/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye" rel="alternate" type="text/html" title="Fideuà Tarifi (İspanyol Usulü Deniz Mahsullü Şehriye)" /><published>2026-02-24T00:00:00+03:00</published><updated>2026-02-24T00:00:00+03:00</updated><id>http://localhost:4000/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye</id><content type="html" xml:base="http://localhost:4000/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye"><![CDATA[<p>Fideuà, İspanya’nın Valencia bölgesine özgü, paellaya benzeyen ancak pirinç yerine kısa makarna veya arpa şehriye ile hazırlanan lezzetli bir deniz ürünü yemeğidir. Altının hafif çıtır kalması ve üst kısmının sulu yapısını koruması bu yemeğin en ayırt edici özelliğidir. Genellikle aioli sos ve limon eşliğinde servis edilen fideuà, deniz aromalarını yoğun şekilde hissettiren, pratik ama etkileyici bir ana yemektir.</p>
+
+<h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
+
+<ul>
+  <li>300 g arpa şehriye (veya fideuà makarnası)</li>
+  <li>400 g karışık deniz ürünü (karides, kalamar, midye)</li>
+  <li>1 adet küçük soğan (ince doğranmış)</li>
+  <li>2 diş sarımsak (ezilmiş)</li>
+  <li>1 adet rendelenmiş domates</li>
+  <li>1 çay kaşığı toz kırmızı biber</li>
+  <li>Bir tutam safran (veya zerdeçal)</li>
+  <li>4 su bardağı balık suyu</li>
+  <li>3 yemek kaşığı zeytinyağı</li>
+  <li>Tuz, karabiber</li>
+  <li>Servis için limon dilimleri</li>
+  <li>İsteğe bağlı: aioli sos</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Geniş ve yayvan bir tavada zeytinyağını ısıtın, arpa şehriyeyi ekleyip hafifçe kızarana kadar kavurun. Ardından şehriyeyi tavadan alıp kenara koyun.</li>
+  <li>Aynı tavada soğanı ve sarımsağı yumuşayana kadar soteleyin.</li>
+  <li>Deniz ürünlerini ekleyip birkaç dakika yüksek ateşte çevirin.</li>
+  <li>Rendelenmiş domatesi, kırmızı biberi ve safranı ekleyip karıştırın.</li>
+  <li>Kavrulmuş şehriyeyi tekrar tavaya alın ve sıcak balık suyunu ilave edin. Tuz ve karabiberle tatlandırın.</li>
+  <li>Orta ateşte, karıştırmadan, şehriyeler suyunu çekene kadar yaklaşık 10–12 dakika pişirin.</li>
+  <li>Altı hafif tutmaya başladığında ocaktan alın, 5 dakika dinlendirin ve limon dilimleriyle servis edin.</li>
+</ol>
+
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="İspanya Mutfağı" /><summary type="html"><![CDATA[Fideuà, İspanya’nın Valencia bölgesine özgü, paellaya benzeyen ancak pirinç yerine kısa makarna veya arpa şehriye ile hazırlanan lezzetli bir deniz ürünü yemeğidir. Altının hafif çıtır kalması ve üst kısmının sulu yapısını koruması bu yemeğin en ayırt edici özelliğidir. Genellikle aioli sos ve limon eşliğinde servis edilen fideuà, deniz aromalarını yoğun şekilde hissettiren, pratik ama etkileyici bir ana yemektir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Samosa Chaat Tarifi</title><link href="http://localhost:4000/samosa-chaat-tarifi" rel="alternate" type="text/html" title="Samosa Chaat Tarifi" /><published>2026-02-15T00:00:00+03:00</published><updated>2026-02-15T00:00:00+03:00</updated><id>http://localhost:4000/samosa-chaat-tarifi</id><content type="html" xml:base="http://localhost:4000/samosa-chaat-tarifi"><![CDATA[<p>Samosa Chaat, Hint mutfağının en sevilen sokak lezzetlerinden biridir. Dışı çıtır, içi baharatlı patates ve bezelye dolgulu samosaların; yoğurt, demirhindi sosu ve naneli chutney ile buluşmasıyla ortaya çıkar. Üzerine serpilen baharatlar, çıtır sev (nohut unu eriştesi) ve taze kişniş ile hem dokusal hem de aromatik açıdan zengin, tatlı-ekşi-acı dengesi güçlü bir lezzet sunar.</p>
 
 <h2 id="malzemeler">Malzemeler:</h2>
 
@@ -224,89 +307,4 @@
   <li>Karabiber serpin, ekstra parmesanla servis edin.</li>
 </ol>
 
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="İtalyan Mutfağı" /><summary type="html"><![CDATA[Gnocchi al Pesto, İtalyan mutfağının en sade ama aroması en yoğun yemeklerinden biridir; yumuşak patates gnocchi’lerin taze fesleğenin ferahlığı, zeytinyağının yuvarlaklığı ve parmesan peynirinin umamisiyle buluşması sayesinde kısa sürede şık ve doyurucu bir ana yemeğe dönüşür. Özellikle fesleğenin en taze olduğu dönemlerde yapıldığında, malzeme azlığına rağmen son derece karakterli bir lezzet sunar.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/gnocchi-al-pesto-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/gnocchi-al-pesto-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Boeuf Bourguignon Tarifi</title><link href="http://localhost:4000/boeuf-bourguignon-tarifi" rel="alternate" type="text/html" title="Boeuf Bourguignon Tarifi" /><published>2026-02-09T00:00:00+03:00</published><updated>2026-02-09T00:00:00+03:00</updated><id>http://localhost:4000/boeuf-bourguignon-tarifi</id><content type="html" xml:base="http://localhost:4000/boeuf-bourguignon-tarifi"><![CDATA[<p>Boeuf Bourguignon, Fransa’nın Burgonya bölgesine özgü, dana etinin kırmızı şarapta uzun süre pişirilmesiyle hazırlanan klasik ve sofistike bir güveç yemeğidir. Yavaş pişirme sayesinde et lif lif dağılırken, şarap, sebzeler ve aromatik otlar derin ve katmanlı bir lezzet oluşturur. Özel gün sofralarına yakışan bu tarif, sabırla pişirildiğinde restoran kalitesinde bir sonuç verir.</p>
-
-<h2 id="malzemeler">Malzemeler:</h2>
-
-<ul>
-  <li>1 kg dana kuşbaşı (kol veya but)</li>
-  <li>2 yemek kaşığı zeytinyağı</li>
-  <li>150 g arpacık soğan</li>
-  <li>2 adet havuç (iri doğranmış)</li>
-  <li>2 diş sarımsak (ezilmiş)</li>
-  <li>2 yemek kaşığı un</li>
-  <li>2 su bardağı kırmızı şarap (tercihen Burgonya)</li>
-  <li>1 su bardağı et suyu</li>
-  <li>2 yemek kaşığı domates salçası</li>
-  <li>1 dal taze kekik veya 1 çay kaşığı kuru kekik</li>
-  <li>1 adet defne yaprağı</li>
-  <li>200 g mantar</li>
-  <li>Tuz, karabiber</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Zeytinyağını geniş bir tencerede ısıtın, etleri yüksek ateşte mühürleyip kenara alın.</li>
-  <li>Aynı tencerede arpacık soğanları ve havuçları soteleyin, sarımsağı ekleyin.</li>
-  <li>Unu ilave edip kokusu çıkana kadar karıştırın.</li>
-  <li>Kırmızı şarabı ekleyip dibini kazıyın, ardından et suyu ve salçayı ilave edin.</li>
-  <li>Etleri tencereye geri koyun, kekik ve defne yaprağını ekleyin.</li>
-  <li>Kısık ateşte kapağı kapalı şekilde yaklaşık 2–2,5 saat pişirin.</li>
-  <li>Son 20 dakikada mantarları ekleyin, tuz ve karabiberle tatlandırın.</li>
-  <li>Sıcak servis edin; tercihen patates püresi veya çıtır ekmekle sunun.</li>
-</ol>]]></content><author><name></name></author><category term="Fransız Mutfağı" /><summary type="html"><![CDATA[Boeuf Bourguignon, Fransa’nın Burgonya bölgesine özgü, dana etinin kırmızı şarapta uzun süre pişirilmesiyle hazırlanan klasik ve sofistike bir güveç yemeğidir. Yavaş pişirme sayesinde et lif lif dağılırken, şarap, sebzeler ve aromatik otlar derin ve katmanlı bir lezzet oluşturur. Özel gün sofralarına yakışan bu tarif, sabırla pişirildiğinde restoran kalitesinde bir sonuç verir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/boeuf-bourguignon-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/boeuf-bourguignon-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Sinigang Tarifi (Filipin Ekşi Çorbası)</title><link href="http://localhost:4000/sinigang-tarifi-filipin-eksi-corbasi" rel="alternate" type="text/html" title="Sinigang Tarifi (Filipin Ekşi Çorbası)" /><published>2026-02-09T00:00:00+03:00</published><updated>2026-02-09T00:00:00+03:00</updated><id>http://localhost:4000/sinigang-tarifi-filipin-eksi-corbasi</id><content type="html" xml:base="http://localhost:4000/sinigang-tarifi-filipin-eksi-corbasi"><![CDATA[<p>Sinigang, Filipin mutfağının en sevilen yemeklerinden biri olan, karakteristik ekşi tadını genellikle tamarindodan alan ferahlatıcı bir çorbadır. Domuz eti, karides veya balıkla yapılabilen bu yemek; domates, turp, yeşil fasulye ve yapraklı sebzelerle zenginleşir. Dengeli ekşiliği ve hafifliği sayesinde özellikle sıcak havalarda tercih edilir, pilavla birlikte servis edilir.</p>
-
-<h2 id="malzemeler">Malzemeler:</h2>
-
-<ul>
-  <li>500 g domuz eti (kaburga veya kuşbaşı) <em>(alternatif: karides veya balık)</em></li>
-  <li>1 adet büyük soğan (dörde bölünmüş)</li>
-  <li>2 adet domates (doğranmış)</li>
-  <li>1 adet beyaz turp (iri dilimlenmiş)</li>
-  <li>150 g yeşil fasulye (ikiye bölünmüş)</li>
-  <li>1 demet kangkong veya ıspanak</li>
-  <li>1 paket tamarind püresi veya 2–3 yemek kaşığı tamarind konsantresi</li>
-  <li>1–1,5 litre su</li>
-  <li>Tuz veya balık sosu (patis)</li>
-  <li>İsteğe bağlı: yeşil acı biber</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Tencereye suyu ve eti ekleyip orta ateşte kaynatın, üzerinde oluşan köpüğü alın.</li>
-  <li>Soğan ve domatesleri ekleyip et yumuşayana kadar yaklaşık 30–40 dakika pişirin.</li>
-  <li>Turp ve yeşil fasulyeyi ekleyin, 5–7 dakika daha kaynatın.</li>
-  <li>Tamarind püresini ekleyip karıştırın, tuz veya balık sosu ile tadını ayarlayın.</li>
-  <li>Son olarak yapraklı yeşillikleri ve varsa acı biberi ekleyip 1–2 dakika pişirin.</li>
-  <li>Sıcak servis edin, yanında sade pilavla sunun.</li>
-</ol>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Filipin Mutfağı" /><summary type="html"><![CDATA[Sinigang, Filipin mutfağının en sevilen yemeklerinden biri olan, karakteristik ekşi tadını genellikle tamarindodan alan ferahlatıcı bir çorbadır. Domuz eti, karides veya balıkla yapılabilen bu yemek; domates, turp, yeşil fasulye ve yapraklı sebzelerle zenginleşir. Dengeli ekşiliği ve hafifliği sayesinde özellikle sıcak havalarda tercih edilir, pilavla birlikte servis edilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/sinigang-tarifi-filipin-eksi-corbasi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/sinigang-tarifi-filipin-eksi-corbasi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Souvlaki Tarifi (Yunan Usulü Tavuk Şiş)</title><link href="http://localhost:4000/souvlaki-tarifi-yunan-usulu-tavuk-sis" rel="alternate" type="text/html" title="Souvlaki Tarifi (Yunan Usulü Tavuk Şiş)" /><published>2026-02-07T00:00:00+03:00</published><updated>2026-02-07T00:00:00+03:00</updated><id>http://localhost:4000/souvlaki-tarifi-yunan-usulu-tavuk-sis</id><content type="html" xml:base="http://localhost:4000/souvlaki-tarifi-yunan-usulu-tavuk-sis"><![CDATA[<p>Souvlaki, Yunan mutfağının en sevilen sokak lezzetlerinden biridir ve sade ama aromatik marinasyonu sayesinde etin doğal lezzetini ön plana çıkarır. Limon suyu ve zeytinyağı etin yumuşak kalmasını sağlarken, kekik ve sarımsak karakteristik Akdeniz aromasını verir. Genellikle pita ekmeği, tzatziki sos ve taze sebzelerle servis edilerek dengeli ve doyurucu bir öğün haline getirilir.</p>
-
-<h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
-
-<ul>
-  <li>600 g tavuk göğsü (kuşbaşı doğranmış)</li>
-  <li>4 yemek kaşığı zeytinyağı</li>
-  <li>2 diş sarımsak (ezilmiş)</li>
-  <li>1 limonun suyu</li>
-  <li>1 tatlı kaşığı kekik</li>
-  <li>1 çay kaşığı paprika</li>
-  <li>Tuz, karabiber</li>
-  <li>Şiş çubukları</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Tavukları derin bir kaba alın.</li>
-  <li>Zeytinyağı, limon suyu, sarımsak ve baharatları ekleyip iyice harmanlayın.</li>
-  <li>En az 1 saat (tercihen 3–4 saat) buzdolabında marine edin.</li>
-  <li>Tavukları şişlere dizin.</li>
-  <li>Izgarada, döndürerek her tarafı güzelce kızarana kadar pişirin (yaklaşık 10–12 dakika).</li>
-  <li>Sıcak servis edin.</li>
-</ol>
-
-<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="Yunan Mutfağı" /><summary type="html"><![CDATA[Souvlaki, Yunan mutfağının en sevilen sokak lezzetlerinden biridir ve sade ama aromatik marinasyonu sayesinde etin doğal lezzetini ön plana çıkarır. Limon suyu ve zeytinyağı etin yumuşak kalmasını sağlarken, kekik ve sarımsak karakteristik Akdeniz aromasını verir. Genellikle pita ekmeği, tzatziki sos ve taze sebzelerle servis edilerek dengeli ve doyurucu bir öğün haline getirilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/souvlaki-tarifi-yunan-usulu-tavuk-sis.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/souvlaki-tarifi-yunan-usulu-tavuk-sis.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Afiyet olsun!</p>]]></content><author><name></name></author><category term="İtalyan Mutfağı" /><summary type="html"><![CDATA[Gnocchi al Pesto, İtalyan mutfağının en sade ama aroması en yoğun yemeklerinden biridir; yumuşak patates gnocchi’lerin taze fesleğenin ferahlığı, zeytinyağının yuvarlaklığı ve parmesan peynirinin umamisiyle buluşması sayesinde kısa sürede şık ve doyurucu bir ana yemeğe dönüşür. Özellikle fesleğenin en taze olduğu dönemlerde yapıldığında, malzeme azlığına rağmen son derece karakterli bir lezzet sunar.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/gnocchi-al-pesto-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/gnocchi-al-pesto-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
