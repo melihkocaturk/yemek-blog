@@ -1,100 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-03-12T01:54:51+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Film ve Dizilerde Yemek Kültürü: Ekrandaki Sofraların Ardındaki Anlamlar</title><link href="http://localhost:4000/film-ve-dizilerde-yemek-kulturu-ekrandaki-sofralarin-ardindaki-anlamlar" rel="alternate" type="text/html" title="Film ve Dizilerde Yemek Kültürü: Ekrandaki Sofraların Ardındaki Anlamlar" /><published>2026-03-11T00:00:00+03:00</published><updated>2026-03-11T00:00:00+03:00</updated><id>http://localhost:4000/film-ve-dizilerde-yemek-kulturu-ekrandaki-sofralarin-ardindaki-anlamlar</id><content type="html" xml:base="http://localhost:4000/film-ve-dizilerde-yemek-kulturu-ekrandaki-sofralarin-ardindaki-anlamlar"><![CDATA[<p>Sinema ve televizyon, yalnızca hikâye anlatan araçlar değildir; aynı zamanda toplumların kültürünü, değerlerini ve kimliklerini yansıtan güçlü aynalardır. Bu anlatıların en etkili ama çoğu zaman gözden kaçan unsurlarından biri ise yemek sahneleridir. Sofralar, mutfaklar ve yemek hazırlama ritüelleri; karakterlerin kimliğini, sosyal ilişkilerini ve kültürel bağlarını görünür kılar. Bir yemeğin hazırlanışı, sunuluşu ya da paylaşılışı çoğu zaman sözlü diyaloglardan daha güçlü bir anlatı kurabilir.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-03-30T23:44:56+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Picarones Tarifi (Peru Usulü Kabaklı Tatlı Halka)</title><link href="http://localhost:4000/picarones-tarifi-peru-usulu-kabakli-tatli-halka" rel="alternate" type="text/html" title="Picarones Tarifi (Peru Usulü Kabaklı Tatlı Halka)" /><published>2026-03-30T00:00:00+03:00</published><updated>2026-03-30T00:00:00+03:00</updated><id>http://localhost:4000/picarones-tarifi-peru-usulu-kabakli-tatli-halka</id><content type="html" xml:base="http://localhost:4000/picarones-tarifi-peru-usulu-kabakli-tatli-halka"><![CDATA[<p>Picarones, Peru mutfağının en sevilen sokak tatlılarından biridir ve özellikle balkabağı ile hazırlanması sayesinde klasik kızarmış hamur tatlılarından ayrılır. Dışı çıtır, içi yumuşak olan bu halka tatlı, genellikle tarçın ve karanfil aromalı yoğun bir şerbetle servis edilir. Hem lezzeti hem de dokusuyla lokma ve churros arasında bir deneyim sunan picarones, özellikle kış aylarında sıcak servis edildiğinde oldukça etkileyici bir tatlı alternatifi oluşturur.</p>
 
-<p>Özellikle son yıllarda gastronomi temalı yapımların artmasıyla birlikte yemek, hikâyenin yalnızca arka planı olmaktan çıkmış; karakter gelişimini ve toplumsal anlatıyı şekillendiren merkezi bir unsur hâline gelmiştir. Bu yazıda, farklı dönem ve kültürlerden üç önemli yapım olan The Bear, Babette’s Feast ve Julie &amp; Julia (Türkiye’de “Yemek Aşkına” adıyla bilinir) üzerinden yemek sahnelerinin kültürel ve sembolik anlamlarını inceleyeceğiz.</p>
-
-<h2 id="yemek-sahnesi-neden-bu-kadar-güçlü-bir-anlatı-aracıdır">Yemek Sahnesi Neden Bu Kadar Güçlü Bir Anlatı Aracıdır?</h2>
-
-<p>Yemek, insan yaşamının en temel ihtiyaçlarından biri olmasının ötesinde kültürel kimliğin taşıyıcısıdır. Aile gelenekleri, sınıfsal farklılıklar, göç deneyimleri ve toplumsal ilişkiler çoğu zaman mutfak üzerinden görünür olur.</p>
-
-<p>Film ve dizilerde yemek sahneleri genellikle şu anlamları taşır:</p>
+<h2 id="malzemeler">Malzemeler:</h2>
 
 <ul>
-  <li><strong>Aidiyet ve kimlik</strong>: Bir karakterin kökenini ve kültürel bağlarını gösterir</li>
-  <li><strong>Duygusal bağlar</strong>: Aile içi ilişkiler ve romantik bağlar çoğu zaman sofrada kurulur</li>
-  <li><strong>Sınıfsal farklılıklar</strong>: Yemek türleri ve sunum biçimleri toplumsal statüyü yansıtır</li>
-  <li><strong>Dönüşüm ve iyileşme</strong>: Yemek yapmak karakterin kendini yeniden keşfetme sürecini temsil edebilir</li>
+  <li>2 su bardağı un</li>
+  <li>1 su bardağı haşlanmış ve püre haline getirilmiş balkabağı</li>
+  <li>1 yemek kaşığı kuru maya</li>
+  <li>1 yemek kaşığı şeker</li>
+  <li>1 su bardağı ılık su</li>
+  <li>1/2 çay kaşığı tuz</li>
+  <li>Kızartmak için sıvı yağ</li>
 </ul>
 
-<p>Bu nedenle yemek sahneleri yalnızca estetik bir detay değil, hikâyenin duygusal ve kültürel omurgasıdır.</p>
-
-<h2 id="mutfakta-kaos-ve-tutku-the-bear">Mutfakta Kaos ve Tutku: The Bear</h2>
-
-<p>The Bear, modern televizyonun en gerçekçi mutfak tasvirlerinden birini sunar. Dizinin merkezinde, Michelin yıldızlı restoranlarda çalışmış bir şef olan Carmy’nin ailesinden kalan sandviç dükkânını devralması yer alır.</p>
-
-<p>Bu yapımda yemek kültürü üç önemli temayı temsil eder.</p>
-
-<h3 id="mutfak-bir-savaş-alanıdır">Mutfak Bir Savaş Alanıdır</h3>
-
-<p>Profesyonel mutfak, dizide sürekli bir stres ve hız ortamı olarak gösterilir. Bu atmosfer, modern gastronomi dünyasının rekabetçi yapısını yansıtır.</p>
-
-<h3 id="yemek-aile-geçmişiyle-bağlantılıdır">Yemek Aile Geçmişiyle Bağlantılıdır</h3>
-
-<p>Carmy’nin mutfağa olan bağlılığı yalnızca mesleki bir tutku değildir. Aynı zamanda ailesiyle ve geçmişiyle kurduğu karmaşık ilişkinin bir parçasıdır.</p>
-
-<h3 id="gelenek-ve-yenilik-çatışması">Gelenek ve Yenilik Çatışması</h3>
-
-<p>Chicago’nun yerel fast-food kültürü ile üst düzey restoran anlayışı arasındaki gerilim, dizinin temel anlatılarından biridir. Böylece yemek, kültürel dönüşümün sembolü hâline gelir.</p>
-
-<h2 id="yemek-bir-sanat-ve-bağışlama-ritüeli-babettes-feast">Yemek Bir Sanat ve Bağışlama Ritüeli: Babette’s Feast</h2>
-
-<p>Babette’s Feast, sinema tarihinin en önemli gastronomi temalı filmlerinden biri olarak kabul edilir. Film, 19. yüzyılda Danimarka’daki katı dini kurallarla yaşayan bir toplulukta geçen bir hikâyeyi anlatır.</p>
-
-<p>Paris’ten kaçan Babette adlı bir aşçı, kendisine yardım eden bu topluluğa teşekkür etmek için olağanüstü bir Fransız ziyafeti hazırlar.</p>
-
-<p>Bu filmde yemek üç sembolik anlam taşır.</p>
-
-<h3 id="yemek-bir-sanat-formudur">Yemek Bir Sanat Formudur</h3>
-
-<p>Babette’in hazırladığı yemekler yalnızca besin değil, aynı zamanda birer sanat eseridir. Her tabak estetik, emek ve yaratıcılığın birleşimidir.</p>
-
-<h3 id="yemek-toplumsal-bariyerleri-yıkar">Yemek Toplumsal Bariyerleri Yıkar</h3>
-
-<p>Filmin başındaki katı ve mesafeli topluluk, ziyafet sırasında yumuşar ve birbirleriyle yeniden bağ kurar.</p>
-
-<h3 id="yemek-ruhsal-bir-deneyimdir">Yemek Ruhsal Bir Deneyimdir</h3>
-
-<p>Ziyafet sahnesi birçok eleştirmen tarafından dini bir ritüele benzetilir. Yemek burada paylaşım, bağışlama ve topluluk duygusunun sembolüdür.</p>
-
-<h2 id="yemekle-kendini-bulmak-julie--julia">Yemekle Kendini Bulmak: Julie &amp; Julia</h2>
-
-<p>Julie &amp; Julia, gastronominin bireysel kimlik arayışıyla nasıl birleşebileceğini gösteren modern bir hikâyedir. Film, iki farklı zaman diliminde yaşayan iki kadının hayatını paralel şekilde anlatır.</p>
-
-<p>Julia Child, Fransız mutfağını Amerika’ya tanıtan ünlü bir şef olur. Julie Powell ise onun yemek kitabındaki tüm tarifleri bir yıl içinde yapmaya çalışarak hayatına yön verir.</p>
-
-<p>Bu filmde yemek şu anlamları taşır.</p>
-
-<h3 id="kendini-i̇fade-etme-aracı">Kendini İfade Etme Aracı</h3>
-
-<p>Julie için yemek yapmak, monoton hayatından çıkmanın ve kendini ifade etmenin bir yoludur.</p>
-
-<h3 id="kültürlerarası-köprü">Kültürlerarası Köprü</h3>
-
-<p>Julia Child’ın Fransız mutfağını Amerikan kültürüne taşıması, yemek aracılığıyla kültürlerin nasıl etkileşime girdiğini gösterir.</p>
-
-<h3 id="dijital-çağda-yemek-kültürü">Dijital Çağda Yemek Kültürü</h3>
-
-<p>Film aynı zamanda yemek bloglarının yükselişini de temsil eder. Gastronomi artık yalnızca mutfakta değil, internet ve medya aracılığıyla da paylaşılır.</p>
-
-<h2 id="ekrandaki-sofraların-ortak-mesajı">Ekrandaki Sofraların Ortak Mesajı</h2>
-
-<p>Bu üç yapım farklı dönemleri ve kültürleri temsil etse de ortak bir noktada buluşur: Yemek insan hikâyelerinin merkezindedir.</p>
-
-<p>Ekrandaki sofralar bize şunları anlatır:</p>
+<h3 id="şerbet-sos-için">Şerbet (Sos) için:</h3>
 
 <ul>
-  <li>Yemek yalnızca bir ihtiyaç değil, duygusal bir deneyimdir</li>
-  <li>Mutfaklar kültürel kimliğin üretildiği alanlardır</li>
-  <li>Yemek paylaşımı sosyal bağları güçlendirir</li>
-  <li>Gastronomi bireysel dönüşümün bir parçası olabilir</li>
+  <li>1 su bardağı esmer şeker (veya pekmez)</li>
+  <li>1/2 su bardağı su</li>
+  <li>1 çubuk tarçın</li>
+  <li>2-3 adet karanfil</li>
 </ul>
 
-<p>Bu nedenle film ve dizilerdeki yemek sahneleri, izleyiciyi yalnızca görsel olarak etkilemekle kalmaz; aynı zamanda toplum, kimlik ve insan ilişkileri hakkında derin mesajlar verir.</p>
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
 
-<h2 id="sonuç">Sonuç</h2>
+<ol>
+  <li>Ilık su, şeker ve mayayı karıştırıp 10 dakika bekletin.</li>
+  <li>Un, tuz ve kabak püresini ekleyip yumuşak, hafif yapışkan bir hamur elde edin.</li>
+  <li>Hamurun üzerini örtüp yaklaşık 1 saat mayalanmaya bırakın.</li>
+  <li>Yağı derin bir tavada ısıtın. Ellerinizi hafifçe ıslatarak hamurdan parçalar alın, ortası delik halka şekli verip kızgın yağa bırakın.</li>
+  <li>Altın rengi olana kadar kızartın ve kağıt havlu üzerine alın.</li>
+  <li>Şerbet için tüm malzemeleri kaynatıp koyulaştırın. Ilık picarones’ların üzerine gezdirerek servis edin.</li>
+</ol>
 
-<p>Sinema ve televizyon dünyasında yemek; estetik bir detaydan çok daha fazlasıdır. Bir tabak yemek bazen geçmişle yüzleşmeyi, bazen kültürel mirası, bazen de kişisel dönüşümü anlatır.</p>
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Peru Mutfağı" /><summary type="html"><![CDATA[Picarones, Peru mutfağının en sevilen sokak tatlılarından biridir ve özellikle balkabağı ile hazırlanması sayesinde klasik kızarmış hamur tatlılarından ayrılır. Dışı çıtır, içi yumuşak olan bu halka tatlı, genellikle tarçın ve karanfil aromalı yoğun bir şerbetle servis edilir. Hem lezzeti hem de dokusuyla lokma ve churros arasında bir deneyim sunan picarones, özellikle kış aylarında sıcak servis edildiğinde oldukça etkileyici bir tatlı alternatifi oluşturur.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/picarones-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/picarones-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Francesinha Tarifi (Portekiz Usulü Efsane Sandviç)</title><link href="http://localhost:4000/francesinha-tarifi-portekiz-usulu-efsane-sandvic" rel="alternate" type="text/html" title="Francesinha Tarifi (Portekiz Usulü Efsane Sandviç)" /><published>2026-03-30T00:00:00+03:00</published><updated>2026-03-30T00:00:00+03:00</updated><id>http://localhost:4000/francesinha-tarifi-portekiz-usulu-efsane-sandvic</id><content type="html" xml:base="http://localhost:4000/francesinha-tarifi-portekiz-usulu-efsane-sandvic"><![CDATA[<p>Francesinha, Portekiz’in Porto şehrine özgü, yoğun lezzeti ve doyuruculuğuyla ünlü bir sandviçtir. Et, şarküteri ürünleri ve erimiş peynirin birleşimiyle hazırlanan bu tarifin en ayırt edici özelliği, bira ve domates bazlı özel sosudur. Genellikle patates kızartmasıyla birlikte servis edilir ve özellikle akşam yemeklerinde ya da hafta sonu keyifli sofralarda tercih edilen güçlü bir alternatiftir.</p>
 
-<p>Bu nedenle bir film ya da dizideki mutfak sahnesine bir sonraki izleyişinizde biraz daha dikkatle bakarsanız, aslında hikâyenin en güçlü metaforlarından birini izlediğinizi fark edebilirsiniz. Yemek sahneleri, izleyiciyi yalnızca aç bırakmak için değil; aynı zamanda düşündürmek, duygulandırmak ve kültürel bir yolculuğa çıkarmak için vardır.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Sinema ve televizyon, yalnızca hikâye anlatan araçlar değildir; aynı zamanda toplumların kültürünü, değerlerini ve kimliklerini yansıtan güçlü aynalardır. Bu anlatıların en etkili ama çoğu zaman gözden kaçan unsurlarından biri ise yemek sahneleridir. Sofralar, mutfaklar ve yemek hazırlama ritüelleri; karakterlerin kimliğini, sosyal ilişkilerini ve kültürel bağlarını görünür kılar. Bir yemeğin hazırlanışı, sunuluşu ya da paylaşılışı çoğu zaman sözlü diyaloglardan daha güçlü bir anlatı kurabilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/film-ve-dizilerde-yemek-kulturu-ekrandaki-sofralarin-ardindaki-anlamlar.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/film-ve-dizilerde-yemek-kulturu-ekrandaki-sofralarin-ardindaki-anlamlar.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yemek ve Kimlik: Mutfak Kültürüyle Bireysel ve Ulusal Kimlik İnşası</title><link href="http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi" rel="alternate" type="text/html" title="Yemek ve Kimlik: Mutfak Kültürüyle Bireysel ve Ulusal Kimlik İnşası" /><published>2026-03-11T00:00:00+03:00</published><updated>2026-03-11T00:00:00+03:00</updated><id>http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi</id><content type="html" xml:base="http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi"><![CDATA[<p>Yemek yalnızca fiziksel bir ihtiyaç değildir; aynı zamanda kültürün, tarihin ve kimliğin güçlü bir taşıyıcısıdır. İnsanların ne yediği, nasıl pişirdiği ve yemek etrafında nasıl bir sosyal hayat kurduğu; bireysel ve toplumsal kimliğin oluşumunda önemli bir rol oynar. Dünyanın farklı coğrafyalarında mutfak kültürü, insanların kim olduklarını anlatan sessiz fakat güçlü bir dil gibidir. Bu nedenle yemek, bir toplumun geçmişini, değerlerini ve aidiyet duygusunu yansıtan en önemli kültürel unsurlardan biri olarak kabul edilir.</p>
+<h2 id="malzemeler">Malzemeler:</h2>
+
+<ul>
+  <li>2 dilim tost ekmeği (kalın kesilmiş)</li>
+  <li>150 g dana biftek</li>
+  <li>1 adet sosis</li>
+  <li>1 adet salam dilimi</li>
+  <li>1 adet jambon dilimi</li>
+  <li>4-5 dilim kaşar peyniri (veya cheddar)</li>
+  <li>1 adet yumurta (üzeri için, isteğe bağlı)</li>
+  <li>Tereyağı</li>
+</ul>
+
+<h3 id="sos-için">Sos için:</h3>
+
+<ul>
+  <li>1 yemek kaşığı tereyağı</li>
+  <li>1 yemek kaşığı un</li>
+  <li>1 su bardağı et suyu</li>
+  <li>1 su bardağı domates püresi</li>
+  <li>1/2 su bardağı bira</li>
+  <li>1 yemek kaşığı ketçap</li>
+  <li>1 çay kaşığı hardal</li>
+  <li>1 çay kaşığı acı sos (isteğe bağlı)</li>
+  <li>Tuz, karabiber</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Öncelikle sosu hazırlayın: Tereyağını eritip unu ekleyin ve kokusu çıkana kadar kavurun. Üzerine et suyu, domates püresi ve birayı ekleyin. Karıştırarak kıvam almasını sağlayın. Ardından ketçap, hardal ve baharatları ekleyip 10-15 dakika kısık ateşte pişirin.</li>
+  <li>Biftek, sosis ve salamı tavada kızartın.</li>
+  <li>Tost ekmeğinin bir dilimini alın, üzerine sırasıyla biftek, sosis, salam ve jambonu yerleştirin. Üzerine diğer ekmek dilimini kapatın.</li>
+  <li>Sandviçin üzerini tamamen kaplayacak şekilde peynir dilimlerini yerleştirin.</li>
+  <li>Önceden ısıtılmış fırında peynirler eriyene kadar bekletin.</li>
+  <li>Fırından çıkan sandviçin üzerine sıcak sosu bolca dökün. İsteğe bağlı olarak üzerine sahanda yumurta ekleyebilirsiniz.</li>
+</ol>
+
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Portekiz Mutfağı" /><summary type="html"><![CDATA[Francesinha, Portekiz’in Porto şehrine özgü, yoğun lezzeti ve doyuruculuğuyla ünlü bir sandviçtir. Et, şarküteri ürünleri ve erimiş peynirin birleşimiyle hazırlanan bu tarifin en ayırt edici özelliği, bira ve domates bazlı özel sosudur. Genellikle patates kızartmasıyla birlikte servis edilir ve özellikle akşam yemeklerinde ya da hafta sonu keyifli sofralarda tercih edilen güçlü bir alternatiftir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/francesinha-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/francesinha-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yemek ve Kimlik: Mutfak Kültürüyle Bireysel ve Ulusal Kimlik İnşası</title><link href="http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi" rel="alternate" type="text/html" title="Yemek ve Kimlik: Mutfak Kültürüyle Bireysel ve Ulusal Kimlik İnşası" /><published>2026-03-11T00:00:00+03:00</published><updated>2026-03-11T00:00:00+03:00</updated><id>http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi</id><content type="html" xml:base="http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi"><![CDATA[<p>Yemek yalnızca fiziksel bir ihtiyaç değildir; aynı zamanda kültürün, tarihin ve kimliğin güçlü bir taşıyıcısıdır. İnsanların ne yediği, nasıl pişirdiği ve yemek etrafında nasıl bir sosyal hayat kurduğu; bireysel ve toplumsal kimliğin oluşumunda önemli bir rol oynar. Dünyanın farklı coğrafyalarında mutfak kültürü, insanların kim olduklarını anlatan sessiz fakat güçlü bir dil gibidir. Bu nedenle yemek, bir toplumun geçmişini, değerlerini ve aidiyet duygusunu yansıtan en önemli kültürel unsurlardan biri olarak kabul edilir.</p>
 
 <h2 id="yemek-kültürü-bir-kimlik-göstergesi">Yemek Kültürü Bir Kimlik Göstergesi</h2>
 
@@ -142,7 +120,107 @@
 
 <p>Yemek, yalnızca karın doyurmanın ötesinde, kimlik inşasının önemli bir parçasıdır. Aile sofralarından ulusal mutfaklara, göçmen topluluklardan uluslararası gastronomi sahnesine kadar yemek; bireylerin ve toplumların kendilerini ifade etme biçimlerinden biri olarak karşımıza çıkar.</p>
 
-<p>Bir yemeğin içinde sadece malzemeler değil; tarih, coğrafya, gelenek ve kültürel hafıza da bulunur. Bu nedenle mutfak kültürü, insanların kim olduklarını anlamanın en lezzetli yollarından biridir.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Yemek yalnızca fiziksel bir ihtiyaç değildir; aynı zamanda kültürün, tarihin ve kimliğin güçlü bir taşıyıcısıdır. İnsanların ne yediği, nasıl pişirdiği ve yemek etrafında nasıl bir sosyal hayat kurduğu; bireysel ve toplumsal kimliğin oluşumunda önemli bir rol oynar. Dünyanın farklı coğrafyalarında mutfak kültürü, insanların kim olduklarını anlatan sessiz fakat güçlü bir dil gibidir. Bu nedenle yemek, bir toplumun geçmişini, değerlerini ve aidiyet duygusunu yansıtan en önemli kültürel unsurlardan biri olarak kabul edilir.]]></summary></entry><entry><title type="html">Coğrafya Tabağa Nasıl Yansır? İklimin Yemek Kültürüne Etkisi</title><link href="http://localhost:4000/cografya-tabaga-nasil-yansir-iklimin-yemek-kulturune-etkisi" rel="alternate" type="text/html" title="Coğrafya Tabağa Nasıl Yansır? İklimin Yemek Kültürüne Etkisi" /><published>2026-03-11T00:00:00+03:00</published><updated>2026-03-11T00:00:00+03:00</updated><id>http://localhost:4000/cografya-tabaga-nasil-yansir-iklimin-yemek-kulturune-etkisi</id><content type="html" xml:base="http://localhost:4000/cografya-tabaga-nasil-yansir-iklimin-yemek-kulturune-etkisi"><![CDATA[<p>Yeryüzünde yaşayan her toplum, mutfağını aslında yaşadığı coğrafyanın sunduğu imkânlara göre şekillendirir. İklim, toprak yapısı, su kaynakları, bitki örtüsü ve hayvancılık koşulları bir bölgenin yemek kültürünün temelini oluşturur. Bu yüzden dünyanın farklı bölgelerinde ortaya çıkan mutfaklar yalnızca damak zevkinin değil, aynı zamanda coğrafyanın da bir yansımasıdır.</p>
+<p>Bir yemeğin içinde sadece malzemeler değil; tarih, coğrafya, gelenek ve kültürel hafıza da bulunur. Bu nedenle mutfak kültürü, insanların kim olduklarını anlamanın en lezzetli yollarından biridir.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Yemek yalnızca fiziksel bir ihtiyaç değildir; aynı zamanda kültürün, tarihin ve kimliğin güçlü bir taşıyıcısıdır. İnsanların ne yediği, nasıl pişirdiği ve yemek etrafında nasıl bir sosyal hayat kurduğu; bireysel ve toplumsal kimliğin oluşumunda önemli bir rol oynar. Dünyanın farklı coğrafyalarında mutfak kültürü, insanların kim olduklarını anlatan sessiz fakat güçlü bir dil gibidir. Bu nedenle yemek, bir toplumun geçmişini, değerlerini ve aidiyet duygusunu yansıtan en önemli kültürel unsurlardan biri olarak kabul edilir.]]></summary></entry><entry><title type="html">Dünyanın En Eski Yemekleri: Binlerce Yıllık Tarifler Hâlâ Yaşıyor</title><link href="http://localhost:4000/dunyanin-en-eski-yemekleri-binlerce-yillik-tarifler-hala-yasiyor" rel="alternate" type="text/html" title="Dünyanın En Eski Yemekleri: Binlerce Yıllık Tarifler Hâlâ Yaşıyor" /><published>2026-03-11T00:00:00+03:00</published><updated>2026-03-11T00:00:00+03:00</updated><id>http://localhost:4000/dunyanin-en-eski-yemekleri-binlerce-yillik-tarifler-hala-yasiyor</id><content type="html" xml:base="http://localhost:4000/dunyanin-en-eski-yemekleri-binlerce-yillik-tarifler-hala-yasiyor"><![CDATA[<p>İnsanlık tarihi yalnızca savaşlar, imparatorluklar ve keşiflerden ibaret değildir. Aynı zamanda mutfakların, tatların ve tariflerin de tarihidir. Bugün sofralarımıza gelen bazı yemekler, binlerce yıl önce yaşayan insanların da sofralarında yer alıyordu. Üstelik bu tariflerin bir kısmı neredeyse hiç değişmeden günümüze kadar ulaştı.</p>
+
+<p>Antik uygarlıkların mutfakları incelendiğinde, insanların sadece hayatta kalmak için değil, aynı zamanda lezzet üretmek için de oldukça yaratıcı olduğu görülür. Mezopotamya’dan Roma’ya, Çin’den Osmanlı’ya kadar pek çok kültür, bugün hâlâ pişirilen yemeklerin temelini oluşturdu.</p>
+
+<p>Bu yazıda, tarihin derinliklerinden günümüze ulaşan ve hâlâ yapılan bazı en eski yemeklerin hikâyesine yakından bakacağız.</p>
+
+<h2 id="mezopotamyanın-4000-yıllık-yahnileri">Mezopotamya’nın 4000 Yıllık Yahnileri</h2>
+
+<p>Dünyanın bilinen en eski yazılı yemek tarifleri yaklaşık 4000 yıl önce Mezopotamya’da kil tabletler üzerine yazılmıştır. Bu tabletlerde yer alan tarifler, günümüzün yemek kitaplarına şaşırtıcı derecede benzer bir yapıdadır.</p>
+
+<p>Tabletlerde özellikle etli yahni tariflerinin çok yaygın olduğu görülür. Kuzu eti, soğan, sarımsak, pırasa ve çeşitli otlarla hazırlanan bu yemekler genellikle uzun süre kaynatılarak pişirilirdi.</p>
+
+<p>Bazı tariflerde kimyon, kişniş ve arpa gibi malzemeler de kullanılırdı. İlginç olan ise bu tariflerin bazılarının, bugün Orta Doğu mutfağında hâlâ benzer şekilde hazırlanıyor olmasıdır.</p>
+
+<p>Örneğin Irak ve İran mutfağındaki bazı etli yahni çeşitleri, Mezopotamya dönemindeki tariflerle oldukça benzer özellikler taşır.</p>
+
+<h2 id="antik-romanın-ünlü-tatlısı-cheesecake">Antik Roma’nın Ünlü Tatlısı: Cheesecake</h2>
+
+<p>Bugün modern pastanelerin vazgeçilmez tatlılarından biri olan cheesecake’in kökeni de oldukça eskidir.</p>
+
+<p>Cheesecake’in ilk versiyonlarının Antik Yunan ve Antik Roma döneminde yapıldığı bilinmektedir. Antik Yunan’da sporculara enerji vermesi için olimpiyatlarda bile servis edildiği söylenir.</p>
+
+<p>Roma döneminde hazırlanan cheesecake oldukça basitti. Taze peynir, bal ve buğday unu karıştırılarak bir hamur hazırlanır ve sıcak taş üzerinde pişirilirdi.</p>
+
+<p>Daha sonra Romalılar bu tarifi Avrupa’nın farklı bölgelerine taşıdı. Zaman içinde tarif gelişti, krem peynir ve farklı tabanlar eklendi ve bugünkü modern cheesecake ortaya çıktı.</p>
+
+<h2 id="antik-mısırın-ekmeği">Antik Mısır’ın Ekmeği</h2>
+
+<p>Ekmek, insanlık tarihinin en eski temel gıdalarından biridir. Antik Mısır’da ekmek üretimi oldukça gelişmişti ve farklı tahıllarla yapılan birçok ekmek çeşidi vardı.</p>
+
+<p>Mısırlılar özellikle arpa ve buğday kullanarak ekmek üretirdi. İlginç olan ise mayalı ekmeğin de ilk kez bu dönemde ortaya çıkmış olmasıdır.</p>
+
+<p>Bir rivayete göre bir hamurun güneş altında beklemesi sonucu doğal fermantasyon gerçekleşmiş ve ilk mayalı ekmek yapılmıştır.</p>
+
+<p>Bugün dünyanın pek çok yerinde yapılan ekmeklerin kökeni, Antik Mısır’ın bu erken fırıncılık tekniklerine kadar uzanır.</p>
+
+<h2 id="çinin-2000-yıllık-erişteleri">Çin’in 2000 Yıllık Erişteleri</h2>
+
+<p>Erişte ve noodle çeşitleri de dünyanın en eski yemeklerinden biridir. Çin’de yapılan arkeolojik kazılarda yaklaşık 2000 yıllık erişte kalıntıları bulunmuştur.</p>
+
+<p>Bu erişteler darıdan yapılmış ve uzun ince şeritler halinde hazırlanmıştır.</p>
+
+<p>Zaman içinde bu teknik gelişmiş ve buğday unu kullanılmaya başlanmıştır. Bugün Çin mutfağının en önemli yemeklerinden biri olan noodle, aslında binlerce yıllık bir geçmişe sahiptir.</p>
+
+<p>İlginç bir detay da şudur: İtalya’nın ünlü makarnasının kökeni hakkında bazı tarihçiler Çin erişteleri ile bağlantılar kurmaktadır.</p>
+
+<h2 id="osmanlı-saray-mutfağından-günümüze-gelen-yemekler">Osmanlı Saray Mutfağından Günümüze Gelen Yemekler</h2>
+
+<p>Osmanlı mutfağı dünyanın en köklü mutfak geleneklerinden biridir. Saray mutfağında hazırlanan birçok yemek bugün hâlâ Türkiye’de yapılmaktadır.</p>
+
+<p>Örneğin:</p>
+
+<ul>
+  <li>Keşkek</li>
+  <li>Aşure</li>
+  <li>Zerde</li>
+  <li>Dolma çeşitleri</li>
+  <li>Baklava</li>
+</ul>
+
+<p>Bu yemeklerin bazıları yüzlerce hatta bin yıla yaklaşan bir geçmişe sahiptir.</p>
+
+<p>Özellikle aşure, farklı kültürlerin birleşimini temsil eden en eski tatlılardan biri olarak kabul edilir. Bu tatlı tahıllar, kuru meyveler ve bakliyatların bir araya gelmesiyle hazırlanır ve yüzyıllardır aynı gelenekle yapılır.</p>
+
+<h2 id="keşkek-bin-yıllık-anadolu-yemeği">Keşkek: Bin Yıllık Anadolu Yemeği</h2>
+
+<p>Keşkek, Anadolu’nun en eski yemeklerinden biridir ve kökeni Orta Asya’ya kadar uzanır.</p>
+
+<p>Bu yemek buğday ve etin uzun süre pişirilmesiyle hazırlanır. Geleneksel olarak büyük kazanlarda saatlerce karıştırılarak yapılır.</p>
+
+<p>Keşkek yalnızca bir yemek değil aynı zamanda bir kültürel ritüeldir. Türkiye’de düğünlerde, bayramlarda ve özel günlerde yapılması bu geleneğin ne kadar eski olduğunun bir göstergesidir.</p>
+
+<p>Bu nedenle keşkek kültürü UNESCO tarafından somut olmayan kültürel miras olarak kabul edilmiştir.</p>
+
+<h2 id="aşure-tarihin-en-eski-tatlılarından-biri">Aşure: Tarihin En Eski Tatlılarından Biri</h2>
+
+<p>Aşure, birçok tarihçi tarafından dünyanın en eski tatlılarından biri olarak kabul edilir.</p>
+
+<p>Bu tatlı buğday, nohut, fasulye, kuru üzüm, incir, kayısı ve nar gibi birçok malzemenin birleşmesiyle yapılır.</p>
+
+<p>Aşurenin kökeni hakkında farklı rivayetler olsa da en bilinen hikâye Nuh Tufanı’na dayanır. Rivayete göre tufandan sonra gemide kalan son malzemeler bir araya getirilerek aşure yapılmıştır.</p>
+
+<p>Bu nedenle aşure, paylaşımın ve bereketin simgesi olarak kabul edilir.</p>
+
+<h2 id="yemekler-neden-binlerce-yıl-hayatta-kalabiliyor">Yemekler Neden Binlerce Yıl Hayatta Kalabiliyor?</h2>
+
+<p>Bazı yemeklerin binlerce yıl boyunca yaşamaya devam etmesinin birkaç önemli nedeni vardır.</p>
+
+<p>Birincisi basit ve erişilebilir malzemelerle yapılmalarıdır. Tahıllar, et, bakliyat ve sebzeler insanlık tarihinin en temel gıdalarıdır.</p>
+
+<p>İkinci neden ise kültürel aktarım sürecidir. Tarifler nesilden nesile aktarıldıkça yaşar. Annelerden çocuklara geçen mutfak kültürü bazı yemeklerin yüzyıllarca unutulmamasını sağlar.</p>
+
+<p>Üçüncü neden ise uyum sağlama yetenekleridir. Tarifler zaman içinde küçük değişiklikler geçirerek farklı kültürlere adapte olabilir.</p>
+
+<h2 id="sonuç-soframızdaki-tarih">Sonuç: Soframızdaki Tarih</h2>
+
+<p>Bugün yediğimiz birçok yemek aslında birer tarih parçasıdır. Bir kase aşure, bir tabak keşkek ya da basit bir ekmek bile binlerce yıl öncesinden gelen bir kültürün devamıdır.</p>
+
+<p>Yemekler yalnızca karın doyurmaz. Aynı zamanda geçmişle bağ kurmamızı sağlar.</p>
+
+<p>Bir sonraki öğününüzde tabağınıza baktığınızda, belki de binlerce yıllık bir geleneğin devamını yediğinizi hatırlamak yemeği çok daha anlamlı hâle getirebilir.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[İnsanlık tarihi yalnızca savaşlar, imparatorluklar ve keşiflerden ibaret değildir. Aynı zamanda mutfakların, tatların ve tariflerin de tarihidir. Bugün sofralarımıza gelen bazı yemekler, binlerce yıl önce yaşayan insanların da sofralarında yer alıyordu. Üstelik bu tariflerin bir kısmı neredeyse hiç değişmeden günümüze kadar ulaştı.]]></summary></entry><entry><title type="html">Coğrafya Tabağa Nasıl Yansır? İklimin Yemek Kültürüne Etkisi</title><link href="http://localhost:4000/cografya-tabaga-nasil-yansir-iklimin-yemek-kulturune-etkisi" rel="alternate" type="text/html" title="Coğrafya Tabağa Nasıl Yansır? İklimin Yemek Kültürüne Etkisi" /><published>2026-03-11T00:00:00+03:00</published><updated>2026-03-11T00:00:00+03:00</updated><id>http://localhost:4000/cografya-tabaga-nasil-yansir-iklimin-yemek-kulturune-etkisi</id><content type="html" xml:base="http://localhost:4000/cografya-tabaga-nasil-yansir-iklimin-yemek-kulturune-etkisi"><![CDATA[<p>Yeryüzünde yaşayan her toplum, mutfağını aslında yaşadığı coğrafyanın sunduğu imkânlara göre şekillendirir. İklim, toprak yapısı, su kaynakları, bitki örtüsü ve hayvancılık koşulları bir bölgenin yemek kültürünün temelini oluşturur. Bu yüzden dünyanın farklı bölgelerinde ortaya çıkan mutfaklar yalnızca damak zevkinin değil, aynı zamanda coğrafyanın da bir yansımasıdır.</p>
 
 <p>Bir başka deyişle, sofralar aslında haritaların lezzetli birer yansımasıdır. Bir bölgede hangi yemeklerin ortaya çıktığını anlamak için o bölgenin iklimine, tarım ürünlerine ve yaşam koşullarına bakmak gerekir.</p>
 
@@ -325,107 +403,103 @@
 
 <p>Baharatlar küçük taneler olabilir, ancak insanlık tarihindeki etkileri oldukça büyüktür. Ticaret yollarının kurulmasından büyük keşiflere, kültürler arası etkileşimden mutfakların dönüşümüne kadar pek çok gelişmenin arkasında baharatların izini görmek mümkündür.</p>
 
-<p>Bugün mutfakta kullandığımız bir tutam karabiber ya da tarçın, aslında binlerce yıllık bir tarih ve kültür yolculuğunun parçasıdır. Bu nedenle baharatlar sadece yemeklere lezzet katmakla kalmaz; aynı zamanda insanlık tarihinin en aromatik hikâyelerinden birini de anlatır.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Bugün mutfakta kullandığımız karabiber, tarçın ya da zencefil gibi baharatlar sıradan birer mutfak malzemesi gibi görünse de, insanlık tarihinde büyük değişimlere yol açan ürünlerdir. Küçücük taneler halinde karşımıza çıkan bu aromatik maddeler, yüzyıllar boyunca savaşların çıkmasına, ticaret yollarının kurulmasına ve yeni kıtaların keşfedilmesine neden olmuştur. Baharatların hikâyesi sadece mutfakla ilgili değildir; aynı zamanda keşiflerin, ticaretin, kültürlerin ve imparatorlukların hikâyesidir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/baharatlarin-tarihi-kucuk-tanelerin-buyuk-hikayesi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/baharatlarin-tarihi-kucuk-tanelerin-buyuk-hikayesi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Dünyanın En Eski Yemekleri: Binlerce Yıllık Tarifler Hâlâ Yaşıyor</title><link href="http://localhost:4000/dunyanin-en-eski-yemekleri-binlerce-yillik-tarifler-hala-yasiyor" rel="alternate" type="text/html" title="Dünyanın En Eski Yemekleri: Binlerce Yıllık Tarifler Hâlâ Yaşıyor" /><published>2026-03-11T00:00:00+03:00</published><updated>2026-03-11T00:00:00+03:00</updated><id>http://localhost:4000/dunyanin-en-eski-yemekleri-binlerce-yillik-tarifler-hala-yasiyor</id><content type="html" xml:base="http://localhost:4000/dunyanin-en-eski-yemekleri-binlerce-yillik-tarifler-hala-yasiyor"><![CDATA[<p>İnsanlık tarihi yalnızca savaşlar, imparatorluklar ve keşiflerden ibaret değildir. Aynı zamanda mutfakların, tatların ve tariflerin de tarihidir. Bugün sofralarımıza gelen bazı yemekler, binlerce yıl önce yaşayan insanların da sofralarında yer alıyordu. Üstelik bu tariflerin bir kısmı neredeyse hiç değişmeden günümüze kadar ulaştı.</p>
+<p>Bugün mutfakta kullandığımız bir tutam karabiber ya da tarçın, aslında binlerce yıllık bir tarih ve kültür yolculuğunun parçasıdır. Bu nedenle baharatlar sadece yemeklere lezzet katmakla kalmaz; aynı zamanda insanlık tarihinin en aromatik hikâyelerinden birini de anlatır.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Bugün mutfakta kullandığımız karabiber, tarçın ya da zencefil gibi baharatlar sıradan birer mutfak malzemesi gibi görünse de, insanlık tarihinde büyük değişimlere yol açan ürünlerdir. Küçücük taneler halinde karşımıza çıkan bu aromatik maddeler, yüzyıllar boyunca savaşların çıkmasına, ticaret yollarının kurulmasına ve yeni kıtaların keşfedilmesine neden olmuştur. Baharatların hikâyesi sadece mutfakla ilgili değildir; aynı zamanda keşiflerin, ticaretin, kültürlerin ve imparatorlukların hikâyesidir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/baharatlarin-tarihi-kucuk-tanelerin-buyuk-hikayesi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/baharatlarin-tarihi-kucuk-tanelerin-buyuk-hikayesi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Film ve Dizilerde Yemek Kültürü: Ekrandaki Sofraların Ardındaki Anlamlar</title><link href="http://localhost:4000/film-ve-dizilerde-yemek-kulturu-ekrandaki-sofralarin-ardindaki-anlamlar" rel="alternate" type="text/html" title="Film ve Dizilerde Yemek Kültürü: Ekrandaki Sofraların Ardındaki Anlamlar" /><published>2026-03-11T00:00:00+03:00</published><updated>2026-03-11T00:00:00+03:00</updated><id>http://localhost:4000/film-ve-dizilerde-yemek-kulturu-ekrandaki-sofralarin-ardindaki-anlamlar</id><content type="html" xml:base="http://localhost:4000/film-ve-dizilerde-yemek-kulturu-ekrandaki-sofralarin-ardindaki-anlamlar"><![CDATA[<p>Sinema ve televizyon, yalnızca hikâye anlatan araçlar değildir; aynı zamanda toplumların kültürünü, değerlerini ve kimliklerini yansıtan güçlü aynalardır. Bu anlatıların en etkili ama çoğu zaman gözden kaçan unsurlarından biri ise yemek sahneleridir. Sofralar, mutfaklar ve yemek hazırlama ritüelleri; karakterlerin kimliğini, sosyal ilişkilerini ve kültürel bağlarını görünür kılar. Bir yemeğin hazırlanışı, sunuluşu ya da paylaşılışı çoğu zaman sözlü diyaloglardan daha güçlü bir anlatı kurabilir.</p>
 
-<p>Antik uygarlıkların mutfakları incelendiğinde, insanların sadece hayatta kalmak için değil, aynı zamanda lezzet üretmek için de oldukça yaratıcı olduğu görülür. Mezopotamya’dan Roma’ya, Çin’den Osmanlı’ya kadar pek çok kültür, bugün hâlâ pişirilen yemeklerin temelini oluşturdu.</p>
+<p>Özellikle son yıllarda gastronomi temalı yapımların artmasıyla birlikte yemek, hikâyenin yalnızca arka planı olmaktan çıkmış; karakter gelişimini ve toplumsal anlatıyı şekillendiren merkezi bir unsur hâline gelmiştir. Bu yazıda, farklı dönem ve kültürlerden üç önemli yapım olan The Bear, Babette’s Feast ve Julie &amp; Julia (Türkiye’de “Yemek Aşkına” adıyla bilinir) üzerinden yemek sahnelerinin kültürel ve sembolik anlamlarını inceleyeceğiz.</p>
 
-<p>Bu yazıda, tarihin derinliklerinden günümüze ulaşan ve hâlâ yapılan bazı en eski yemeklerin hikâyesine yakından bakacağız.</p>
+<h2 id="yemek-sahnesi-neden-bu-kadar-güçlü-bir-anlatı-aracıdır">Yemek Sahnesi Neden Bu Kadar Güçlü Bir Anlatı Aracıdır?</h2>
 
-<h2 id="mezopotamyanın-4000-yıllık-yahnileri">Mezopotamya’nın 4000 Yıllık Yahnileri</h2>
+<p>Yemek, insan yaşamının en temel ihtiyaçlarından biri olmasının ötesinde kültürel kimliğin taşıyıcısıdır. Aile gelenekleri, sınıfsal farklılıklar, göç deneyimleri ve toplumsal ilişkiler çoğu zaman mutfak üzerinden görünür olur.</p>
 
-<p>Dünyanın bilinen en eski yazılı yemek tarifleri yaklaşık 4000 yıl önce Mezopotamya’da kil tabletler üzerine yazılmıştır. Bu tabletlerde yer alan tarifler, günümüzün yemek kitaplarına şaşırtıcı derecede benzer bir yapıdadır.</p>
-
-<p>Tabletlerde özellikle etli yahni tariflerinin çok yaygın olduğu görülür. Kuzu eti, soğan, sarımsak, pırasa ve çeşitli otlarla hazırlanan bu yemekler genellikle uzun süre kaynatılarak pişirilirdi.</p>
-
-<p>Bazı tariflerde kimyon, kişniş ve arpa gibi malzemeler de kullanılırdı. İlginç olan ise bu tariflerin bazılarının, bugün Orta Doğu mutfağında hâlâ benzer şekilde hazırlanıyor olmasıdır.</p>
-
-<p>Örneğin Irak ve İran mutfağındaki bazı etli yahni çeşitleri, Mezopotamya dönemindeki tariflerle oldukça benzer özellikler taşır.</p>
-
-<h2 id="antik-romanın-ünlü-tatlısı-cheesecake">Antik Roma’nın Ünlü Tatlısı: Cheesecake</h2>
-
-<p>Bugün modern pastanelerin vazgeçilmez tatlılarından biri olan cheesecake’in kökeni de oldukça eskidir.</p>
-
-<p>Cheesecake’in ilk versiyonlarının Antik Yunan ve Antik Roma döneminde yapıldığı bilinmektedir. Antik Yunan’da sporculara enerji vermesi için olimpiyatlarda bile servis edildiği söylenir.</p>
-
-<p>Roma döneminde hazırlanan cheesecake oldukça basitti. Taze peynir, bal ve buğday unu karıştırılarak bir hamur hazırlanır ve sıcak taş üzerinde pişirilirdi.</p>
-
-<p>Daha sonra Romalılar bu tarifi Avrupa’nın farklı bölgelerine taşıdı. Zaman içinde tarif gelişti, krem peynir ve farklı tabanlar eklendi ve bugünkü modern cheesecake ortaya çıktı.</p>
-
-<h2 id="antik-mısırın-ekmeği">Antik Mısır’ın Ekmeği</h2>
-
-<p>Ekmek, insanlık tarihinin en eski temel gıdalarından biridir. Antik Mısır’da ekmek üretimi oldukça gelişmişti ve farklı tahıllarla yapılan birçok ekmek çeşidi vardı.</p>
-
-<p>Mısırlılar özellikle arpa ve buğday kullanarak ekmek üretirdi. İlginç olan ise mayalı ekmeğin de ilk kez bu dönemde ortaya çıkmış olmasıdır.</p>
-
-<p>Bir rivayete göre bir hamurun güneş altında beklemesi sonucu doğal fermantasyon gerçekleşmiş ve ilk mayalı ekmek yapılmıştır.</p>
-
-<p>Bugün dünyanın pek çok yerinde yapılan ekmeklerin kökeni, Antik Mısır’ın bu erken fırıncılık tekniklerine kadar uzanır.</p>
-
-<h2 id="çinin-2000-yıllık-erişteleri">Çin’in 2000 Yıllık Erişteleri</h2>
-
-<p>Erişte ve noodle çeşitleri de dünyanın en eski yemeklerinden biridir. Çin’de yapılan arkeolojik kazılarda yaklaşık 2000 yıllık erişte kalıntıları bulunmuştur.</p>
-
-<p>Bu erişteler darıdan yapılmış ve uzun ince şeritler halinde hazırlanmıştır.</p>
-
-<p>Zaman içinde bu teknik gelişmiş ve buğday unu kullanılmaya başlanmıştır. Bugün Çin mutfağının en önemli yemeklerinden biri olan noodle, aslında binlerce yıllık bir geçmişe sahiptir.</p>
-
-<p>İlginç bir detay da şudur: İtalya’nın ünlü makarnasının kökeni hakkında bazı tarihçiler Çin erişteleri ile bağlantılar kurmaktadır.</p>
-
-<h2 id="osmanlı-saray-mutfağından-günümüze-gelen-yemekler">Osmanlı Saray Mutfağından Günümüze Gelen Yemekler</h2>
-
-<p>Osmanlı mutfağı dünyanın en köklü mutfak geleneklerinden biridir. Saray mutfağında hazırlanan birçok yemek bugün hâlâ Türkiye’de yapılmaktadır.</p>
-
-<p>Örneğin:</p>
+<p>Film ve dizilerde yemek sahneleri genellikle şu anlamları taşır:</p>
 
 <ul>
-  <li>Keşkek</li>
-  <li>Aşure</li>
-  <li>Zerde</li>
-  <li>Dolma çeşitleri</li>
-  <li>Baklava</li>
+  <li><strong>Aidiyet ve kimlik</strong>: Bir karakterin kökenini ve kültürel bağlarını gösterir</li>
+  <li><strong>Duygusal bağlar</strong>: Aile içi ilişkiler ve romantik bağlar çoğu zaman sofrada kurulur</li>
+  <li><strong>Sınıfsal farklılıklar</strong>: Yemek türleri ve sunum biçimleri toplumsal statüyü yansıtır</li>
+  <li><strong>Dönüşüm ve iyileşme</strong>: Yemek yapmak karakterin kendini yeniden keşfetme sürecini temsil edebilir</li>
 </ul>
 
-<p>Bu yemeklerin bazıları yüzlerce hatta bin yıla yaklaşan bir geçmişe sahiptir.</p>
+<p>Bu nedenle yemek sahneleri yalnızca estetik bir detay değil, hikâyenin duygusal ve kültürel omurgasıdır.</p>
 
-<p>Özellikle aşure, farklı kültürlerin birleşimini temsil eden en eski tatlılardan biri olarak kabul edilir. Bu tatlı tahıllar, kuru meyveler ve bakliyatların bir araya gelmesiyle hazırlanır ve yüzyıllardır aynı gelenekle yapılır.</p>
+<h2 id="mutfakta-kaos-ve-tutku-the-bear">Mutfakta Kaos ve Tutku: The Bear</h2>
 
-<h2 id="keşkek-bin-yıllık-anadolu-yemeği">Keşkek: Bin Yıllık Anadolu Yemeği</h2>
+<p>The Bear, modern televizyonun en gerçekçi mutfak tasvirlerinden birini sunar. Dizinin merkezinde, Michelin yıldızlı restoranlarda çalışmış bir şef olan Carmy’nin ailesinden kalan sandviç dükkânını devralması yer alır.</p>
 
-<p>Keşkek, Anadolu’nun en eski yemeklerinden biridir ve kökeni Orta Asya’ya kadar uzanır.</p>
+<p>Bu yapımda yemek kültürü üç önemli temayı temsil eder.</p>
 
-<p>Bu yemek buğday ve etin uzun süre pişirilmesiyle hazırlanır. Geleneksel olarak büyük kazanlarda saatlerce karıştırılarak yapılır.</p>
+<h3 id="mutfak-bir-savaş-alanıdır">Mutfak Bir Savaş Alanıdır</h3>
 
-<p>Keşkek yalnızca bir yemek değil aynı zamanda bir kültürel ritüeldir. Türkiye’de düğünlerde, bayramlarda ve özel günlerde yapılması bu geleneğin ne kadar eski olduğunun bir göstergesidir.</p>
+<p>Profesyonel mutfak, dizide sürekli bir stres ve hız ortamı olarak gösterilir. Bu atmosfer, modern gastronomi dünyasının rekabetçi yapısını yansıtır.</p>
 
-<p>Bu nedenle keşkek kültürü UNESCO tarafından somut olmayan kültürel miras olarak kabul edilmiştir.</p>
+<h3 id="yemek-aile-geçmişiyle-bağlantılıdır">Yemek Aile Geçmişiyle Bağlantılıdır</h3>
 
-<h2 id="aşure-tarihin-en-eski-tatlılarından-biri">Aşure: Tarihin En Eski Tatlılarından Biri</h2>
+<p>Carmy’nin mutfağa olan bağlılığı yalnızca mesleki bir tutku değildir. Aynı zamanda ailesiyle ve geçmişiyle kurduğu karmaşık ilişkinin bir parçasıdır.</p>
 
-<p>Aşure, birçok tarihçi tarafından dünyanın en eski tatlılarından biri olarak kabul edilir.</p>
+<h3 id="gelenek-ve-yenilik-çatışması">Gelenek ve Yenilik Çatışması</h3>
 
-<p>Bu tatlı buğday, nohut, fasulye, kuru üzüm, incir, kayısı ve nar gibi birçok malzemenin birleşmesiyle yapılır.</p>
+<p>Chicago’nun yerel fast-food kültürü ile üst düzey restoran anlayışı arasındaki gerilim, dizinin temel anlatılarından biridir. Böylece yemek, kültürel dönüşümün sembolü hâline gelir.</p>
 
-<p>Aşurenin kökeni hakkında farklı rivayetler olsa da en bilinen hikâye Nuh Tufanı’na dayanır. Rivayete göre tufandan sonra gemide kalan son malzemeler bir araya getirilerek aşure yapılmıştır.</p>
+<h2 id="yemek-bir-sanat-ve-bağışlama-ritüeli-babettes-feast">Yemek Bir Sanat ve Bağışlama Ritüeli: Babette’s Feast</h2>
 
-<p>Bu nedenle aşure, paylaşımın ve bereketin simgesi olarak kabul edilir.</p>
+<p>Babette’s Feast, sinema tarihinin en önemli gastronomi temalı filmlerinden biri olarak kabul edilir. Film, 19. yüzyılda Danimarka’daki katı dini kurallarla yaşayan bir toplulukta geçen bir hikâyeyi anlatır.</p>
 
-<h2 id="yemekler-neden-binlerce-yıl-hayatta-kalabiliyor">Yemekler Neden Binlerce Yıl Hayatta Kalabiliyor?</h2>
+<p>Paris’ten kaçan Babette adlı bir aşçı, kendisine yardım eden bu topluluğa teşekkür etmek için olağanüstü bir Fransız ziyafeti hazırlar.</p>
 
-<p>Bazı yemeklerin binlerce yıl boyunca yaşamaya devam etmesinin birkaç önemli nedeni vardır.</p>
+<p>Bu filmde yemek üç sembolik anlam taşır.</p>
 
-<p>Birincisi basit ve erişilebilir malzemelerle yapılmalarıdır. Tahıllar, et, bakliyat ve sebzeler insanlık tarihinin en temel gıdalarıdır.</p>
+<h3 id="yemek-bir-sanat-formudur">Yemek Bir Sanat Formudur</h3>
 
-<p>İkinci neden ise kültürel aktarım sürecidir. Tarifler nesilden nesile aktarıldıkça yaşar. Annelerden çocuklara geçen mutfak kültürü bazı yemeklerin yüzyıllarca unutulmamasını sağlar.</p>
+<p>Babette’in hazırladığı yemekler yalnızca besin değil, aynı zamanda birer sanat eseridir. Her tabak estetik, emek ve yaratıcılığın birleşimidir.</p>
 
-<p>Üçüncü neden ise uyum sağlama yetenekleridir. Tarifler zaman içinde küçük değişiklikler geçirerek farklı kültürlere adapte olabilir.</p>
+<h3 id="yemek-toplumsal-bariyerleri-yıkar">Yemek Toplumsal Bariyerleri Yıkar</h3>
 
-<h2 id="sonuç-soframızdaki-tarih">Sonuç: Soframızdaki Tarih</h2>
+<p>Filmin başındaki katı ve mesafeli topluluk, ziyafet sırasında yumuşar ve birbirleriyle yeniden bağ kurar.</p>
 
-<p>Bugün yediğimiz birçok yemek aslında birer tarih parçasıdır. Bir kase aşure, bir tabak keşkek ya da basit bir ekmek bile binlerce yıl öncesinden gelen bir kültürün devamıdır.</p>
+<h3 id="yemek-ruhsal-bir-deneyimdir">Yemek Ruhsal Bir Deneyimdir</h3>
 
-<p>Yemekler yalnızca karın doyurmaz. Aynı zamanda geçmişle bağ kurmamızı sağlar.</p>
+<p>Ziyafet sahnesi birçok eleştirmen tarafından dini bir ritüele benzetilir. Yemek burada paylaşım, bağışlama ve topluluk duygusunun sembolüdür.</p>
 
-<p>Bir sonraki öğününüzde tabağınıza baktığınızda, belki de binlerce yıllık bir geleneğin devamını yediğinizi hatırlamak yemeği çok daha anlamlı hâle getirebilir.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[İnsanlık tarihi yalnızca savaşlar, imparatorluklar ve keşiflerden ibaret değildir. Aynı zamanda mutfakların, tatların ve tariflerin de tarihidir. Bugün sofralarımıza gelen bazı yemekler, binlerce yıl önce yaşayan insanların da sofralarında yer alıyordu. Üstelik bu tariflerin bir kısmı neredeyse hiç değişmeden günümüze kadar ulaştı.]]></summary></entry><entry><title type="html">Menemen Tarifi</title><link href="http://localhost:4000/menemen-tarifi" rel="alternate" type="text/html" title="Menemen Tarifi" /><published>2026-03-06T00:00:00+03:00</published><updated>2026-03-06T00:00:00+03:00</updated><id>http://localhost:4000/menemen-tarifi</id><content type="html" xml:base="http://localhost:4000/menemen-tarifi"><![CDATA[<p>Menemen, Türk mutfağının en sevilen kahvaltı yemeklerinden biridir ve özellikle taze domates, biber ve yumurtanın uyumuyla hazırlanır. Yapımı oldukça pratik olan bu yemek, farklı bölgelerde peynirli, soğanlı veya sucuklu gibi çeşitli yorumlarla hazırlanabilir. Sıcak tavada pişirilip genellikle taze ekmekle servis edilen menemen, hem doyurucu hem de lezzetli bir kahvaltı alternatifi olarak sofralarda sıkça yer alır.</p>
+<h2 id="yemekle-kendini-bulmak-julie--julia">Yemekle Kendini Bulmak: Julie &amp; Julia</h2>
+
+<p>Julie &amp; Julia, gastronominin bireysel kimlik arayışıyla nasıl birleşebileceğini gösteren modern bir hikâyedir. Film, iki farklı zaman diliminde yaşayan iki kadının hayatını paralel şekilde anlatır.</p>
+
+<p>Julia Child, Fransız mutfağını Amerika’ya tanıtan ünlü bir şef olur. Julie Powell ise onun yemek kitabındaki tüm tarifleri bir yıl içinde yapmaya çalışarak hayatına yön verir.</p>
+
+<p>Bu filmde yemek şu anlamları taşır.</p>
+
+<h3 id="kendini-i̇fade-etme-aracı">Kendini İfade Etme Aracı</h3>
+
+<p>Julie için yemek yapmak, monoton hayatından çıkmanın ve kendini ifade etmenin bir yoludur.</p>
+
+<h3 id="kültürlerarası-köprü">Kültürlerarası Köprü</h3>
+
+<p>Julia Child’ın Fransız mutfağını Amerikan kültürüne taşıması, yemek aracılığıyla kültürlerin nasıl etkileşime girdiğini gösterir.</p>
+
+<h3 id="dijital-çağda-yemek-kültürü">Dijital Çağda Yemek Kültürü</h3>
+
+<p>Film aynı zamanda yemek bloglarının yükselişini de temsil eder. Gastronomi artık yalnızca mutfakta değil, internet ve medya aracılığıyla da paylaşılır.</p>
+
+<h2 id="ekrandaki-sofraların-ortak-mesajı">Ekrandaki Sofraların Ortak Mesajı</h2>
+
+<p>Bu üç yapım farklı dönemleri ve kültürleri temsil etse de ortak bir noktada buluşur: Yemek insan hikâyelerinin merkezindedir.</p>
+
+<p>Ekrandaki sofralar bize şunları anlatır:</p>
+
+<ul>
+  <li>Yemek yalnızca bir ihtiyaç değil, duygusal bir deneyimdir</li>
+  <li>Mutfaklar kültürel kimliğin üretildiği alanlardır</li>
+  <li>Yemek paylaşımı sosyal bağları güçlendirir</li>
+  <li>Gastronomi bireysel dönüşümün bir parçası olabilir</li>
+</ul>
+
+<p>Bu nedenle film ve dizilerdeki yemek sahneleri, izleyiciyi yalnızca görsel olarak etkilemekle kalmaz; aynı zamanda toplum, kimlik ve insan ilişkileri hakkında derin mesajlar verir.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Sinema ve televizyon dünyasında yemek; estetik bir detaydan çok daha fazlasıdır. Bir tabak yemek bazen geçmişle yüzleşmeyi, bazen kültürel mirası, bazen de kişisel dönüşümü anlatır.</p>
+
+<p>Bu nedenle bir film ya da dizideki mutfak sahnesine bir sonraki izleyişinizde biraz daha dikkatle bakarsanız, aslında hikâyenin en güçlü metaforlarından birini izlediğinizi fark edebilirsiniz. Yemek sahneleri, izleyiciyi yalnızca aç bırakmak için değil; aynı zamanda düşündürmek, duygulandırmak ve kültürel bir yolculuğa çıkarmak için vardır.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Sinema ve televizyon, yalnızca hikâye anlatan araçlar değildir; aynı zamanda toplumların kültürünü, değerlerini ve kimliklerini yansıtan güçlü aynalardır. Bu anlatıların en etkili ama çoğu zaman gözden kaçan unsurlarından biri ise yemek sahneleridir. Sofralar, mutfaklar ve yemek hazırlama ritüelleri; karakterlerin kimliğini, sosyal ilişkilerini ve kültürel bağlarını görünür kılar. Bir yemeğin hazırlanışı, sunuluşu ya da paylaşılışı çoğu zaman sözlü diyaloglardan daha güçlü bir anlatı kurabilir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/film-ve-dizilerde-yemek-kulturu-ekrandaki-sofralarin-ardindaki-anlamlar.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/film-ve-dizilerde-yemek-kulturu-ekrandaki-sofralarin-ardindaki-anlamlar.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Menemen Tarifi</title><link href="http://localhost:4000/menemen-tarifi" rel="alternate" type="text/html" title="Menemen Tarifi" /><published>2026-03-06T00:00:00+03:00</published><updated>2026-03-06T00:00:00+03:00</updated><id>http://localhost:4000/menemen-tarifi</id><content type="html" xml:base="http://localhost:4000/menemen-tarifi"><![CDATA[<p>Menemen, Türk mutfağının en sevilen kahvaltı yemeklerinden biridir ve özellikle taze domates, biber ve yumurtanın uyumuyla hazırlanır. Yapımı oldukça pratik olan bu yemek, farklı bölgelerde peynirli, soğanlı veya sucuklu gibi çeşitli yorumlarla hazırlanabilir. Sıcak tavada pişirilip genellikle taze ekmekle servis edilen menemen, hem doyurucu hem de lezzetli bir kahvaltı alternatifi olarak sofralarda sıkça yer alır.</p>
 
 <h2 id="malzemeler-2-kişilik">Malzemeler (2 kişilik):</h2>
 
@@ -508,66 +582,4 @@
   <li>Fazla yağını almak için kağıt havlu üzerine alın ve sıcak servis yapın.</li>
 </ol>
 
-<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Fransız Mutfağı" /><summary type="html"><![CDATA[Chicken Cordon Bleu, Fransız mutfağından dünyaya yayılan ve içi peynir ile jambonla doldurulmuş çıtır tavuk rulolarından oluşan klasik bir yemektir. Dışı galeta unuyla kaplanıp kızartıldığı için dışı çıtır, içi ise erimiş peynir sayesinde yumuşak ve lezzetlidir. Genellikle patates püresi, makarna veya yeşil salata ile servis edilir ve hem ev yemeklerinde hem de restoran menülerinde oldukça popüler bir ana yemektir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/chicken-cordon-bleu-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/chicken-cordon-bleu-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mapo Tofu Tarifi</title><link href="http://localhost:4000/mapo-tofu-tarifi" rel="alternate" type="text/html" title="Mapo Tofu Tarifi" /><published>2026-02-24T00:00:00+03:00</published><updated>2026-02-24T00:00:00+03:00</updated><id>http://localhost:4000/mapo-tofu-tarifi</id><content type="html" xml:base="http://localhost:4000/mapo-tofu-tarifi"><![CDATA[<p>Sichuan mutfağının en sevilen yemeklerinden biri olan Mapo Tofu, yumuşacık tofu küpleri, baharatlı kıymalı sosu ve kendine özgü uyuşturucu acılığıyla (Sichuan biberi etkisi) damakta iz bırakan bir lezzettir. Hem pratik hazırlanması hem de yoğun aroması sayesinde evde Asya mutfağı denemek isteyenler için mükemmel bir başlangıç yemeğidir. Orijinal tarifte acı ve baharat dengesi oldukça belirgindir; ancak damak tadınıza göre acı miktarını kolayca ayarlayabilirsiniz.</p>
-
-<h2 id="malzemeler-23-kişilik">Malzemeler (2–3 kişilik):</h2>
-
-<ul>
-  <li>400 g yumuşak tofu</li>
-  <li>200 g dana kıyma</li>
-  <li>2 yemek kaşığı sıvı yağ</li>
-  <li>2 diş sarımsak (ince doğranmış)</li>
-  <li>1 tatlı kaşığı taze zencefil (rendelenmiş)</li>
-  <li>2 yemek kaşığı doubanjiang (Çin acı fasulye ezmesi)</li>
-  <li>1 yemek kaşığı soya sosu</li>
-  <li>1 çay kaşığı toz Sichuan biberi (isteğe bağlı ama önerilir)</li>
-  <li>1 su bardağı tavuk suyu veya sıcak su</li>
-  <li>1 tatlı kaşığı mısır nişastası + 2 yemek kaşığı su (karıştırılmış)</li>
-  <li>2 dal taze soğan (doğranmış)</li>
-  <li>Tuz (gerektikçe)</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li><strong>Tofuyu hazırlayın</strong>: Tofuyu 2–3 cm küpler halinde kesin. Dağılmaması için kaynar suda 1 dakika bekletip süzebilirsiniz (isteğe bağlı).</li>
-  <li><strong>Kıymayı kavurun</strong>: Tavaya sıvı yağı alın, kıymayı ekleyip rengi dönene kadar kavurun.</li>
-  <li><strong>Aromaları ekleyin</strong>: Sarımsak ve zencefili ekleyip kısa süre çevirin. Ardından doubanjiang ilave edip kokusu çıkana kadar kavurun.</li>
-  <li><strong>Sosu oluşturun</strong>: Soya sosu ve tavuk suyunu ekleyin, karıştırın.</li>
-  <li><strong>Tofuyu ekleyi</strong>n: Tofu küplerini nazikçe tavaya alın. Karıştırırken kırmamaya dikkat edin.</li>
-  <li><strong>Kıvam verin</strong>: Nişastalı suyu ekleyip sos koyulaşana kadar 1–2 dakika pişirin.</li>
-  <li><strong>Baharat ve servis</strong>: Sichuan biberini ve taze soğanı ekleyin. Sıcak servis yapın.</li>
-</ol>
-
-<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Çin Mutfağı" /><summary type="html"><![CDATA[Sichuan mutfağının en sevilen yemeklerinden biri olan Mapo Tofu, yumuşacık tofu küpleri, baharatlı kıymalı sosu ve kendine özgü uyuşturucu acılığıyla (Sichuan biberi etkisi) damakta iz bırakan bir lezzettir. Hem pratik hazırlanması hem de yoğun aroması sayesinde evde Asya mutfağı denemek isteyenler için mükemmel bir başlangıç yemeğidir. Orijinal tarifte acı ve baharat dengesi oldukça belirgindir; ancak damak tadınıza göre acı miktarını kolayca ayarlayabilirsiniz.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/mapo-tofu-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/mapo-tofu-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fideuà Tarifi (İspanyol Usulü Deniz Mahsullü Şehriye)</title><link href="http://localhost:4000/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye" rel="alternate" type="text/html" title="Fideuà Tarifi (İspanyol Usulü Deniz Mahsullü Şehriye)" /><published>2026-02-24T00:00:00+03:00</published><updated>2026-02-24T00:00:00+03:00</updated><id>http://localhost:4000/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye</id><content type="html" xml:base="http://localhost:4000/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye"><![CDATA[<p>Fideuà, İspanya’nın Valencia bölgesine özgü, paellaya benzeyen ancak pirinç yerine kısa makarna veya arpa şehriye ile hazırlanan lezzetli bir deniz ürünü yemeğidir. Altının hafif çıtır kalması ve üst kısmının sulu yapısını koruması bu yemeğin en ayırt edici özelliğidir. Genellikle aioli sos ve limon eşliğinde servis edilen fideuà, deniz aromalarını yoğun şekilde hissettiren, pratik ama etkileyici bir ana yemektir.</p>
-
-<h2 id="malzemeler-4-kişilik">Malzemeler (4 kişilik):</h2>
-
-<ul>
-  <li>300 g arpa şehriye (veya fideuà makarnası)</li>
-  <li>400 g karışık deniz ürünü (karides, kalamar, midye)</li>
-  <li>1 adet küçük soğan (ince doğranmış)</li>
-  <li>2 diş sarımsak (ezilmiş)</li>
-  <li>1 adet rendelenmiş domates</li>
-  <li>1 çay kaşığı toz kırmızı biber</li>
-  <li>Bir tutam safran (veya zerdeçal)</li>
-  <li>4 su bardağı balık suyu</li>
-  <li>3 yemek kaşığı zeytinyağı</li>
-  <li>Tuz, karabiber</li>
-  <li>Servis için limon dilimleri</li>
-  <li>İsteğe bağlı: aioli sos</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Geniş ve yayvan bir tavada zeytinyağını ısıtın, arpa şehriyeyi ekleyip hafifçe kızarana kadar kavurun. Ardından şehriyeyi tavadan alıp kenara koyun.</li>
-  <li>Aynı tavada soğanı ve sarımsağı yumuşayana kadar soteleyin.</li>
-  <li>Deniz ürünlerini ekleyip birkaç dakika yüksek ateşte çevirin.</li>
-  <li>Rendelenmiş domatesi, kırmızı biberi ve safranı ekleyip karıştırın.</li>
-  <li>Kavrulmuş şehriyeyi tekrar tavaya alın ve sıcak balık suyunu ilave edin. Tuz ve karabiberle tatlandırın.</li>
-  <li>Orta ateşte, karıştırmadan, şehriyeler suyunu çekene kadar yaklaşık 10–12 dakika pişirin.</li>
-  <li>Altı hafif tutmaya başladığında ocaktan alın, 5 dakika dinlendirin ve limon dilimleriyle servis edin.</li>
-</ol>
-
-<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="İspanya Mutfağı" /><summary type="html"><![CDATA[Fideuà, İspanya’nın Valencia bölgesine özgü, paellaya benzeyen ancak pirinç yerine kısa makarna veya arpa şehriye ile hazırlanan lezzetli bir deniz ürünü yemeğidir. Altının hafif çıtır kalması ve üst kısmının sulu yapısını koruması bu yemeğin en ayırt edici özelliğidir. Genellikle aioli sos ve limon eşliğinde servis edilen fideuà, deniz aromalarını yoğun şekilde hissettiren, pratik ama etkileyici bir ana yemektir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/02/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/02/fideua-tarifi-ispanyol-usulu-deniz-mahsullu-sehriye.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Fransız Mutfağı" /><summary type="html"><![CDATA[Chicken Cordon Bleu, Fransız mutfağından dünyaya yayılan ve içi peynir ile jambonla doldurulmuş çıtır tavuk rulolarından oluşan klasik bir yemektir. Dışı galeta unuyla kaplanıp kızartıldığı için dışı çıtır, içi ise erimiş peynir sayesinde yumuşak ve lezzetlidir. Genellikle patates püresi, makarna veya yeşil salata ile servis edilir ve hem ev yemeklerinde hem de restoran menülerinde oldukça popüler bir ana yemektir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/chicken-cordon-bleu-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/chicken-cordon-bleu-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
