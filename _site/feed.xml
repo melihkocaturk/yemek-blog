@@ -1,38 +1,146 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-03-30T23:44:56+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Picarones Tarifi (Peru Usulü Kabaklı Tatlı Halka)</title><link href="http://localhost:4000/picarones-tarifi-peru-usulu-kabakli-tatli-halka" rel="alternate" type="text/html" title="Picarones Tarifi (Peru Usulü Kabaklı Tatlı Halka)" /><published>2026-03-30T00:00:00+03:00</published><updated>2026-03-30T00:00:00+03:00</updated><id>http://localhost:4000/picarones-tarifi-peru-usulu-kabakli-tatli-halka</id><content type="html" xml:base="http://localhost:4000/picarones-tarifi-peru-usulu-kabakli-tatli-halka"><![CDATA[<p>Picarones, Peru mutfağının en sevilen sokak tatlılarından biridir ve özellikle balkabağı ile hazırlanması sayesinde klasik kızarmış hamur tatlılarından ayrılır. Dışı çıtır, içi yumuşak olan bu halka tatlı, genellikle tarçın ve karanfil aromalı yoğun bir şerbetle servis edilir. Hem lezzeti hem de dokusuyla lokma ve churros arasında bir deneyim sunan picarones, özellikle kış aylarında sıcak servis edildiğinde oldukça etkileyici bir tatlı alternatifi oluşturur.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="tr"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="tr" /><updated>2026-04-17T00:21:57+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Kuzine</title><subtitle>Yemek kültürüne keyifli bir yolculuk.</subtitle><entry><title type="html">Meksika Mutfağı Rehberi: Sokak Lezzetlerinden Efsane Soslara Kadar Tam Bir Keşif</title><link href="http://localhost:4000/meksika-mutfagi-rehberi-sokak-lezzetlerinden-efsane-soslara-kadar-tam-bir-kesif" rel="alternate" type="text/html" title="Meksika Mutfağı Rehberi: Sokak Lezzetlerinden Efsane Soslara Kadar Tam Bir Keşif" /><published>2026-04-16T00:00:00+03:00</published><updated>2026-04-16T00:00:00+03:00</updated><id>http://localhost:4000/meksika-mutfagi-rehberi-sokak-lezzetlerinden-efsane-soslara-kadar-tam-bir-kesif</id><content type="html" xml:base="http://localhost:4000/meksika-mutfagi-rehberi-sokak-lezzetlerinden-efsane-soslara-kadar-tam-bir-kesif"><![CDATA[<p>Meksika mutfağı, sadece acılı yemeklerden ibaret sanılan ama aslında çok katmanlı, köklü ve kültürel olarak son derece zengin bir mutfaktır. Aztek ve Maya medeniyetlerinden miras kalan yerel lezzetlerin, İspanyol sömürge döneminde gelen yeni malzemelerle birleşmesi sonucunda ortaya çıkan bu mutfak; bugün dünyanın en sevilen mutfaklarından biri haline gelmiştir.</p>
+
+<p>Bu yazıda Meksika mutfağını tüm yönleriyle ele alacak; temel malzemelerden en popüler yemeklere, sokak lezzetlerinden bölgesel farklılıklara kadar kapsamlı bir keşfe çıkacağız.</p>
+
+<h2 id="meksika-mutfağının-temel-taşları">Meksika Mutfağının Temel Taşları</h2>
+
+<p>Meksika mutfağını anlamanın yolu, kullanılan ana malzemeleri tanımaktan geçer. Bu mutfağın omurgasını oluşturan üçlü şudur:</p>
+
+<ol>
+  <li><strong>Mısır (Maíz)</strong>: Meksika mutfağının vazgeçilmezidir. Tortilla, taco, tamale ve daha birçok yemeğin temelini oluşturur. Mısır, sadece bir besin değil, aynı zamanda kültürel bir semboldür.</li>
+  <li><strong>Fasulye (Frijoles)</strong>: Protein açısından zengin olan fasulye, özellikle dar gelirli halk için önemli bir besin kaynağıdır. Siyah ve pinto fasulyesi en yaygın kullanılan türlerdir.</li>
+  <li><strong>Acı Biber (Chili)</strong>: Meksika mutfağını diğer mutfaklardan ayıran en önemli unsurlardan biridir. Jalapeño, habanero, poblano gibi onlarca farklı biber çeşidi bulunur ve her biri farklı aroma profiline sahiptir.</li>
+</ol>
+
+<p>Bunların dışında avokado, domates, limon, kakao, kişniş ve çeşitli baharatlar da mutfağın önemli parçalarıdır.</p>
+
+<h2 id="meksika-mutfağında-sos-kültürü">Meksika Mutfağında Sos Kültürü</h2>
+
+<p>Meksika mutfağını özel kılan unsurların başında soslar gelir. Neredeyse her yemeğin karakteri kullanılan sosla belirlenir.</p>
+
+<h3 id="salsa">Salsa</h3>
+<p>“Salsa” kelime anlamıyla sos demektir ve yüzlerce çeşidi vardır.</p>
+
+<ul>
+  <li><strong>Salsa Roja</strong>: Domates ve kırmızı biber bazlıdır</li>
+  <li><strong>Salsa Verde</strong>: Yeşil domates (tomatillo) ile yapılır</li>
+  <li><strong>Pico de Gallo</strong>: Taze doğranmış domates, soğan ve kişnişten oluşur</li>
+</ul>
+
+<h3 id="mole">Mole</h3>
+<p>Meksika mutfağının en kompleks soslarından biridir. Kakao, baharatlar, biberler ve çeşitli malzemelerin birleşimiyle hazırlanır. Özellikle tavuk yemeklerinde kullanılır.</p>
+
+<h2 id="en-popüler-meksika-yemekleri">En Popüler Meksika Yemekleri</h2>
+
+<p>Meksika mutfağı denildiğinde akla gelen bazı ikonik yemekler vardır:</p>
+
+<ul>
+  <li><strong>Taco</strong>: İnce tortilla içine konulan et, tavuk, balık veya sebzelerle hazırlanır. Üzerine salsa, soğan ve kişniş eklenir.</li>
+  <li><strong>Burrito</strong>: Daha büyük bir tortilla içine sarılan; pirinç, fasulye, et ve çeşitli soslarla hazırlanan doyurucu bir yemektir.</li>
+  <li><strong>Enchilada</strong>: İç dolgulu tortillaların sosla kaplanıp fırınlanmasıyla hazırlanır.</li>
+  <li><strong>Quesadilla</strong>: İçinde eritilmiş peynir bulunan, sade ama lezzetli bir alternatiftir.</li>
+  <li><strong>Tamale</strong>: Mısır hamurunun içine et veya sebze konularak mısır yaprağı içinde buharda pişirilmesiyle yapılır.</li>
+</ul>
+
+<h2 id="sokak-lezzetleri-meksikanın-gerçek-yüzü">Sokak Lezzetleri: Meksika’nın Gerçek Yüzü</h2>
+
+<p>Meksika mutfağını en iyi deneyimleyebileceğiniz yerlerden biri sokaklardır. Sokak yemekleri hem uygun fiyatlı hem de oldukça lezzetlidir.</p>
+
+<ul>
+  <li><strong>Elote</strong>: Izgara mısır üzerine mayonez, peynir ve baharat eklenir</li>
+  <li><strong>Nachos</strong>: Tortilla cipslerinin üzerine peynir ve çeşitli soslar eklenir</li>
+  <li><strong>Churros</strong>: Tarçın ve şekerle kaplanmış kızarmış hamur tatlısı</li>
+</ul>
+
+<h2 id="bölgesel-farklılıklar">Bölgesel Farklılıklar</h2>
+
+<p>Meksika mutfağı tek tip değildir; bölgelere göre ciddi farklılıklar gösterir.</p>
+
+<ul>
+  <li><strong>Kuzey Meksika</strong>: Et ağırlıklı yemekler ve ızgara kültürü ön plandadır</li>
+  <li><strong>Güney Meksika</strong>: Baharatlar, mısır ve sebzeler daha yoğun kullanılır</li>
+  <li><strong>Sahil Bölgeleri</strong>: Deniz ürünleri mutfağın önemli bir parçasıdır</li>
+</ul>
+
+<h2 id="meksika-mutfağının-kültürel-önemi">Meksika Mutfağının Kültürel Önemi</h2>
+
+<p>Meksika mutfağı, 2010 yılında UNESCO tarafından İnsanlığın Somut Olmayan Kültürel Mirası listesine alınmıştır. Bu durum, mutfağın sadece yemeklerden ibaret olmadığını; gelenek, tarih ve toplumsal yaşamın bir parçası olduğunu gösterir.</p>
+
+<p>Yemekler genellikle aile ve arkadaşlarla birlikte paylaşılır. Bu da mutfağı sosyal bir deneyim haline getirir.</p>
+
+<h2 id="evde-meksika-mutfağı-denemek">Evde Meksika Mutfağı Denemek</h2>
+
+<p>Meksika mutfağını deneyimlemek için Meksika’ya gitmenize gerek yok. Basit malzemelerle evde de başlangıç yapabilirsiniz.</p>
+
+<p>Başlamak için öneriler:</p>
+<ul>
+  <li>Tortilla ekmeği edinin</li>
+  <li>Basit bir salsa hazırlayın</li>
+  <li>Tavuk veya kıyma ile taco yapmayı deneyin</li>
+</ul>
+
+<p>Zamanla daha karmaşık tariflere geçebilirsiniz.</p>
+
+<h2 id="sonuç">Sonuç</h2>
+
+<p>Meksika mutfağı; köklü tarihi, zengin malzemeleri ve cesur lezzetleriyle dünya mutfakları arasında özel bir yere sahiptir. Her yemeğinde farklı bir hikaye, her sosunda farklı bir karakter barındırır.</p>
+
+<p>Eğer yeni lezzetler keşfetmeyi seviyorsanız, Meksika mutfağı sizin için sonsuz bir keşif alanı sunar.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Meksika mutfağı, sadece acılı yemeklerden ibaret sanılan ama aslında çok katmanlı, köklü ve kültürel olarak son derece zengin bir mutfaktır. Aztek ve Maya medeniyetlerinden miras kalan yerel lezzetlerin, İspanyol sömürge döneminde gelen yeni malzemelerle birleşmesi sonucunda ortaya çıkan bu mutfak; bugün dünyanın en sevilen mutfaklarından biri haline gelmiştir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/04/meksika-mutfagi-rehberi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/04/meksika-mutfagi-rehberi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Geleneksel Aşure Tarifi</title><link href="http://localhost:4000/geleneksel-asure-tarifi" rel="alternate" type="text/html" title="Geleneksel Aşure Tarifi" /><published>2026-04-16T00:00:00+03:00</published><updated>2026-04-16T00:00:00+03:00</updated><id>http://localhost:4000/geleneksel-asure-tarifi</id><content type="html" xml:base="http://localhost:4000/geleneksel-asure-tarifi"><![CDATA[<p>Aşure, Anadolu’nun en köklü tatlılarından biridir ve paylaşmanın, bereketin simgesi olarak bilinir. İçinde farklı bakliyat, tahıl ve kuru meyvelerin bir araya gelmesi, kültürel olarak birlik ve çeşitliliği temsil eder. Özellikle Muharrem ayında yapılan aşure, komşulara dağıtılarak sosyal bağları güçlendiren bir gelenek haline gelmiştir.</p>
+
+<p>Tarihsel olarak aşurenin kökeni Nuh Tufanı’na kadar uzandırılır. Rivayete göre tufandan sonra elde kalan son malzemeler bir araya getirilerek bu tatlı hazırlanmıştır. Bu nedenle aşure, sadece bir tatlı değil; aynı zamanda paylaşmanın, dayanışmanın ve şükrün sembolüdür.</p>
 
 <h2 id="malzemeler">Malzemeler:</h2>
 
 <ul>
-  <li>2 su bardağı un</li>
-  <li>1 su bardağı haşlanmış ve püre haline getirilmiş balkabağı</li>
-  <li>1 yemek kaşığı kuru maya</li>
-  <li>1 yemek kaşığı şeker</li>
-  <li>1 su bardağı ılık su</li>
-  <li>1/2 çay kaşığı tuz</li>
-  <li>Kızartmak için sıvı yağ</li>
+  <li>2 su bardağı aşurelik buğday</li>
+  <li>1/2 su bardağı nohut</li>
+  <li>1/2 su bardağı kuru fasulye</li>
+  <li>1 çay bardağı pirinç</li>
+  <li>10-12 su bardağı su</li>
+  <li>1,5 – 2 su bardağı toz şeker (isteğe göre)</li>
+  <li>1 çay bardağı kuru kayısı (doğranmış)</li>
+  <li>1 çay bardağı kuru incir (doğranmış)</li>
+  <li>1 çay bardağı kuru üzüm</li>
+  <li>1 portakal kabuğu rendesi (isteğe bağlı)</li>
+  <li>1 çay bardağı fındık veya ceviz içi</li>
 </ul>
 
-<h3 id="şerbet-sos-için">Şerbet (Sos) için:</h3>
+<h3 id="üzeri-i̇çin">Üzeri İçin:</h3>
 
 <ul>
-  <li>1 su bardağı esmer şeker (veya pekmez)</li>
-  <li>1/2 su bardağı su</li>
-  <li>1 çubuk tarçın</li>
-  <li>2-3 adet karanfil</li>
+  <li>Nar taneleri</li>
+  <li>Tarçın</li>
+  <li>Hindistan cevizi</li>
+  <li>Fındık / ceviz</li>
+  <li>Kuş üzümü</li>
 </ul>
 
 <h2 id="hazırlanışı">Hazırlanışı:</h2>
 
 <ol>
-  <li>Ilık su, şeker ve mayayı karıştırıp 10 dakika bekletin.</li>
-  <li>Un, tuz ve kabak püresini ekleyip yumuşak, hafif yapışkan bir hamur elde edin.</li>
-  <li>Hamurun üzerini örtüp yaklaşık 1 saat mayalanmaya bırakın.</li>
-  <li>Yağı derin bir tavada ısıtın. Ellerinizi hafifçe ıslatarak hamurdan parçalar alın, ortası delik halka şekli verip kızgın yağa bırakın.</li>
-  <li>Altın rengi olana kadar kızartın ve kağıt havlu üzerine alın.</li>
-  <li>Şerbet için tüm malzemeleri kaynatıp koyulaştırın. Ilık picarones’ların üzerine gezdirerek servis edin.</li>
+  <li>Buğdayı bir gece önceden bol suyla ıslatın. Aynı şekilde nohut ve kuru fasulyeyi de ayrı kaplarda ıslatın.</li>
+  <li>Ertesi gün buğdayı haşlayın ve yumuşayana kadar pişirin.</li>
+  <li>Nohut ve fasulyeyi ayrı ayrı haşlayarak yumuşatın.</li>
+  <li>Buğdayın üzerine haşlanmış nohut ve fasulyeyi ekleyin.</li>
+  <li>Pirinci ilave edin ve karıştırarak pişirmeye devam edin.</li>
+  <li>Kuru kayısı, üzüm ve inciri ekleyin. (İnciri en son eklemek kararmayı önler.)</li>
+  <li>Karışım koyulaştıkça sıcak su ekleyerek kıvamını ayarlayın.</li>
+  <li>Şekeri ilave edin ve birkaç dakika daha kaynatın.</li>
+  <li>İsteğe bağlı olarak portakal kabuğu rendesi ekleyin.</li>
+  <li>Ocaktan aldıktan sonra kaselere paylaştırın.</li>
+  <li>Üzerini nar, tarçın ve kuru yemişlerle süsleyerek servis edin.</li>
 </ol>
 
-<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Peru Mutfağı" /><summary type="html"><![CDATA[Picarones, Peru mutfağının en sevilen sokak tatlılarından biridir ve özellikle balkabağı ile hazırlanması sayesinde klasik kızarmış hamur tatlılarından ayrılır. Dışı çıtır, içi yumuşak olan bu halka tatlı, genellikle tarçın ve karanfil aromalı yoğun bir şerbetle servis edilir. Hem lezzeti hem de dokusuyla lokma ve churros arasında bir deneyim sunan picarones, özellikle kış aylarında sıcak servis edildiğinde oldukça etkileyici bir tatlı alternatifi oluşturur.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/picarones-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/picarones-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Francesinha Tarifi (Portekiz Usulü Efsane Sandviç)</title><link href="http://localhost:4000/francesinha-tarifi-portekiz-usulu-efsane-sandvic" rel="alternate" type="text/html" title="Francesinha Tarifi (Portekiz Usulü Efsane Sandviç)" /><published>2026-03-30T00:00:00+03:00</published><updated>2026-03-30T00:00:00+03:00</updated><id>http://localhost:4000/francesinha-tarifi-portekiz-usulu-efsane-sandvic</id><content type="html" xml:base="http://localhost:4000/francesinha-tarifi-portekiz-usulu-efsane-sandvic"><![CDATA[<p>Francesinha, Portekiz’in Porto şehrine özgü, yoğun lezzeti ve doyuruculuğuyla ünlü bir sandviçtir. Et, şarküteri ürünleri ve erimiş peynirin birleşimiyle hazırlanan bu tarifin en ayırt edici özelliği, bira ve domates bazlı özel sosudur. Genellikle patates kızartmasıyla birlikte servis edilir ve özellikle akşam yemeklerinde ya da hafta sonu keyifli sofralarda tercih edilen güçlü bir alternatiftir.</p>
+<h2 id="püf-noktaları">Püf Noktaları:</h2>
+
+<ul>
+  <li>Aşurenin kıvamı ne çok koyu ne de çok sulu olmalıdır.</li>
+  <li>Şekeri en son eklemek, bakliyatların daha iyi pişmesini sağlar.</li>
+  <li>İnciri ayrı bir kapta haşlayıp eklemek, aşurenin rengini korur.</li>
+  <li>Dinlendikçe kıvam koyulaşır; servis öncesi gerekirse su eklenebilir.</li>
+</ul>
+
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Türk Mutfağı" /><summary type="html"><![CDATA[Aşure, Anadolu’nun en köklü tatlılarından biridir ve paylaşmanın, bereketin simgesi olarak bilinir. İçinde farklı bakliyat, tahıl ve kuru meyvelerin bir araya gelmesi, kültürel olarak birlik ve çeşitliliği temsil eder. Özellikle Muharrem ayında yapılan aşure, komşulara dağıtılarak sosyal bağları güçlendiren bir gelenek haline gelmiştir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/04/geleneksel-asure-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/04/geleneksel-asure-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Francesinha Tarifi (Portekiz Usulü Efsane Sandviç)</title><link href="http://localhost:4000/francesinha-tarifi-portekiz-usulu-efsane-sandvic" rel="alternate" type="text/html" title="Francesinha Tarifi (Portekiz Usulü Efsane Sandviç)" /><published>2026-03-30T00:00:00+03:00</published><updated>2026-03-30T00:00:00+03:00</updated><id>http://localhost:4000/francesinha-tarifi-portekiz-usulu-efsane-sandvic</id><content type="html" xml:base="http://localhost:4000/francesinha-tarifi-portekiz-usulu-efsane-sandvic"><![CDATA[<p>Francesinha, Portekiz’in Porto şehrine özgü, yoğun lezzeti ve doyuruculuğuyla ünlü bir sandviçtir. Et, şarküteri ürünleri ve erimiş peynirin birleşimiyle hazırlanan bu tarifin en ayırt edici özelliği, bira ve domates bazlı özel sosudur. Genellikle patates kızartmasıyla birlikte servis edilir ve özellikle akşam yemeklerinde ya da hafta sonu keyifli sofralarda tercih edilen güçlü bir alternatiftir.</p>
 
 <h2 id="malzemeler">Malzemeler:</h2>
 
@@ -72,7 +180,41 @@
   <li>Fırından çıkan sandviçin üzerine sıcak sosu bolca dökün. İsteğe bağlı olarak üzerine sahanda yumurta ekleyebilirsiniz.</li>
 </ol>
 
-<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Portekiz Mutfağı" /><summary type="html"><![CDATA[Francesinha, Portekiz’in Porto şehrine özgü, yoğun lezzeti ve doyuruculuğuyla ünlü bir sandviçtir. Et, şarküteri ürünleri ve erimiş peynirin birleşimiyle hazırlanan bu tarifin en ayırt edici özelliği, bira ve domates bazlı özel sosudur. Genellikle patates kızartmasıyla birlikte servis edilir ve özellikle akşam yemeklerinde ya da hafta sonu keyifli sofralarda tercih edilen güçlü bir alternatiftir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/francesinha-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/francesinha-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yemek ve Kimlik: Mutfak Kültürüyle Bireysel ve Ulusal Kimlik İnşası</title><link href="http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi" rel="alternate" type="text/html" title="Yemek ve Kimlik: Mutfak Kültürüyle Bireysel ve Ulusal Kimlik İnşası" /><published>2026-03-11T00:00:00+03:00</published><updated>2026-03-11T00:00:00+03:00</updated><id>http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi</id><content type="html" xml:base="http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi"><![CDATA[<p>Yemek yalnızca fiziksel bir ihtiyaç değildir; aynı zamanda kültürün, tarihin ve kimliğin güçlü bir taşıyıcısıdır. İnsanların ne yediği, nasıl pişirdiği ve yemek etrafında nasıl bir sosyal hayat kurduğu; bireysel ve toplumsal kimliğin oluşumunda önemli bir rol oynar. Dünyanın farklı coğrafyalarında mutfak kültürü, insanların kim olduklarını anlatan sessiz fakat güçlü bir dil gibidir. Bu nedenle yemek, bir toplumun geçmişini, değerlerini ve aidiyet duygusunu yansıtan en önemli kültürel unsurlardan biri olarak kabul edilir.</p>
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Portekiz Mutfağı" /><summary type="html"><![CDATA[Francesinha, Portekiz’in Porto şehrine özgü, yoğun lezzeti ve doyuruculuğuyla ünlü bir sandviçtir. Et, şarküteri ürünleri ve erimiş peynirin birleşimiyle hazırlanan bu tarifin en ayırt edici özelliği, bira ve domates bazlı özel sosudur. Genellikle patates kızartmasıyla birlikte servis edilir ve özellikle akşam yemeklerinde ya da hafta sonu keyifli sofralarda tercih edilen güçlü bir alternatiftir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/francesinha-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/francesinha-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Picarones Tarifi (Peru Usulü Kabaklı Tatlı Halka)</title><link href="http://localhost:4000/picarones-tarifi-peru-usulu-kabakli-tatli-halka" rel="alternate" type="text/html" title="Picarones Tarifi (Peru Usulü Kabaklı Tatlı Halka)" /><published>2026-03-30T00:00:00+03:00</published><updated>2026-03-30T00:00:00+03:00</updated><id>http://localhost:4000/picarones-tarifi-peru-usulu-kabakli-tatli-halka</id><content type="html" xml:base="http://localhost:4000/picarones-tarifi-peru-usulu-kabakli-tatli-halka"><![CDATA[<p>Picarones, Peru mutfağının en sevilen sokak tatlılarından biridir ve özellikle balkabağı ile hazırlanması sayesinde klasik kızarmış hamur tatlılarından ayrılır. Dışı çıtır, içi yumuşak olan bu halka tatlı, genellikle tarçın ve karanfil aromalı yoğun bir şerbetle servis edilir. Hem lezzeti hem de dokusuyla lokma ve churros arasında bir deneyim sunan picarones, özellikle kış aylarında sıcak servis edildiğinde oldukça etkileyici bir tatlı alternatifi oluşturur.</p>
+
+<h2 id="malzemeler">Malzemeler:</h2>
+
+<ul>
+  <li>2 su bardağı un</li>
+  <li>1 su bardağı haşlanmış ve püre haline getirilmiş balkabağı</li>
+  <li>1 yemek kaşığı kuru maya</li>
+  <li>1 yemek kaşığı şeker</li>
+  <li>1 su bardağı ılık su</li>
+  <li>1/2 çay kaşığı tuz</li>
+  <li>Kızartmak için sıvı yağ</li>
+</ul>
+
+<h3 id="şerbet-sos-için">Şerbet (Sos) için:</h3>
+
+<ul>
+  <li>1 su bardağı esmer şeker (veya pekmez)</li>
+  <li>1/2 su bardağı su</li>
+  <li>1 çubuk tarçın</li>
+  <li>2-3 adet karanfil</li>
+</ul>
+
+<h2 id="hazırlanışı">Hazırlanışı:</h2>
+
+<ol>
+  <li>Ilık su, şeker ve mayayı karıştırıp 10 dakika bekletin.</li>
+  <li>Un, tuz ve kabak püresini ekleyip yumuşak, hafif yapışkan bir hamur elde edin.</li>
+  <li>Hamurun üzerini örtüp yaklaşık 1 saat mayalanmaya bırakın.</li>
+  <li>Yağı derin bir tavada ısıtın. Ellerinizi hafifçe ıslatarak hamurdan parçalar alın, ortası delik halka şekli verip kızgın yağa bırakın.</li>
+  <li>Altın rengi olana kadar kızartın ve kağıt havlu üzerine alın.</li>
+  <li>Şerbet için tüm malzemeleri kaynatıp koyulaştırın. Ilık picarones’ların üzerine gezdirerek servis edin.</li>
+</ol>
+
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Peru Mutfağı" /><summary type="html"><![CDATA[Picarones, Peru mutfağının en sevilen sokak tatlılarından biridir ve özellikle balkabağı ile hazırlanması sayesinde klasik kızarmış hamur tatlılarından ayrılır. Dışı çıtır, içi yumuşak olan bu halka tatlı, genellikle tarçın ve karanfil aromalı yoğun bir şerbetle servis edilir. Hem lezzeti hem de dokusuyla lokma ve churros arasında bir deneyim sunan picarones, özellikle kış aylarında sıcak servis edildiğinde oldukça etkileyici bir tatlı alternatifi oluşturur.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/picarones-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/picarones-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Yemek ve Kimlik: Mutfak Kültürüyle Bireysel ve Ulusal Kimlik İnşası</title><link href="http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi" rel="alternate" type="text/html" title="Yemek ve Kimlik: Mutfak Kültürüyle Bireysel ve Ulusal Kimlik İnşası" /><published>2026-03-11T00:00:00+03:00</published><updated>2026-03-11T00:00:00+03:00</updated><id>http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi</id><content type="html" xml:base="http://localhost:4000/yemek-ve-kimlik-mutfak-kulturuyle-bireysel-ve-ulusal-kimlik-insasi"><![CDATA[<p>Yemek yalnızca fiziksel bir ihtiyaç değildir; aynı zamanda kültürün, tarihin ve kimliğin güçlü bir taşıyıcısıdır. İnsanların ne yediği, nasıl pişirdiği ve yemek etrafında nasıl bir sosyal hayat kurduğu; bireysel ve toplumsal kimliğin oluşumunda önemli bir rol oynar. Dünyanın farklı coğrafyalarında mutfak kültürü, insanların kim olduklarını anlatan sessiz fakat güçlü bir dil gibidir. Bu nedenle yemek, bir toplumun geçmişini, değerlerini ve aidiyet duygusunu yansıtan en önemli kültürel unsurlardan biri olarak kabul edilir.</p>
 
 <h2 id="yemek-kültürü-bir-kimlik-göstergesi">Yemek Kültürü Bir Kimlik Göstergesi</h2>
 
@@ -522,64 +664,4 @@
   <li>Yumurtalar istediğiniz kıvama geldiğinde ocaktan alın ve sıcak servis edin.</li>
 </ol>
 
-<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Türk Mutfağı" /><summary type="html"><![CDATA[Menemen, Türk mutfağının en sevilen kahvaltı yemeklerinden biridir ve özellikle taze domates, biber ve yumurtanın uyumuyla hazırlanır. Yapımı oldukça pratik olan bu yemek, farklı bölgelerde peynirli, soğanlı veya sucuklu gibi çeşitli yorumlarla hazırlanabilir. Sıcak tavada pişirilip genellikle taze ekmekle servis edilen menemen, hem doyurucu hem de lezzetli bir kahvaltı alternatifi olarak sofralarda sıkça yer alır.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/menemen-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/menemen-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Caponata Tarifi</title><link href="http://localhost:4000/caponata-tarifi" rel="alternate" type="text/html" title="Caponata Tarifi" /><published>2026-03-06T00:00:00+03:00</published><updated>2026-03-06T00:00:00+03:00</updated><id>http://localhost:4000/caponata-tarifi</id><content type="html" xml:base="http://localhost:4000/caponata-tarifi"><![CDATA[<p>Caponata, İtalya’nın özellikle Sicilya bölgesine özgü, tatlı-ekşi lezzetiyle bilinen geleneksel bir sebze yemeğidir. Patlıcanın ana malzeme olduğu bu tarifte sirke ve şekerin oluşturduğu dengeli sos, kapari ve zeytinle birleşerek karakteristik bir Akdeniz aroması yaratır. Genellikle soğuk veya oda sıcaklığında servis edilir ve antipasti olarak, ekmek üzerinde ya da et yemeklerinin yanında tüketilir. Bu yönüyle hem hafif hem de aroması güçlü klasik bir Akdeniz mutfağı yemeğidir.</p>
-
-<h2 id="malzemeler">Malzemeler:</h2>
-
-<ul>
-  <li>2 adet orta boy patlıcan</li>
-  <li>1 adet büyük soğan</li>
-  <li>2 adet domates (veya 1 su bardağı doğranmış domates)</li>
-  <li>1 adet kırmızı kapya biber</li>
-  <li>2 yemek kaşığı zeytinyağı</li>
-  <li>2 yemek kaşığı sirke</li>
-  <li>1 tatlı kaşığı toz şeker</li>
-  <li>2 yemek kaşığı kapari</li>
-  <li>8–10 adet yeşil zeytin (çekirdeksiz, dilimlenmiş)</li>
-  <li>1 sap kereviz (isteğe bağlı)</li>
-  <li>Tuz ve karabiber</li>
-  <li>Üzeri için taze fesleğen</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Patlıcanları küp küp doğrayın, tuzlu suda yaklaşık 15 dakika bekletin ve kurulayın.</li>
-  <li>Tavada zeytinyağını ısıtıp patlıcanları kızartın veya yumuşayana kadar soteleyin.</li>
-  <li>Ayrı bir tavada doğranmış soğanı ve biberi zeytinyağında yumuşayana kadar kavurun.</li>
-  <li>Üzerine domatesleri ekleyip birkaç dakika pişirin.</li>
-  <li>Kapari, zeytin ve isteğe bağlı kerevizi ekleyin.</li>
-  <li>Sirke, şeker, tuz ve karabiberi ilave edip karıştırın.</li>
-  <li>Son olarak patlıcanları ekleyin ve tüm malzemeleri 5–10 dakika birlikte pişirin.</li>
-  <li>Ocaktan aldıktan sonra oda sıcaklığında dinlendirin ve üzerine fesleğen ekleyerek servis edin.</li>
-</ol>
-
-<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="İtalyan Mutfağı" /><summary type="html"><![CDATA[Caponata, İtalya’nın özellikle Sicilya bölgesine özgü, tatlı-ekşi lezzetiyle bilinen geleneksel bir sebze yemeğidir. Patlıcanın ana malzeme olduğu bu tarifte sirke ve şekerin oluşturduğu dengeli sos, kapari ve zeytinle birleşerek karakteristik bir Akdeniz aroması yaratır. Genellikle soğuk veya oda sıcaklığında servis edilir ve antipasti olarak, ekmek üzerinde ya da et yemeklerinin yanında tüketilir. Bu yönüyle hem hafif hem de aroması güçlü klasik bir Akdeniz mutfağı yemeğidir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/caponata-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/caponata-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Chicken Cordon Bleu Tarifi</title><link href="http://localhost:4000/chicken-cordon-bleu-tarifi" rel="alternate" type="text/html" title="Chicken Cordon Bleu Tarifi" /><published>2026-03-06T00:00:00+03:00</published><updated>2026-03-06T00:00:00+03:00</updated><id>http://localhost:4000/chicken-cordon-bleu-tarifi</id><content type="html" xml:base="http://localhost:4000/chicken-cordon-bleu-tarifi"><![CDATA[<p>Chicken Cordon Bleu, Fransız mutfağından dünyaya yayılan ve içi peynir ile jambonla doldurulmuş çıtır tavuk rulolarından oluşan klasik bir yemektir. Dışı galeta unuyla kaplanıp kızartıldığı için dışı çıtır, içi ise erimiş peynir sayesinde yumuşak ve lezzetlidir. Genellikle patates püresi, makarna veya yeşil salata ile servis edilir ve hem ev yemeklerinde hem de restoran menülerinde oldukça popüler bir ana yemektir.</p>
-
-<h2 id="malzemeler">Malzemeler:</h2>
-
-<ul>
-  <li>2 adet tavuk göğsü</li>
-  <li>4 dilim dana jambon</li>
-  <li>4 dilim kaşar peyniri veya gruyere peyniri</li>
-  <li>1 su bardağı un</li>
-  <li>2 adet yumurta</li>
-  <li>1 su bardağı galeta unu</li>
-  <li>Tuz</li>
-  <li>Karabiber</li>
-  <li>Kızartmak için sıvı yağ</li>
-</ul>
-
-<h2 id="hazırlanışı">Hazırlanışı:</h2>
-
-<ol>
-  <li>Tavuk göğüslerini ortadan ikiye kesin ve streç film arasında et dövücü ile inceltin.</li>
-  <li>Üzerlerine tuz ve karabiber serpin.</li>
-  <li>Her tavuk parçasının üzerine bir dilim jambon ve bir dilim peynir yerleştirin.</li>
-  <li>Tavukları rulo şeklinde sarın ve gerekirse kürdanla sabitleyin.</li>
-  <li>Sırasıyla una, çırpılmış yumurtaya ve galeta ununa bulayın.</li>
-  <li>Tavada kızgın yağda her tarafı altın rengini alana kadar kızartın.</li>
-  <li>Fazla yağını almak için kağıt havlu üzerine alın ve sıcak servis yapın.</li>
-</ol>
-
-<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Fransız Mutfağı" /><summary type="html"><![CDATA[Chicken Cordon Bleu, Fransız mutfağından dünyaya yayılan ve içi peynir ile jambonla doldurulmuş çıtır tavuk rulolarından oluşan klasik bir yemektir. Dışı galeta unuyla kaplanıp kızartıldığı için dışı çıtır, içi ise erimiş peynir sayesinde yumuşak ve lezzetlidir. Genellikle patates püresi, makarna veya yeşil salata ile servis edilir ve hem ev yemeklerinde hem de restoran menülerinde oldukça popüler bir ana yemektir.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/chicken-cordon-bleu-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/chicken-cordon-bleu-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Afiyet olsun.</p>]]></content><author><name></name></author><category term="Türk Mutfağı" /><summary type="html"><![CDATA[Menemen, Türk mutfağının en sevilen kahvaltı yemeklerinden biridir ve özellikle taze domates, biber ve yumurtanın uyumuyla hazırlanır. Yapımı oldukça pratik olan bu yemek, farklı bölgelerde peynirli, soğanlı veya sucuklu gibi çeşitli yorumlarla hazırlanabilir. Sıcak tavada pişirilip genellikle taze ekmekle servis edilen menemen, hem doyurucu hem de lezzetli bir kahvaltı alternatifi olarak sofralarda sıkça yer alır.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/2026/03/menemen-tarifi.jpg" /><media:content medium="image" url="http://localhost:4000/images/2026/03/menemen-tarifi.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
