@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Gıda İsrafı ve Sürdürülebilirlik: Gelecekte Yemek Kültürü"
+image: 
+  path: /images/2025/01/gida-israfi-ve-surdurulebilirlik-gelecekte-yemek-kulturu.jpg
+  caption: "Fotoğraf [Magnific](https://www.magnific.com)"
 ---
 
 Dünyanın hızla artan nüfusu, azalan kaynaklar ve iklim krizi, yemek kültürünü yeniden tanımlamamızı zorunlu kılıyor. Gıda israfını azaltmak, yerel ürünleri desteklemek ve sürdürülebilir tarımı teşvik etmek, geleceğin mutfağının temel taşları olacak gibi görünüyor. Bu yaklaşımlar sadece doğal kaynakları korumakla kalmayıp, aynı zamanda yemek yeme alışkanlıklarımızın da daha bilinçli ve anlamlı hale gelmesini sağlıyor.

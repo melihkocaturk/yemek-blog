@@ -4,10 +4,12 @@ layout: default
 <main class="container">
   <div class="page-wrapper mx-auto">
     <article class="mb-5">
-      <figure class="figure">
-        <img src="{{ page.image.path }}" class="figure-img img-fluid" alt="{{ page.title }}">
-        <figcaption class="figure-caption text-end">{{ page.image.caption | markdownify }}</figcaption>
-      </figure>
+      {% if page.image.path %}
+        <figure class="figure">
+          <img src="{{ page.image.path }}" class="figure-img img-fluid" alt="{{ page.title }}">
+          <figcaption class="figure-caption text-end">{{ page.image.caption | markdownify }}</figcaption>
+        </figure>
+      {% endif %}
       <h1 class="mb-4 text-center">{{ page.title | escape }}</h1>
 
       {{ content }}

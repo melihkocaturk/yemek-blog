@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Mutfağınızda Atık Azaltma: Yiyecek İsrafını Önlemenin Yolları"
+image: 
+  path: /images/2025/01/mutfaginizda-atik-azaltma-yiyecek-israfini-onlemenin-yollari.jpg
+  caption: "Fotoğraf [Magnific](https://www.magnific.com)"
 ---
 
 Günlük hayatımızda farkında olmadan birçok yiyeceği israf edebiliyoruz. Mutfağımızda atık miktarını azaltarak hem çevreyi koruyabilir hem de bütçemizi daha verimli kullanabiliriz. İşte yiyecek israfını önlemenin bazı etkili yolları:

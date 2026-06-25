@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Yemek ve Kimlik: Mutfak Kültürüyle Bireysel ve Ulusal Kimlik İnşası"
+image: 
+  path: /images/2026/03/yemek-ve-kimlik.jpg
+  caption: "Fotoğraf [Magnific](https://www.magnific.com)"
 ---
 
 Yemek yalnızca fiziksel bir ihtiyaç değildir; aynı zamanda kültürün, tarihin ve kimliğin güçlü bir taşıyıcısıdır. İnsanların ne yediği, nasıl pişirdiği ve yemek etrafında nasıl bir sosyal hayat kurduğu; bireysel ve toplumsal kimliğin oluşumunda önemli bir rol oynar. Dünyanın farklı coğrafyalarında mutfak kültürü, insanların kim olduklarını anlatan sessiz fakat güçlü bir dil gibidir. Bu nedenle yemek, bir toplumun geçmişini, değerlerini ve aidiyet duygusunu yansıtan en önemli kültürel unsurlardan biri olarak kabul edilir.

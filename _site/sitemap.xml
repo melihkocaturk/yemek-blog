@@ -521,6 +521,10 @@
 <lastmod>2026-04-16T00:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/yemek-yasaklari-ve-tabular-kulturler-neden-bazi-yiyecekleri-tuketmez</loc>
+<lastmod>2026-06-24T00:00:00+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/ara</loc>
 </url>
 <url>
@@ -567,6 +571,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/sayfa13/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sayfa14/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/yandex_1f91cb126695c32b.html</loc>

@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Farklı Mutfakların Türk Mutfağı Üzerindeki Etkileri"
+image: 
+  path: /images/2025/01/farkli-mutfaklarin-turk-mutfagi-uzerindeki-etkileri.jpg
+  caption: "Fotoğraf [Magnific](https://www.magnific.com)"
 ---
 
 Türk mutfağı, tarih boyunca farklı coğrafyaların, kültürlerin ve geleneklerin etkisiyle şekillenmiş zengin bir mirasa sahiptir. Osmanlı İmparatorluğu'nun geniş sınırları, İpek Yolu gibi ticaret yollarının kesişim noktası olması ve farklı medeniyetlerle olan etkileşimler, Türk mutfağının benzersiz bir sentez haline gelmesine katkı sağlamıştır.

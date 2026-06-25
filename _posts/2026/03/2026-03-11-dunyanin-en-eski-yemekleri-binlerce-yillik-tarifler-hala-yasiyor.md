@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Dünyanın En Eski Yemekleri: Binlerce Yıllık Tarifler Hâlâ Yaşıyor"
+image: 
+  path: /images/2026/03/dunyanin-en-eski-yemekleri-binlerce-yillik-tarifler-hala-yasiyor.jpg
+  caption: "Fotoğraf [Magnific](https://www.magnific.com)"
 ---
 
 İnsanlık tarihi yalnızca savaşlar, imparatorluklar ve keşiflerden ibaret değildir. Aynı zamanda mutfakların, tatların ve tariflerin de tarihidir. Bugün sofralarımıza gelen bazı yemekler, binlerce yıl önce yaşayan insanların da sofralarında yer alıyordu. Üstelik bu tariflerin bir kısmı neredeyse hiç değişmeden günümüze kadar ulaştı.

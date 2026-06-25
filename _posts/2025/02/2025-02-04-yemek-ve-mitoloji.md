@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Yemek ve Mitoloji: Eski Hikayelerdeki Lezzetler"
+image: 
+  path: /images/2025/02/yemek-ve-mitoloji-eski-hikayelerdeki-lezzetler.jpg
+  caption: "Fotoğraf [Magnific](https://www.magnific.com)"
 ---
 
 Yemek, yalnızca hayatta kalmak için tükettiğimiz bir ihtiyaç değil, aynı zamanda kültürlerin, inançların ve mitolojilerin ayrılmaz bir parçasıdır. Antik dünyada gıdalar, tanrılara sunulan kutsal bir armağan, kahramanların yolculuklarında karşılarına çıkan büyülü nesneler veya bereketin ve refahın sembolleri olarak anlatılmıştır. Antik Yunan, Mezopotamya ve Osmanlı mitolojilerinde geçen bazı yiyecekleri ve onların anlamlarını detaylı bir şekilde inceleyelim.
